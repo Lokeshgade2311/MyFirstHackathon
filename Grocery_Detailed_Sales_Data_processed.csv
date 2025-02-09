@@ -1,0 +1,3151 @@
+Date,Category,Product,Sales Quantity,Stock Level,Weather,Local Event
+2024-01-01,Fruits,Mango,48,140,Sunny,Sports Event
+2024-01-01,Fruits,Banana,88,164,Sunny,No Event
+2024-01-01,Fruits,Apple,37,63,Rainy,Sports Event
+2024-01-01,Fruits,Orange,86,137,Cloudy,Holiday
+2024-01-01,Fruits,Grapes,19,86,Cloudy,No Event
+2024-01-01,Vegetables,Tomato,30,63,Sunny,No Event
+2024-01-01,Vegetables,Potato,25,113,Cloudy,Festival
+2024-01-01,Vegetables,Onion,41,109,Cloudy,No Event
+2024-01-01,Vegetables,Carrot,89,120,Sunny,No Event
+2024-01-01,Vegetables,Spinach,37,106,Sunny,No Event
+2024-01-01,Dairy,Milk,75,127,Sunny,Holiday
+2024-01-01,Dairy,Cheese,65,112,Rainy,No Event
+2024-01-01,Dairy,Butter,43,111,Sunny,No Event
+2024-01-01,Dairy,Yogurt,74,158,Rainy,No Event
+2024-01-01,Dairy,Paneer,6,47,Sunny,No Event
+2024-01-01,Beverages,Tea,20,90,Sunny,Festival
+2024-01-01,Beverages,Coffee,80,139,Rainy,Sports Event
+2024-01-01,Beverages,Juice,14,97,Cloudy,Festival
+2024-01-01,Beverages,Soda,68,119,Cloudy,Sports Event
+2024-01-01,Beverages,Energy Drink,30,117,Rainy,Festival
+2024-01-01,Bakery,Bread,19,117,Rainy,No Event
+2024-01-01,Bakery,Croissant,18,64,Sunny,No Event
+2024-01-01,Bakery,Cake,62,109,Rainy,No Event
+2024-01-01,Bakery,Biscuits,70,114,Rainy,No Event
+2024-01-01,Bakery,Muffin,48,109,Cloudy,No Event
+2024-01-01,Frozen Foods,Frozen Peas,56,98,Sunny,No Event
+2024-01-01,Frozen Foods,Ice Cream,47,85,Sunny,Holiday
+2024-01-01,Frozen Foods,Frozen Pizza,16,109,Sunny,No Event
+2024-01-01,Frozen Foods,French Fries,89,180,Cloudy,No Event
+2024-01-01,Frozen Foods,Chicken Nuggets,19,86,Rainy,No Event
+2024-01-01,Snacks,Chips,46,125,Rainy,Festival
+2024-01-01,Snacks,Popcorn,11,110,Cloudy,No Event
+2024-01-01,Snacks,Cookies,31,90,Rainy,No Event
+2024-01-01,Snacks,Chocolates,5,32,Sunny,Festival
+2024-01-01,Snacks,Dry Fruits,52,75,Rainy,No Event
+2024-01-02,Fruits,Mango,23,74,Sunny,Sports Event
+2024-01-02,Fruits,Banana,50,85,Sunny,No Event
+2024-01-02,Fruits,Apple,25,74,Sunny,No Event
+2024-01-02,Fruits,Orange,32,110,Cloudy,No Event
+2024-01-02,Fruits,Grapes,73,117,Cloudy,No Event
+2024-01-02,Vegetables,Tomato,29,68,Rainy,No Event
+2024-01-02,Vegetables,Potato,9,89,Sunny,No Event
+2024-01-02,Vegetables,Onion,54,79,Cloudy,Festival
+2024-01-02,Vegetables,Carrot,15,100,Cloudy,No Event
+2024-01-02,Vegetables,Spinach,77,99,Rainy,No Event
+2024-01-02,Dairy,Milk,25,72,Rainy,No Event
+2024-01-02,Dairy,Cheese,89,143,Rainy,No Event
+2024-01-02,Dairy,Butter,51,128,Cloudy,No Event
+2024-01-02,Dairy,Yogurt,52,93,Sunny,Sports Event
+2024-01-02,Dairy,Paneer,15,49,Cloudy,No Event
+2024-01-02,Beverages,Tea,88,123,Rainy,No Event
+2024-01-02,Beverages,Coffee,44,91,Cloudy,No Event
+2024-01-02,Beverages,Juice,77,116,Sunny,Sports Event
+2024-01-02,Beverages,Soda,91,173,Cloudy,No Event
+2024-01-02,Beverages,Energy Drink,29,95,Rainy,No Event
+2024-01-02,Bakery,Bread,25,101,Sunny,No Event
+2024-01-02,Bakery,Croissant,18,113,Sunny,Festival
+2024-01-02,Bakery,Cake,81,179,Rainy,No Event
+2024-01-02,Bakery,Biscuits,10,52,Cloudy,No Event
+2024-01-02,Bakery,Muffin,50,107,Rainy,Sports Event
+2024-01-02,Frozen Foods,Frozen Peas,76,157,Cloudy,No Event
+2024-01-02,Frozen Foods,Ice Cream,82,126,Rainy,Holiday
+2024-01-02,Frozen Foods,Frozen Pizza,91,132,Sunny,No Event
+2024-01-02,Frozen Foods,French Fries,55,77,Rainy,No Event
+2024-01-02,Frozen Foods,Chicken Nuggets,32,96,Cloudy,No Event
+2024-01-02,Snacks,Chips,77,115,Cloudy,No Event
+2024-01-02,Snacks,Popcorn,42,114,Sunny,No Event
+2024-01-02,Snacks,Cookies,85,134,Sunny,No Event
+2024-01-02,Snacks,Chocolates,56,89,Cloudy,No Event
+2024-01-02,Snacks,Dry Fruits,63,160,Rainy,No Event
+2024-01-03,Fruits,Mango,72,99,Rainy,No Event
+2024-01-03,Fruits,Banana,90,150,Cloudy,No Event
+2024-01-03,Fruits,Apple,20,101,Sunny,No Event
+2024-01-03,Fruits,Orange,16,70,Cloudy,Holiday
+2024-01-03,Fruits,Grapes,54,94,Sunny,No Event
+2024-01-03,Vegetables,Tomato,71,134,Sunny,Festival
+2024-01-03,Vegetables,Potato,77,157,Sunny,No Event
+2024-01-03,Vegetables,Onion,85,169,Sunny,No Event
+2024-01-03,Vegetables,Carrot,44,139,Rainy,No Event
+2024-01-03,Vegetables,Spinach,51,85,Sunny,No Event
+2024-01-03,Dairy,Milk,56,97,Sunny,No Event
+2024-01-03,Dairy,Cheese,24,72,Cloudy,No Event
+2024-01-03,Dairy,Butter,75,122,Rainy,Festival
+2024-01-03,Dairy,Yogurt,71,156,Rainy,No Event
+2024-01-03,Dairy,Paneer,5,96,Cloudy,No Event
+2024-01-03,Beverages,Tea,90,134,Rainy,No Event
+2024-01-03,Beverages,Coffee,16,41,Rainy,Holiday
+2024-01-03,Beverages,Juice,87,171,Sunny,No Event
+2024-01-03,Beverages,Soda,44,77,Cloudy,No Event
+2024-01-03,Beverages,Energy Drink,88,163,Sunny,No Event
+2024-01-03,Bakery,Bread,53,118,Sunny,No Event
+2024-01-03,Bakery,Croissant,47,86,Sunny,No Event
+2024-01-03,Bakery,Cake,89,157,Rainy,No Event
+2024-01-03,Bakery,Biscuits,58,86,Sunny,No Event
+2024-01-03,Bakery,Muffin,21,61,Cloudy,Sports Event
+2024-01-03,Frozen Foods,Frozen Peas,59,119,Cloudy,No Event
+2024-01-03,Frozen Foods,Ice Cream,15,53,Cloudy,No Event
+2024-01-03,Frozen Foods,Frozen Pizza,50,114,Sunny,No Event
+2024-01-03,Frozen Foods,French Fries,23,118,Sunny,Festival
+2024-01-03,Frozen Foods,Chicken Nuggets,16,96,Sunny,Sports Event
+2024-01-03,Snacks,Chips,96,184,Sunny,No Event
+2024-01-03,Snacks,Popcorn,91,140,Sunny,Sports Event
+2024-01-03,Snacks,Cookies,53,119,Rainy,No Event
+2024-01-03,Snacks,Chocolates,72,124,Cloudy,No Event
+2024-01-03,Snacks,Dry Fruits,23,70,Sunny,No Event
+2024-01-04,Fruits,Mango,19,79,Cloudy,No Event
+2024-01-04,Fruits,Banana,33,126,Rainy,Sports Event
+2024-01-04,Fruits,Apple,81,110,Rainy,No Event
+2024-01-04,Fruits,Orange,77,135,Cloudy,Festival
+2024-01-04,Fruits,Grapes,31,52,Sunny,No Event
+2024-01-04,Vegetables,Tomato,20,79,Rainy,No Event
+2024-01-04,Vegetables,Potato,16,70,Cloudy,No Event
+2024-01-04,Vegetables,Onion,49,147,Rainy,Holiday
+2024-01-04,Vegetables,Carrot,66,134,Cloudy,No Event
+2024-01-04,Vegetables,Spinach,27,70,Sunny,No Event
+2024-01-04,Dairy,Milk,25,98,Cloudy,No Event
+2024-01-04,Dairy,Cheese,49,141,Sunny,Sports Event
+2024-01-04,Dairy,Butter,34,113,Rainy,No Event
+2024-01-04,Dairy,Yogurt,71,118,Cloudy,Festival
+2024-01-04,Dairy,Paneer,27,121,Rainy,No Event
+2024-01-04,Beverages,Tea,37,80,Cloudy,No Event
+2024-01-04,Beverages,Coffee,32,88,Cloudy,No Event
+2024-01-04,Beverages,Juice,60,144,Sunny,Holiday
+2024-01-04,Beverages,Soda,23,71,Rainy,No Event
+2024-01-04,Beverages,Energy Drink,96,150,Cloudy,No Event
+2024-01-04,Bakery,Bread,95,125,Sunny,No Event
+2024-01-04,Bakery,Croissant,68,156,Rainy,Sports Event
+2024-01-04,Bakery,Cake,60,155,Rainy,No Event
+2024-01-04,Bakery,Biscuits,8,77,Sunny,No Event
+2024-01-04,Bakery,Muffin,92,170,Cloudy,Holiday
+2024-01-04,Frozen Foods,Frozen Peas,8,53,Cloudy,No Event
+2024-01-04,Frozen Foods,Ice Cream,68,138,Rainy,No Event
+2024-01-04,Frozen Foods,Frozen Pizza,19,68,Rainy,Holiday
+2024-01-04,Frozen Foods,French Fries,41,102,Sunny,No Event
+2024-01-04,Frozen Foods,Chicken Nuggets,10,97,Rainy,Sports Event
+2024-01-04,Snacks,Chips,33,129,Cloudy,Holiday
+2024-01-04,Snacks,Popcorn,21,62,Sunny,No Event
+2024-01-04,Snacks,Cookies,53,85,Rainy,No Event
+2024-01-04,Snacks,Chocolates,57,127,Cloudy,No Event
+2024-01-04,Snacks,Dry Fruits,36,106,Rainy,No Event
+2024-01-05,Fruits,Mango,50,90,Cloudy,No Event
+2024-01-05,Fruits,Banana,5,87,Sunny,No Event
+2024-01-05,Fruits,Apple,15,85,Sunny,Holiday
+2024-01-05,Fruits,Orange,86,129,Rainy,No Event
+2024-01-05,Fruits,Grapes,89,116,Sunny,No Event
+2024-01-05,Vegetables,Tomato,40,78,Cloudy,Holiday
+2024-01-05,Vegetables,Potato,15,88,Sunny,No Event
+2024-01-05,Vegetables,Onion,25,55,Cloudy,No Event
+2024-01-05,Vegetables,Carrot,85,160,Sunny,Sports Event
+2024-01-05,Vegetables,Spinach,16,105,Sunny,Holiday
+2024-01-05,Dairy,Milk,30,97,Rainy,No Event
+2024-01-05,Dairy,Cheese,79,131,Rainy,Festival
+2024-01-05,Dairy,Butter,19,65,Cloudy,Holiday
+2024-01-05,Dairy,Yogurt,85,155,Sunny,Holiday
+2024-01-05,Dairy,Paneer,86,156,Cloudy,Festival
+2024-01-05,Beverages,Tea,8,34,Sunny,No Event
+2024-01-05,Beverages,Coffee,77,168,Sunny,No Event
+2024-01-05,Beverages,Juice,76,114,Cloudy,Sports Event
+2024-01-05,Beverages,Soda,63,151,Sunny,Holiday
+2024-01-05,Beverages,Energy Drink,65,115,Cloudy,No Event
+2024-01-05,Bakery,Bread,26,88,Cloudy,No Event
+2024-01-05,Bakery,Croissant,46,129,Rainy,No Event
+2024-01-05,Bakery,Cake,80,165,Sunny,No Event
+2024-01-05,Bakery,Biscuits,60,109,Sunny,Festival
+2024-01-05,Bakery,Muffin,39,77,Rainy,No Event
+2024-01-05,Frozen Foods,Frozen Peas,75,124,Cloudy,No Event
+2024-01-05,Frozen Foods,Ice Cream,40,84,Sunny,Festival
+2024-01-05,Frozen Foods,Frozen Pizza,41,73,Sunny,Sports Event
+2024-01-05,Frozen Foods,French Fries,77,97,Cloudy,No Event
+2024-01-05,Frozen Foods,Chicken Nuggets,27,55,Rainy,No Event
+2024-01-05,Snacks,Chips,8,57,Cloudy,No Event
+2024-01-05,Snacks,Popcorn,76,98,Rainy,Sports Event
+2024-01-05,Snacks,Cookies,49,102,Sunny,Holiday
+2024-01-05,Snacks,Chocolates,20,105,Sunny,No Event
+2024-01-05,Snacks,Dry Fruits,20,99,Rainy,No Event
+2024-01-06,Fruits,Mango,17,92,Cloudy,No Event
+2024-01-06,Fruits,Banana,38,96,Cloudy,Sports Event
+2024-01-06,Fruits,Apple,82,156,Cloudy,No Event
+2024-01-06,Fruits,Orange,57,115,Sunny,No Event
+2024-01-06,Fruits,Grapes,34,106,Sunny,No Event
+2024-01-06,Vegetables,Tomato,57,95,Sunny,Festival
+2024-01-06,Vegetables,Potato,35,109,Cloudy,Sports Event
+2024-01-06,Vegetables,Onion,78,107,Rainy,No Event
+2024-01-06,Vegetables,Carrot,36,69,Rainy,Festival
+2024-01-06,Vegetables,Spinach,57,100,Cloudy,No Event
+2024-01-06,Dairy,Milk,67,90,Sunny,Holiday
+2024-01-06,Dairy,Cheese,12,43,Cloudy,No Event
+2024-01-06,Dairy,Butter,38,132,Sunny,Festival
+2024-01-06,Dairy,Yogurt,83,159,Cloudy,No Event
+2024-01-06,Dairy,Paneer,97,142,Rainy,No Event
+2024-01-06,Beverages,Tea,42,111,Sunny,No Event
+2024-01-06,Beverages,Coffee,48,131,Sunny,Holiday
+2024-01-06,Beverages,Juice,69,107,Sunny,Sports Event
+2024-01-06,Beverages,Soda,48,135,Rainy,Sports Event
+2024-01-06,Beverages,Energy Drink,17,85,Rainy,No Event
+2024-01-06,Bakery,Bread,80,150,Sunny,No Event
+2024-01-06,Bakery,Croissant,91,139,Sunny,Holiday
+2024-01-06,Bakery,Cake,93,167,Rainy,No Event
+2024-01-06,Bakery,Biscuits,89,129,Cloudy,No Event
+2024-01-06,Bakery,Muffin,37,80,Cloudy,Holiday
+2024-01-06,Frozen Foods,Frozen Peas,51,95,Rainy,No Event
+2024-01-06,Frozen Foods,Ice Cream,88,119,Sunny,No Event
+2024-01-06,Frozen Foods,Frozen Pizza,52,99,Sunny,No Event
+2024-01-06,Frozen Foods,French Fries,22,119,Cloudy,No Event
+2024-01-06,Frozen Foods,Chicken Nuggets,75,107,Rainy,No Event
+2024-01-06,Snacks,Chips,35,56,Sunny,No Event
+2024-01-06,Snacks,Popcorn,79,152,Rainy,No Event
+2024-01-06,Snacks,Cookies,91,155,Sunny,No Event
+2024-01-06,Snacks,Chocolates,92,119,Cloudy,No Event
+2024-01-06,Snacks,Dry Fruits,7,54,Rainy,No Event
+2024-01-07,Fruits,Mango,25,72,Rainy,No Event
+2024-01-07,Fruits,Banana,25,57,Sunny,Sports Event
+2024-01-07,Fruits,Apple,58,87,Sunny,No Event
+2024-01-07,Fruits,Orange,57,150,Rainy,No Event
+2024-01-07,Fruits,Grapes,28,49,Rainy,Festival
+2024-01-07,Vegetables,Tomato,18,47,Cloudy,No Event
+2024-01-07,Vegetables,Potato,21,52,Rainy,No Event
+2024-01-07,Vegetables,Onion,33,95,Sunny,Holiday
+2024-01-07,Vegetables,Carrot,64,148,Cloudy,Festival
+2024-01-07,Vegetables,Spinach,51,128,Cloudy,No Event
+2024-01-07,Dairy,Milk,46,124,Cloudy,Sports Event
+2024-01-07,Dairy,Cheese,38,94,Rainy,No Event
+2024-01-07,Dairy,Butter,29,81,Cloudy,No Event
+2024-01-07,Dairy,Yogurt,61,92,Cloudy,No Event
+2024-01-07,Dairy,Paneer,81,107,Cloudy,No Event
+2024-01-07,Beverages,Tea,36,130,Sunny,No Event
+2024-01-07,Beverages,Coffee,76,140,Rainy,No Event
+2024-01-07,Beverages,Juice,71,119,Sunny,Holiday
+2024-01-07,Beverages,Soda,32,128,Cloudy,No Event
+2024-01-07,Beverages,Energy Drink,48,71,Rainy,Holiday
+2024-01-07,Bakery,Bread,9,84,Rainy,No Event
+2024-01-07,Bakery,Croissant,36,83,Rainy,No Event
+2024-01-07,Bakery,Cake,63,153,Rainy,Sports Event
+2024-01-07,Bakery,Biscuits,29,58,Cloudy,No Event
+2024-01-07,Bakery,Muffin,15,111,Sunny,No Event
+2024-01-07,Frozen Foods,Frozen Peas,72,119,Cloudy,No Event
+2024-01-07,Frozen Foods,Ice Cream,53,119,Rainy,No Event
+2024-01-07,Frozen Foods,Frozen Pizza,64,140,Cloudy,No Event
+2024-01-07,Frozen Foods,French Fries,50,95,Sunny,Holiday
+2024-01-07,Frozen Foods,Chicken Nuggets,88,159,Sunny,No Event
+2024-01-07,Snacks,Chips,58,110,Rainy,No Event
+2024-01-07,Snacks,Popcorn,19,99,Rainy,No Event
+2024-01-07,Snacks,Cookies,73,98,Rainy,Holiday
+2024-01-07,Snacks,Chocolates,66,163,Rainy,No Event
+2024-01-07,Snacks,Dry Fruits,99,121,Rainy,Sports Event
+2024-01-08,Fruits,Mango,12,75,Sunny,No Event
+2024-01-08,Fruits,Banana,37,131,Sunny,No Event
+2024-01-08,Fruits,Apple,99,146,Rainy,No Event
+2024-01-08,Fruits,Orange,72,139,Cloudy,Holiday
+2024-01-08,Fruits,Grapes,80,110,Sunny,No Event
+2024-01-08,Vegetables,Tomato,23,97,Rainy,No Event
+2024-01-08,Vegetables,Potato,30,55,Cloudy,Festival
+2024-01-08,Vegetables,Onion,21,83,Sunny,Holiday
+2024-01-08,Vegetables,Carrot,38,65,Sunny,Sports Event
+2024-01-08,Vegetables,Spinach,98,182,Cloudy,No Event
+2024-01-08,Dairy,Milk,63,126,Sunny,Sports Event
+2024-01-08,Dairy,Cheese,40,87,Rainy,Sports Event
+2024-01-08,Dairy,Butter,89,150,Rainy,No Event
+2024-01-08,Dairy,Yogurt,52,93,Sunny,No Event
+2024-01-08,Dairy,Paneer,97,183,Sunny,No Event
+2024-01-08,Beverages,Tea,13,86,Cloudy,Holiday
+2024-01-08,Beverages,Coffee,5,56,Sunny,Festival
+2024-01-08,Beverages,Juice,71,110,Sunny,No Event
+2024-01-08,Beverages,Soda,95,192,Sunny,Festival
+2024-01-08,Beverages,Energy Drink,97,169,Cloudy,No Event
+2024-01-08,Bakery,Bread,69,89,Rainy,Sports Event
+2024-01-08,Bakery,Croissant,24,53,Cloudy,No Event
+2024-01-08,Bakery,Cake,9,93,Sunny,No Event
+2024-01-08,Bakery,Biscuits,45,132,Sunny,Festival
+2024-01-08,Bakery,Muffin,60,130,Sunny,No Event
+2024-01-08,Frozen Foods,Frozen Peas,30,68,Sunny,No Event
+2024-01-08,Frozen Foods,Ice Cream,51,141,Rainy,Sports Event
+2024-01-08,Frozen Foods,Frozen Pizza,25,122,Cloudy,No Event
+2024-01-08,Frozen Foods,French Fries,19,46,Sunny,No Event
+2024-01-08,Frozen Foods,Chicken Nuggets,50,97,Rainy,No Event
+2024-01-08,Snacks,Chips,72,106,Cloudy,No Event
+2024-01-08,Snacks,Popcorn,71,114,Cloudy,Sports Event
+2024-01-08,Snacks,Cookies,65,120,Rainy,Festival
+2024-01-08,Snacks,Chocolates,28,51,Cloudy,No Event
+2024-01-08,Snacks,Dry Fruits,53,125,Cloudy,Holiday
+2024-01-09,Fruits,Mango,99,171,Rainy,No Event
+2024-01-09,Fruits,Banana,64,137,Rainy,No Event
+2024-01-09,Fruits,Apple,14,73,Cloudy,No Event
+2024-01-09,Fruits,Orange,89,169,Cloudy,Sports Event
+2024-01-09,Fruits,Grapes,90,156,Rainy,Festival
+2024-01-09,Vegetables,Tomato,40,100,Sunny,Festival
+2024-01-09,Vegetables,Potato,62,131,Rainy,No Event
+2024-01-09,Vegetables,Onion,29,75,Cloudy,No Event
+2024-01-09,Vegetables,Carrot,51,109,Rainy,No Event
+2024-01-09,Vegetables,Spinach,25,116,Sunny,No Event
+2024-01-09,Dairy,Milk,35,96,Rainy,No Event
+2024-01-09,Dairy,Cheese,38,66,Sunny,Holiday
+2024-01-09,Dairy,Butter,14,50,Cloudy,Festival
+2024-01-09,Dairy,Yogurt,25,109,Cloudy,No Event
+2024-01-09,Dairy,Paneer,40,125,Cloudy,Festival
+2024-01-09,Beverages,Tea,74,94,Cloudy,No Event
+2024-01-09,Beverages,Coffee,43,119,Sunny,No Event
+2024-01-09,Beverages,Juice,45,137,Sunny,No Event
+2024-01-09,Beverages,Soda,88,159,Sunny,Sports Event
+2024-01-09,Beverages,Energy Drink,67,135,Cloudy,No Event
+2024-01-09,Bakery,Bread,68,152,Sunny,No Event
+2024-01-09,Bakery,Croissant,19,70,Rainy,No Event
+2024-01-09,Bakery,Cake,47,101,Rainy,Festival
+2024-01-09,Bakery,Biscuits,18,71,Sunny,No Event
+2024-01-09,Bakery,Muffin,92,170,Sunny,Sports Event
+2024-01-09,Frozen Foods,Frozen Peas,53,112,Cloudy,No Event
+2024-01-09,Frozen Foods,Ice Cream,73,119,Rainy,No Event
+2024-01-09,Frozen Foods,Frozen Pizza,68,149,Cloudy,Holiday
+2024-01-09,Frozen Foods,French Fries,84,146,Rainy,Sports Event
+2024-01-09,Frozen Foods,Chicken Nuggets,99,186,Cloudy,No Event
+2024-01-09,Snacks,Chips,26,102,Sunny,No Event
+2024-01-09,Snacks,Popcorn,82,157,Cloudy,No Event
+2024-01-09,Snacks,Cookies,20,90,Rainy,No Event
+2024-01-09,Snacks,Chocolates,76,107,Rainy,No Event
+2024-01-09,Snacks,Dry Fruits,9,55,Sunny,Holiday
+2024-01-10,Fruits,Mango,9,85,Rainy,No Event
+2024-01-10,Fruits,Banana,63,115,Rainy,No Event
+2024-01-10,Fruits,Apple,23,111,Cloudy,No Event
+2024-01-10,Fruits,Orange,51,109,Sunny,No Event
+2024-01-10,Fruits,Grapes,58,84,Cloudy,No Event
+2024-01-10,Vegetables,Tomato,91,129,Rainy,No Event
+2024-01-10,Vegetables,Potato,24,72,Rainy,Holiday
+2024-01-10,Vegetables,Onion,61,88,Rainy,No Event
+2024-01-10,Vegetables,Carrot,78,114,Rainy,Holiday
+2024-01-10,Vegetables,Spinach,73,120,Rainy,No Event
+2024-01-10,Dairy,Milk,86,146,Sunny,No Event
+2024-01-10,Dairy,Cheese,80,170,Cloudy,No Event
+2024-01-10,Dairy,Butter,93,147,Rainy,No Event
+2024-01-10,Dairy,Yogurt,78,135,Rainy,No Event
+2024-01-10,Dairy,Paneer,59,117,Cloudy,No Event
+2024-01-10,Beverages,Tea,24,84,Rainy,No Event
+2024-01-10,Beverages,Coffee,23,108,Rainy,No Event
+2024-01-10,Beverages,Juice,26,112,Rainy,No Event
+2024-01-10,Beverages,Soda,14,106,Sunny,No Event
+2024-01-10,Beverages,Energy Drink,74,152,Cloudy,No Event
+2024-01-10,Bakery,Bread,33,120,Sunny,No Event
+2024-01-10,Bakery,Croissant,93,122,Sunny,Holiday
+2024-01-10,Bakery,Cake,26,96,Sunny,No Event
+2024-01-10,Bakery,Biscuits,26,75,Sunny,No Event
+2024-01-10,Bakery,Muffin,69,133,Cloudy,No Event
+2024-01-10,Frozen Foods,Frozen Peas,40,60,Rainy,No Event
+2024-01-10,Frozen Foods,Ice Cream,50,101,Rainy,Holiday
+2024-01-10,Frozen Foods,Frozen Pizza,21,114,Rainy,Festival
+2024-01-10,Frozen Foods,French Fries,54,108,Cloudy,No Event
+2024-01-10,Frozen Foods,Chicken Nuggets,29,76,Cloudy,No Event
+2024-01-10,Snacks,Chips,97,189,Cloudy,No Event
+2024-01-10,Snacks,Popcorn,96,132,Cloudy,No Event
+2024-01-10,Snacks,Cookies,46,115,Sunny,No Event
+2024-01-10,Snacks,Chocolates,27,98,Cloudy,No Event
+2024-01-10,Snacks,Dry Fruits,73,135,Rainy,No Event
+2024-01-11,Fruits,Mango,65,134,Cloudy,No Event
+2024-01-11,Fruits,Banana,37,131,Rainy,No Event
+2024-01-11,Fruits,Apple,14,71,Cloudy,Sports Event
+2024-01-11,Fruits,Orange,63,145,Sunny,Festival
+2024-01-11,Fruits,Grapes,7,100,Rainy,Festival
+2024-01-11,Vegetables,Tomato,95,122,Cloudy,Festival
+2024-01-11,Vegetables,Potato,85,177,Sunny,No Event
+2024-01-11,Vegetables,Onion,93,151,Sunny,Sports Event
+2024-01-11,Vegetables,Carrot,58,114,Sunny,No Event
+2024-01-11,Vegetables,Spinach,63,84,Sunny,Sports Event
+2024-01-11,Dairy,Milk,64,123,Rainy,No Event
+2024-01-11,Dairy,Cheese,41,139,Rainy,Sports Event
+2024-01-11,Dairy,Butter,26,56,Rainy,No Event
+2024-01-11,Dairy,Yogurt,8,34,Sunny,No Event
+2024-01-11,Dairy,Paneer,92,179,Cloudy,No Event
+2024-01-11,Beverages,Tea,7,104,Rainy,No Event
+2024-01-11,Beverages,Coffee,5,62,Sunny,No Event
+2024-01-11,Beverages,Juice,9,102,Sunny,Festival
+2024-01-11,Beverages,Soda,71,137,Cloudy,No Event
+2024-01-11,Beverages,Energy Drink,73,93,Cloudy,No Event
+2024-01-11,Bakery,Bread,27,71,Sunny,Festival
+2024-01-11,Bakery,Croissant,56,100,Sunny,No Event
+2024-01-11,Bakery,Cake,36,110,Sunny,No Event
+2024-01-11,Bakery,Biscuits,53,130,Cloudy,No Event
+2024-01-11,Bakery,Muffin,89,169,Sunny,No Event
+2024-01-11,Frozen Foods,Frozen Peas,39,97,Rainy,No Event
+2024-01-11,Frozen Foods,Ice Cream,9,70,Cloudy,Sports Event
+2024-01-11,Frozen Foods,Frozen Pizza,91,190,Cloudy,No Event
+2024-01-11,Frozen Foods,French Fries,90,182,Sunny,No Event
+2024-01-11,Frozen Foods,Chicken Nuggets,91,123,Rainy,No Event
+2024-01-11,Snacks,Chips,27,91,Sunny,Festival
+2024-01-11,Snacks,Popcorn,89,174,Sunny,Festival
+2024-01-11,Snacks,Cookies,22,63,Rainy,No Event
+2024-01-11,Snacks,Chocolates,85,136,Rainy,Sports Event
+2024-01-11,Snacks,Dry Fruits,14,69,Rainy,No Event
+2024-01-12,Fruits,Mango,32,62,Rainy,No Event
+2024-01-12,Fruits,Banana,51,89,Rainy,No Event
+2024-01-12,Fruits,Apple,32,75,Cloudy,No Event
+2024-01-12,Fruits,Orange,51,103,Rainy,Sports Event
+2024-01-12,Fruits,Grapes,71,164,Cloudy,Festival
+2024-01-12,Vegetables,Tomato,33,102,Rainy,No Event
+2024-01-12,Vegetables,Potato,5,58,Sunny,No Event
+2024-01-12,Vegetables,Onion,81,148,Sunny,No Event
+2024-01-12,Vegetables,Carrot,65,113,Cloudy,No Event
+2024-01-12,Vegetables,Spinach,30,66,Cloudy,No Event
+2024-01-12,Dairy,Milk,30,98,Cloudy,No Event
+2024-01-12,Dairy,Cheese,53,125,Sunny,No Event
+2024-01-12,Dairy,Butter,21,83,Sunny,No Event
+2024-01-12,Dairy,Yogurt,7,105,Sunny,No Event
+2024-01-12,Dairy,Paneer,36,81,Sunny,Festival
+2024-01-12,Beverages,Tea,77,152,Sunny,No Event
+2024-01-12,Beverages,Coffee,90,189,Sunny,No Event
+2024-01-12,Beverages,Juice,55,145,Rainy,No Event
+2024-01-12,Beverages,Soda,23,108,Sunny,Sports Event
+2024-01-12,Beverages,Energy Drink,7,37,Sunny,No Event
+2024-01-12,Bakery,Bread,61,98,Cloudy,No Event
+2024-01-12,Bakery,Croissant,70,97,Rainy,No Event
+2024-01-12,Bakery,Cake,61,116,Cloudy,No Event
+2024-01-12,Bakery,Biscuits,61,129,Sunny,No Event
+2024-01-12,Bakery,Muffin,81,145,Rainy,No Event
+2024-01-12,Frozen Foods,Frozen Peas,68,154,Cloudy,No Event
+2024-01-12,Frozen Foods,Ice Cream,82,165,Cloudy,Festival
+2024-01-12,Frozen Foods,Frozen Pizza,8,87,Cloudy,No Event
+2024-01-12,Frozen Foods,French Fries,95,144,Cloudy,Sports Event
+2024-01-12,Frozen Foods,Chicken Nuggets,53,81,Cloudy,Sports Event
+2024-01-12,Snacks,Chips,65,163,Sunny,No Event
+2024-01-12,Snacks,Popcorn,77,154,Sunny,No Event
+2024-01-12,Snacks,Cookies,66,124,Rainy,Festival
+2024-01-12,Snacks,Chocolates,87,170,Sunny,No Event
+2024-01-12,Snacks,Dry Fruits,96,124,Cloudy,Sports Event
+2024-01-13,Fruits,Mango,33,110,Sunny,No Event
+2024-01-13,Fruits,Banana,99,121,Sunny,No Event
+2024-01-13,Fruits,Apple,40,121,Rainy,No Event
+2024-01-13,Fruits,Orange,65,97,Cloudy,No Event
+2024-01-13,Fruits,Grapes,12,90,Sunny,No Event
+2024-01-13,Vegetables,Tomato,63,84,Rainy,Sports Event
+2024-01-13,Vegetables,Potato,14,77,Cloudy,No Event
+2024-01-13,Vegetables,Onion,85,106,Rainy,No Event
+2024-01-13,Vegetables,Carrot,94,136,Rainy,Holiday
+2024-01-13,Vegetables,Spinach,66,123,Sunny,No Event
+2024-01-13,Dairy,Milk,42,128,Rainy,No Event
+2024-01-13,Dairy,Cheese,98,162,Sunny,No Event
+2024-01-13,Dairy,Butter,17,63,Cloudy,No Event
+2024-01-13,Dairy,Yogurt,57,155,Cloudy,Festival
+2024-01-13,Dairy,Paneer,27,116,Rainy,No Event
+2024-01-13,Beverages,Tea,80,132,Sunny,No Event
+2024-01-13,Beverages,Coffee,26,115,Sunny,Sports Event
+2024-01-13,Beverages,Juice,39,137,Sunny,No Event
+2024-01-13,Beverages,Soda,50,119,Rainy,No Event
+2024-01-13,Beverages,Energy Drink,63,111,Cloudy,Holiday
+2024-01-13,Bakery,Bread,22,43,Cloudy,Sports Event
+2024-01-13,Bakery,Croissant,42,109,Cloudy,Holiday
+2024-01-13,Bakery,Cake,47,127,Cloudy,Sports Event
+2024-01-13,Bakery,Biscuits,65,158,Cloudy,Holiday
+2024-01-13,Bakery,Muffin,39,73,Sunny,No Event
+2024-01-13,Frozen Foods,Frozen Peas,39,133,Cloudy,Sports Event
+2024-01-13,Frozen Foods,Ice Cream,58,152,Rainy,No Event
+2024-01-13,Frozen Foods,Frozen Pizza,52,106,Rainy,No Event
+2024-01-13,Frozen Foods,French Fries,82,125,Rainy,Festival
+2024-01-13,Frozen Foods,Chicken Nuggets,36,110,Cloudy,No Event
+2024-01-13,Snacks,Chips,62,84,Sunny,Sports Event
+2024-01-13,Snacks,Popcorn,14,58,Sunny,No Event
+2024-01-13,Snacks,Cookies,23,85,Rainy,Festival
+2024-01-13,Snacks,Chocolates,47,91,Cloudy,Sports Event
+2024-01-13,Snacks,Dry Fruits,15,89,Sunny,No Event
+2024-01-14,Fruits,Mango,9,79,Sunny,Holiday
+2024-01-14,Fruits,Banana,8,69,Rainy,No Event
+2024-01-14,Fruits,Apple,79,130,Cloudy,Sports Event
+2024-01-14,Fruits,Orange,31,105,Rainy,No Event
+2024-01-14,Fruits,Grapes,91,185,Sunny,No Event
+2024-01-14,Vegetables,Tomato,91,151,Cloudy,No Event
+2024-01-14,Vegetables,Potato,58,151,Rainy,No Event
+2024-01-14,Vegetables,Onion,68,158,Sunny,No Event
+2024-01-14,Vegetables,Carrot,80,121,Rainy,No Event
+2024-01-14,Vegetables,Spinach,85,150,Rainy,No Event
+2024-01-14,Dairy,Milk,54,106,Cloudy,No Event
+2024-01-14,Dairy,Cheese,83,114,Rainy,No Event
+2024-01-14,Dairy,Butter,42,64,Rainy,No Event
+2024-01-14,Dairy,Yogurt,81,166,Sunny,Sports Event
+2024-01-14,Dairy,Paneer,70,125,Rainy,No Event
+2024-01-14,Beverages,Tea,76,135,Cloudy,No Event
+2024-01-14,Beverages,Coffee,12,60,Rainy,No Event
+2024-01-14,Beverages,Juice,88,162,Rainy,No Event
+2024-01-14,Beverages,Soda,11,110,Sunny,Holiday
+2024-01-14,Beverages,Energy Drink,60,127,Cloudy,Festival
+2024-01-14,Bakery,Bread,92,184,Cloudy,No Event
+2024-01-14,Bakery,Croissant,41,117,Cloudy,Sports Event
+2024-01-14,Bakery,Cake,98,137,Cloudy,No Event
+2024-01-14,Bakery,Biscuits,16,84,Sunny,Sports Event
+2024-01-14,Bakery,Muffin,98,146,Cloudy,No Event
+2024-01-14,Frozen Foods,Frozen Peas,54,144,Rainy,No Event
+2024-01-14,Frozen Foods,Ice Cream,24,93,Rainy,Holiday
+2024-01-14,Frozen Foods,Frozen Pizza,36,107,Cloudy,No Event
+2024-01-14,Frozen Foods,French Fries,7,63,Rainy,No Event
+2024-01-14,Frozen Foods,Chicken Nuggets,76,135,Cloudy,Festival
+2024-01-14,Snacks,Chips,68,95,Sunny,No Event
+2024-01-14,Snacks,Popcorn,64,93,Cloudy,No Event
+2024-01-14,Snacks,Cookies,40,72,Sunny,No Event
+2024-01-14,Snacks,Chocolates,8,91,Rainy,Sports Event
+2024-01-14,Snacks,Dry Fruits,91,132,Rainy,Sports Event
+2024-01-15,Fruits,Mango,15,80,Rainy,No Event
+2024-01-15,Fruits,Banana,14,73,Rainy,No Event
+2024-01-15,Fruits,Apple,48,127,Rainy,Sports Event
+2024-01-15,Fruits,Orange,69,145,Cloudy,No Event
+2024-01-15,Fruits,Grapes,60,88,Rainy,Festival
+2024-01-15,Vegetables,Tomato,52,89,Cloudy,Holiday
+2024-01-15,Vegetables,Potato,21,55,Rainy,No Event
+2024-01-15,Vegetables,Onion,67,125,Sunny,Holiday
+2024-01-15,Vegetables,Carrot,13,72,Rainy,No Event
+2024-01-15,Vegetables,Spinach,86,182,Sunny,No Event
+2024-01-15,Dairy,Milk,48,105,Cloudy,No Event
+2024-01-15,Dairy,Cheese,52,89,Cloudy,No Event
+2024-01-15,Dairy,Butter,63,144,Sunny,Sports Event
+2024-01-15,Dairy,Yogurt,10,106,Sunny,No Event
+2024-01-15,Dairy,Paneer,18,91,Cloudy,Holiday
+2024-01-15,Beverages,Tea,81,132,Cloudy,No Event
+2024-01-15,Beverages,Coffee,42,114,Rainy,Sports Event
+2024-01-15,Beverages,Juice,7,106,Rainy,No Event
+2024-01-15,Beverages,Soda,42,133,Cloudy,No Event
+2024-01-15,Beverages,Energy Drink,61,86,Rainy,No Event
+2024-01-15,Bakery,Bread,14,36,Cloudy,No Event
+2024-01-15,Bakery,Croissant,63,113,Sunny,Festival
+2024-01-15,Bakery,Cake,66,137,Sunny,No Event
+2024-01-15,Bakery,Biscuits,35,76,Sunny,No Event
+2024-01-15,Bakery,Muffin,46,114,Sunny,No Event
+2024-01-15,Frozen Foods,Frozen Peas,40,60,Cloudy,No Event
+2024-01-15,Frozen Foods,Ice Cream,28,105,Rainy,Holiday
+2024-01-15,Frozen Foods,Frozen Pizza,27,92,Cloudy,No Event
+2024-01-15,Frozen Foods,French Fries,63,95,Cloudy,No Event
+2024-01-15,Frozen Foods,Chicken Nuggets,32,112,Cloudy,No Event
+2024-01-15,Snacks,Chips,86,122,Rainy,Holiday
+2024-01-15,Snacks,Popcorn,97,129,Cloudy,No Event
+2024-01-15,Snacks,Cookies,25,99,Sunny,No Event
+2024-01-15,Snacks,Chocolates,19,111,Rainy,Festival
+2024-01-15,Snacks,Dry Fruits,57,128,Rainy,No Event
+2024-01-16,Fruits,Mango,56,84,Rainy,Holiday
+2024-01-16,Fruits,Banana,48,142,Rainy,No Event
+2024-01-16,Fruits,Apple,36,70,Sunny,Festival
+2024-01-16,Fruits,Orange,61,88,Cloudy,No Event
+2024-01-16,Fruits,Grapes,69,130,Rainy,No Event
+2024-01-16,Vegetables,Tomato,47,83,Sunny,No Event
+2024-01-16,Vegetables,Potato,97,156,Cloudy,Holiday
+2024-01-16,Vegetables,Onion,90,159,Rainy,No Event
+2024-01-16,Vegetables,Carrot,68,141,Sunny,No Event
+2024-01-16,Vegetables,Spinach,15,83,Sunny,Holiday
+2024-01-16,Dairy,Milk,67,114,Cloudy,No Event
+2024-01-16,Dairy,Cheese,23,98,Rainy,No Event
+2024-01-16,Dairy,Butter,42,98,Cloudy,No Event
+2024-01-16,Dairy,Yogurt,90,158,Cloudy,No Event
+2024-01-16,Dairy,Paneer,17,88,Rainy,Festival
+2024-01-16,Beverages,Tea,64,141,Cloudy,No Event
+2024-01-16,Beverages,Coffee,60,107,Sunny,No Event
+2024-01-16,Beverages,Juice,52,111,Sunny,Holiday
+2024-01-16,Beverages,Soda,76,175,Rainy,Holiday
+2024-01-16,Beverages,Energy Drink,31,59,Cloudy,No Event
+2024-01-16,Bakery,Bread,80,130,Cloudy,Holiday
+2024-01-16,Bakery,Croissant,29,82,Cloudy,No Event
+2024-01-16,Bakery,Cake,77,122,Rainy,No Event
+2024-01-16,Bakery,Biscuits,28,52,Cloudy,Festival
+2024-01-16,Bakery,Muffin,84,118,Cloudy,No Event
+2024-01-16,Frozen Foods,Frozen Peas,57,120,Rainy,Festival
+2024-01-16,Frozen Foods,Ice Cream,91,160,Cloudy,No Event
+2024-01-16,Frozen Foods,Frozen Pizza,52,126,Sunny,No Event
+2024-01-16,Frozen Foods,French Fries,70,119,Cloudy,No Event
+2024-01-16,Frozen Foods,Chicken Nuggets,93,161,Rainy,No Event
+2024-01-16,Snacks,Chips,42,76,Rainy,No Event
+2024-01-16,Snacks,Popcorn,56,154,Rainy,No Event
+2024-01-16,Snacks,Cookies,92,116,Rainy,Holiday
+2024-01-16,Snacks,Chocolates,51,138,Cloudy,Holiday
+2024-01-16,Snacks,Dry Fruits,96,138,Cloudy,No Event
+2024-01-17,Fruits,Mango,14,85,Sunny,No Event
+2024-01-17,Fruits,Banana,79,159,Sunny,No Event
+2024-01-17,Fruits,Apple,57,131,Sunny,No Event
+2024-01-17,Fruits,Orange,97,185,Sunny,Sports Event
+2024-01-17,Fruits,Grapes,6,90,Cloudy,No Event
+2024-01-17,Vegetables,Tomato,96,191,Cloudy,No Event
+2024-01-17,Vegetables,Potato,76,158,Sunny,No Event
+2024-01-17,Vegetables,Onion,96,188,Cloudy,Holiday
+2024-01-17,Vegetables,Carrot,89,164,Cloudy,No Event
+2024-01-17,Vegetables,Spinach,35,106,Sunny,No Event
+2024-01-17,Dairy,Milk,59,100,Sunny,No Event
+2024-01-17,Dairy,Cheese,69,151,Rainy,No Event
+2024-01-17,Dairy,Butter,25,123,Sunny,No Event
+2024-01-17,Dairy,Yogurt,84,111,Rainy,Sports Event
+2024-01-17,Dairy,Paneer,21,53,Sunny,Sports Event
+2024-01-17,Beverages,Tea,82,146,Rainy,No Event
+2024-01-17,Beverages,Coffee,18,109,Sunny,No Event
+2024-01-17,Beverages,Juice,31,63,Sunny,No Event
+2024-01-17,Beverages,Soda,39,118,Rainy,No Event
+2024-01-17,Beverages,Energy Drink,62,130,Cloudy,No Event
+2024-01-17,Bakery,Bread,30,96,Sunny,No Event
+2024-01-17,Bakery,Croissant,10,99,Cloudy,No Event
+2024-01-17,Bakery,Cake,22,45,Sunny,Holiday
+2024-01-17,Bakery,Biscuits,82,114,Cloudy,No Event
+2024-01-17,Bakery,Muffin,19,57,Cloudy,Holiday
+2024-01-17,Frozen Foods,Frozen Peas,39,93,Cloudy,No Event
+2024-01-17,Frozen Foods,Ice Cream,39,90,Rainy,Sports Event
+2024-01-17,Frozen Foods,Frozen Pizza,28,108,Sunny,No Event
+2024-01-17,Frozen Foods,French Fries,54,138,Cloudy,No Event
+2024-01-17,Frozen Foods,Chicken Nuggets,17,106,Rainy,No Event
+2024-01-17,Snacks,Chips,41,139,Cloudy,No Event
+2024-01-17,Snacks,Popcorn,44,122,Rainy,No Event
+2024-01-17,Snacks,Cookies,94,141,Sunny,Festival
+2024-01-17,Snacks,Chocolates,7,34,Cloudy,Festival
+2024-01-17,Snacks,Dry Fruits,77,141,Rainy,Sports Event
+2024-01-18,Fruits,Mango,61,160,Cloudy,No Event
+2024-01-18,Fruits,Banana,22,110,Sunny,No Event
+2024-01-18,Fruits,Apple,64,126,Rainy,No Event
+2024-01-18,Fruits,Orange,73,98,Rainy,No Event
+2024-01-18,Fruits,Grapes,8,50,Rainy,No Event
+2024-01-18,Vegetables,Tomato,22,56,Rainy,No Event
+2024-01-18,Vegetables,Potato,78,103,Cloudy,No Event
+2024-01-18,Vegetables,Onion,15,77,Sunny,No Event
+2024-01-18,Vegetables,Carrot,67,154,Sunny,Festival
+2024-01-18,Vegetables,Spinach,9,60,Rainy,Sports Event
+2024-01-18,Dairy,Milk,39,80,Sunny,No Event
+2024-01-18,Dairy,Cheese,15,111,Cloudy,Festival
+2024-01-18,Dairy,Butter,13,92,Cloudy,No Event
+2024-01-18,Dairy,Yogurt,22,114,Cloudy,No Event
+2024-01-18,Dairy,Paneer,51,139,Cloudy,No Event
+2024-01-18,Beverages,Tea,91,140,Sunny,No Event
+2024-01-18,Beverages,Coffee,29,122,Rainy,Festival
+2024-01-18,Beverages,Juice,62,122,Sunny,No Event
+2024-01-18,Beverages,Soda,52,81,Cloudy,No Event
+2024-01-18,Beverages,Energy Drink,89,129,Rainy,Holiday
+2024-01-18,Bakery,Bread,85,168,Rainy,Sports Event
+2024-01-18,Bakery,Croissant,80,141,Rainy,No Event
+2024-01-18,Bakery,Cake,79,114,Sunny,No Event
+2024-01-18,Bakery,Biscuits,63,98,Rainy,Festival
+2024-01-18,Bakery,Muffin,51,118,Rainy,No Event
+2024-01-18,Frozen Foods,Frozen Peas,81,104,Cloudy,No Event
+2024-01-18,Frozen Foods,Ice Cream,94,172,Cloudy,Festival
+2024-01-18,Frozen Foods,Frozen Pizza,76,102,Cloudy,No Event
+2024-01-18,Frozen Foods,French Fries,50,132,Sunny,Sports Event
+2024-01-18,Frozen Foods,Chicken Nuggets,21,103,Sunny,No Event
+2024-01-18,Snacks,Chips,40,67,Sunny,No Event
+2024-01-18,Snacks,Popcorn,40,87,Rainy,No Event
+2024-01-18,Snacks,Cookies,80,129,Cloudy,No Event
+2024-01-18,Snacks,Chocolates,78,168,Sunny,Sports Event
+2024-01-18,Snacks,Dry Fruits,41,89,Cloudy,No Event
+2024-01-19,Fruits,Mango,51,116,Cloudy,No Event
+2024-01-19,Fruits,Banana,25,108,Sunny,Festival
+2024-01-19,Fruits,Apple,33,72,Sunny,No Event
+2024-01-19,Fruits,Orange,40,61,Rainy,No Event
+2024-01-19,Fruits,Grapes,22,110,Rainy,No Event
+2024-01-19,Vegetables,Tomato,49,87,Cloudy,Sports Event
+2024-01-19,Vegetables,Potato,47,128,Rainy,No Event
+2024-01-19,Vegetables,Onion,26,97,Cloudy,No Event
+2024-01-19,Vegetables,Carrot,23,80,Rainy,Sports Event
+2024-01-19,Vegetables,Spinach,83,159,Sunny,No Event
+2024-01-19,Dairy,Milk,54,78,Cloudy,Festival
+2024-01-19,Dairy,Cheese,41,82,Rainy,No Event
+2024-01-19,Dairy,Butter,48,101,Sunny,Holiday
+2024-01-19,Dairy,Yogurt,99,125,Cloudy,No Event
+2024-01-19,Dairy,Paneer,35,89,Sunny,No Event
+2024-01-19,Beverages,Tea,35,107,Rainy,No Event
+2024-01-19,Beverages,Coffee,14,35,Rainy,No Event
+2024-01-19,Beverages,Juice,21,56,Rainy,No Event
+2024-01-19,Beverages,Soda,35,55,Cloudy,No Event
+2024-01-19,Beverages,Energy Drink,8,98,Rainy,No Event
+2024-01-19,Bakery,Bread,16,110,Sunny,No Event
+2024-01-19,Bakery,Croissant,57,147,Rainy,No Event
+2024-01-19,Bakery,Cake,8,46,Rainy,No Event
+2024-01-19,Bakery,Biscuits,54,116,Cloudy,Sports Event
+2024-01-19,Bakery,Muffin,16,102,Rainy,Sports Event
+2024-01-19,Frozen Foods,Frozen Peas,58,143,Sunny,No Event
+2024-01-19,Frozen Foods,Ice Cream,64,137,Rainy,No Event
+2024-01-19,Frozen Foods,Frozen Pizza,32,76,Sunny,No Event
+2024-01-19,Frozen Foods,French Fries,46,105,Sunny,No Event
+2024-01-19,Frozen Foods,Chicken Nuggets,46,112,Sunny,No Event
+2024-01-19,Snacks,Chips,26,102,Rainy,No Event
+2024-01-19,Snacks,Popcorn,45,144,Rainy,No Event
+2024-01-19,Snacks,Cookies,93,178,Sunny,No Event
+2024-01-19,Snacks,Chocolates,77,106,Sunny,No Event
+2024-01-19,Snacks,Dry Fruits,24,82,Rainy,No Event
+2024-01-20,Fruits,Mango,40,83,Rainy,No Event
+2024-01-20,Fruits,Banana,35,111,Rainy,No Event
+2024-01-20,Fruits,Apple,19,50,Sunny,No Event
+2024-01-20,Fruits,Orange,28,68,Rainy,No Event
+2024-01-20,Fruits,Grapes,22,55,Rainy,Holiday
+2024-01-20,Vegetables,Tomato,80,121,Rainy,Festival
+2024-01-20,Vegetables,Potato,40,81,Rainy,Festival
+2024-01-20,Vegetables,Onion,65,140,Sunny,No Event
+2024-01-20,Vegetables,Carrot,49,104,Rainy,No Event
+2024-01-20,Vegetables,Spinach,27,62,Cloudy,Holiday
+2024-01-20,Dairy,Milk,25,122,Cloudy,No Event
+2024-01-20,Dairy,Cheese,74,105,Sunny,No Event
+2024-01-20,Dairy,Butter,18,98,Cloudy,No Event
+2024-01-20,Dairy,Yogurt,19,82,Sunny,Sports Event
+2024-01-20,Dairy,Paneer,48,72,Sunny,Sports Event
+2024-01-20,Beverages,Tea,91,188,Cloudy,Sports Event
+2024-01-20,Beverages,Coffee,35,71,Cloudy,No Event
+2024-01-20,Beverages,Juice,66,117,Sunny,Holiday
+2024-01-20,Beverages,Soda,39,63,Sunny,No Event
+2024-01-20,Beverages,Energy Drink,29,70,Rainy,No Event
+2024-01-20,Bakery,Bread,95,186,Cloudy,No Event
+2024-01-20,Bakery,Croissant,48,142,Cloudy,Holiday
+2024-01-20,Bakery,Cake,92,186,Sunny,No Event
+2024-01-20,Bakery,Biscuits,20,59,Rainy,No Event
+2024-01-20,Bakery,Muffin,62,134,Cloudy,No Event
+2024-01-20,Frozen Foods,Frozen Peas,70,118,Rainy,No Event
+2024-01-20,Frozen Foods,Ice Cream,55,107,Cloudy,Festival
+2024-01-20,Frozen Foods,Frozen Pizza,73,168,Sunny,No Event
+2024-01-20,Frozen Foods,French Fries,43,66,Cloudy,No Event
+2024-01-20,Frozen Foods,Chicken Nuggets,95,159,Cloudy,No Event
+2024-01-20,Snacks,Chips,64,140,Rainy,No Event
+2024-01-20,Snacks,Popcorn,57,119,Cloudy,No Event
+2024-01-20,Snacks,Cookies,76,137,Rainy,No Event
+2024-01-20,Snacks,Chocolates,30,72,Cloudy,No Event
+2024-01-20,Snacks,Dry Fruits,13,52,Cloudy,Sports Event
+2024-01-21,Fruits,Mango,55,86,Cloudy,No Event
+2024-01-21,Fruits,Banana,82,112,Rainy,No Event
+2024-01-21,Fruits,Apple,15,72,Rainy,No Event
+2024-01-21,Fruits,Orange,68,93,Rainy,No Event
+2024-01-21,Fruits,Grapes,46,130,Cloudy,Sports Event
+2024-01-21,Vegetables,Tomato,63,134,Rainy,Sports Event
+2024-01-21,Vegetables,Potato,11,41,Cloudy,No Event
+2024-01-21,Vegetables,Onion,29,60,Rainy,Festival
+2024-01-21,Vegetables,Carrot,16,78,Cloudy,Holiday
+2024-01-21,Vegetables,Spinach,50,122,Sunny,Holiday
+2024-01-21,Dairy,Milk,58,134,Rainy,No Event
+2024-01-21,Dairy,Cheese,53,79,Rainy,No Event
+2024-01-21,Dairy,Butter,96,169,Sunny,No Event
+2024-01-21,Dairy,Yogurt,27,74,Cloudy,Holiday
+2024-01-21,Dairy,Paneer,30,74,Rainy,No Event
+2024-01-21,Beverages,Tea,40,73,Rainy,No Event
+2024-01-21,Beverages,Coffee,96,132,Cloudy,No Event
+2024-01-21,Beverages,Juice,34,98,Cloudy,No Event
+2024-01-21,Beverages,Soda,93,163,Rainy,No Event
+2024-01-21,Beverages,Energy Drink,51,123,Rainy,No Event
+2024-01-21,Bakery,Bread,42,125,Cloudy,No Event
+2024-01-21,Bakery,Croissant,11,52,Sunny,Holiday
+2024-01-21,Bakery,Cake,45,138,Rainy,No Event
+2024-01-21,Bakery,Biscuits,54,125,Sunny,No Event
+2024-01-21,Bakery,Muffin,57,136,Rainy,No Event
+2024-01-21,Frozen Foods,Frozen Peas,8,70,Rainy,No Event
+2024-01-21,Frozen Foods,Ice Cream,5,95,Rainy,No Event
+2024-01-21,Frozen Foods,Frozen Pizza,65,119,Sunny,No Event
+2024-01-21,Frozen Foods,French Fries,40,109,Cloudy,No Event
+2024-01-21,Frozen Foods,Chicken Nuggets,36,133,Sunny,No Event
+2024-01-21,Snacks,Chips,33,68,Cloudy,No Event
+2024-01-21,Snacks,Popcorn,63,113,Sunny,No Event
+2024-01-21,Snacks,Cookies,52,117,Rainy,No Event
+2024-01-21,Snacks,Chocolates,8,57,Rainy,No Event
+2024-01-21,Snacks,Dry Fruits,70,101,Rainy,No Event
+2024-01-22,Fruits,Mango,94,166,Cloudy,Holiday
+2024-01-22,Fruits,Banana,5,82,Rainy,Holiday
+2024-01-22,Fruits,Apple,10,99,Rainy,No Event
+2024-01-22,Fruits,Orange,22,71,Sunny,Sports Event
+2024-01-22,Fruits,Grapes,78,109,Rainy,No Event
+2024-01-22,Vegetables,Tomato,43,71,Rainy,No Event
+2024-01-22,Vegetables,Potato,33,85,Cloudy,No Event
+2024-01-22,Vegetables,Onion,19,40,Cloudy,No Event
+2024-01-22,Vegetables,Carrot,58,95,Cloudy,No Event
+2024-01-22,Vegetables,Spinach,86,143,Sunny,Holiday
+2024-01-22,Dairy,Milk,63,93,Cloudy,No Event
+2024-01-22,Dairy,Cheese,97,138,Rainy,Sports Event
+2024-01-22,Dairy,Butter,10,71,Sunny,No Event
+2024-01-22,Dairy,Yogurt,89,163,Cloudy,Holiday
+2024-01-22,Dairy,Paneer,18,76,Cloudy,No Event
+2024-01-22,Beverages,Tea,13,90,Sunny,Sports Event
+2024-01-22,Beverages,Coffee,73,161,Rainy,No Event
+2024-01-22,Beverages,Juice,63,156,Cloudy,No Event
+2024-01-22,Beverages,Soda,19,109,Sunny,No Event
+2024-01-22,Beverages,Energy Drink,7,36,Sunny,No Event
+2024-01-22,Bakery,Bread,10,41,Cloudy,Sports Event
+2024-01-22,Bakery,Croissant,97,135,Cloudy,No Event
+2024-01-22,Bakery,Cake,88,154,Cloudy,No Event
+2024-01-22,Bakery,Biscuits,49,76,Cloudy,No Event
+2024-01-22,Bakery,Muffin,71,99,Rainy,Holiday
+2024-01-22,Frozen Foods,Frozen Peas,75,109,Cloudy,No Event
+2024-01-22,Frozen Foods,Ice Cream,45,86,Sunny,No Event
+2024-01-22,Frozen Foods,Frozen Pizza,5,34,Cloudy,No Event
+2024-01-22,Frozen Foods,French Fries,76,151,Sunny,No Event
+2024-01-22,Frozen Foods,Chicken Nuggets,16,95,Rainy,Festival
+2024-01-22,Snacks,Chips,82,142,Sunny,No Event
+2024-01-22,Snacks,Popcorn,10,98,Cloudy,No Event
+2024-01-22,Snacks,Cookies,66,98,Cloudy,No Event
+2024-01-22,Snacks,Chocolates,22,100,Cloudy,No Event
+2024-01-22,Snacks,Dry Fruits,55,130,Cloudy,Festival
+2024-01-23,Fruits,Mango,13,100,Rainy,Holiday
+2024-01-23,Fruits,Banana,71,116,Rainy,Festival
+2024-01-23,Fruits,Apple,52,116,Sunny,No Event
+2024-01-23,Fruits,Orange,24,109,Rainy,No Event
+2024-01-23,Fruits,Grapes,51,133,Cloudy,No Event
+2024-01-23,Vegetables,Tomato,59,153,Cloudy,Holiday
+2024-01-23,Vegetables,Potato,57,102,Rainy,Holiday
+2024-01-23,Vegetables,Onion,49,112,Sunny,No Event
+2024-01-23,Vegetables,Carrot,47,89,Rainy,No Event
+2024-01-23,Vegetables,Spinach,80,154,Cloudy,No Event
+2024-01-23,Dairy,Milk,32,103,Sunny,No Event
+2024-01-23,Dairy,Cheese,41,86,Cloudy,No Event
+2024-01-23,Dairy,Butter,44,143,Rainy,No Event
+2024-01-23,Dairy,Yogurt,91,164,Rainy,No Event
+2024-01-23,Dairy,Paneer,39,118,Sunny,No Event
+2024-01-23,Beverages,Tea,59,104,Sunny,Holiday
+2024-01-23,Beverages,Coffee,69,94,Cloudy,No Event
+2024-01-23,Beverages,Juice,91,153,Cloudy,No Event
+2024-01-23,Beverages,Soda,34,130,Cloudy,No Event
+2024-01-23,Beverages,Energy Drink,83,123,Sunny,No Event
+2024-01-23,Bakery,Bread,95,159,Rainy,No Event
+2024-01-23,Bakery,Croissant,51,110,Cloudy,No Event
+2024-01-23,Bakery,Cake,54,121,Cloudy,No Event
+2024-01-23,Bakery,Biscuits,13,89,Cloudy,No Event
+2024-01-23,Bakery,Muffin,44,108,Sunny,No Event
+2024-01-23,Frozen Foods,Frozen Peas,24,60,Sunny,No Event
+2024-01-23,Frozen Foods,Ice Cream,62,122,Rainy,Holiday
+2024-01-23,Frozen Foods,Frozen Pizza,42,67,Sunny,No Event
+2024-01-23,Frozen Foods,French Fries,70,129,Cloudy,No Event
+2024-01-23,Frozen Foods,Chicken Nuggets,28,66,Rainy,Festival
+2024-01-23,Snacks,Chips,92,146,Rainy,No Event
+2024-01-23,Snacks,Popcorn,29,93,Sunny,Sports Event
+2024-01-23,Snacks,Cookies,93,128,Rainy,No Event
+2024-01-23,Snacks,Chocolates,27,71,Rainy,Holiday
+2024-01-23,Snacks,Dry Fruits,5,66,Cloudy,No Event
+2024-01-24,Fruits,Mango,84,158,Rainy,No Event
+2024-01-24,Fruits,Banana,49,74,Sunny,No Event
+2024-01-24,Fruits,Apple,52,110,Cloudy,No Event
+2024-01-24,Fruits,Orange,34,71,Sunny,Sports Event
+2024-01-24,Fruits,Grapes,19,42,Cloudy,Sports Event
+2024-01-24,Vegetables,Tomato,13,58,Sunny,No Event
+2024-01-24,Vegetables,Potato,56,144,Cloudy,No Event
+2024-01-24,Vegetables,Onion,83,120,Cloudy,No Event
+2024-01-24,Vegetables,Carrot,17,40,Rainy,Festival
+2024-01-24,Vegetables,Spinach,65,92,Cloudy,No Event
+2024-01-24,Dairy,Milk,13,43,Cloudy,Holiday
+2024-01-24,Dairy,Cheese,46,78,Sunny,No Event
+2024-01-24,Dairy,Butter,78,170,Cloudy,No Event
+2024-01-24,Dairy,Yogurt,60,139,Cloudy,No Event
+2024-01-24,Dairy,Paneer,68,110,Sunny,No Event
+2024-01-24,Beverages,Tea,55,143,Cloudy,No Event
+2024-01-24,Beverages,Coffee,35,104,Cloudy,No Event
+2024-01-24,Beverages,Juice,6,50,Sunny,No Event
+2024-01-24,Beverages,Soda,96,185,Cloudy,No Event
+2024-01-24,Beverages,Energy Drink,86,180,Rainy,No Event
+2024-01-24,Bakery,Bread,73,151,Cloudy,No Event
+2024-01-24,Bakery,Croissant,66,101,Sunny,No Event
+2024-01-24,Bakery,Cake,93,167,Cloudy,Sports Event
+2024-01-24,Bakery,Biscuits,53,79,Rainy,No Event
+2024-01-24,Bakery,Muffin,93,128,Cloudy,No Event
+2024-01-24,Frozen Foods,Frozen Peas,55,146,Rainy,No Event
+2024-01-24,Frozen Foods,Ice Cream,87,148,Sunny,No Event
+2024-01-24,Frozen Foods,Frozen Pizza,81,107,Cloudy,Festival
+2024-01-24,Frozen Foods,French Fries,40,84,Rainy,No Event
+2024-01-24,Frozen Foods,Chicken Nuggets,91,116,Sunny,No Event
+2024-01-24,Snacks,Chips,59,124,Cloudy,No Event
+2024-01-24,Snacks,Popcorn,32,54,Cloudy,Sports Event
+2024-01-24,Snacks,Cookies,82,152,Rainy,No Event
+2024-01-24,Snacks,Chocolates,58,133,Cloudy,Festival
+2024-01-24,Snacks,Dry Fruits,76,146,Rainy,Sports Event
+2024-01-25,Fruits,Mango,13,33,Sunny,Festival
+2024-01-25,Fruits,Banana,60,147,Cloudy,Sports Event
+2024-01-25,Fruits,Apple,11,57,Sunny,No Event
+2024-01-25,Fruits,Orange,75,138,Cloudy,No Event
+2024-01-25,Fruits,Grapes,79,140,Sunny,No Event
+2024-01-25,Vegetables,Tomato,67,123,Sunny,No Event
+2024-01-25,Vegetables,Potato,85,152,Sunny,Holiday
+2024-01-25,Vegetables,Onion,7,73,Rainy,No Event
+2024-01-25,Vegetables,Carrot,18,100,Sunny,Holiday
+2024-01-25,Vegetables,Spinach,99,135,Cloudy,No Event
+2024-01-25,Dairy,Milk,82,180,Cloudy,Holiday
+2024-01-25,Dairy,Cheese,19,88,Cloudy,No Event
+2024-01-25,Dairy,Butter,7,88,Cloudy,Sports Event
+2024-01-25,Dairy,Yogurt,92,172,Rainy,Holiday
+2024-01-25,Dairy,Paneer,17,37,Rainy,No Event
+2024-01-25,Beverages,Tea,82,172,Sunny,No Event
+2024-01-25,Beverages,Coffee,68,112,Rainy,No Event
+2024-01-25,Beverages,Juice,95,168,Rainy,No Event
+2024-01-25,Beverages,Soda,82,157,Rainy,No Event
+2024-01-25,Beverages,Energy Drink,89,169,Sunny,Sports Event
+2024-01-25,Bakery,Bread,20,89,Rainy,No Event
+2024-01-25,Bakery,Croissant,47,83,Rainy,No Event
+2024-01-25,Bakery,Cake,8,66,Rainy,Festival
+2024-01-25,Bakery,Biscuits,85,173,Sunny,Holiday
+2024-01-25,Bakery,Muffin,20,90,Sunny,No Event
+2024-01-25,Frozen Foods,Frozen Peas,77,165,Rainy,No Event
+2024-01-25,Frozen Foods,Ice Cream,13,96,Rainy,Festival
+2024-01-25,Frozen Foods,Frozen Pizza,59,107,Rainy,Festival
+2024-01-25,Frozen Foods,French Fries,22,112,Sunny,No Event
+2024-01-25,Frozen Foods,Chicken Nuggets,5,28,Sunny,No Event
+2024-01-25,Snacks,Chips,47,125,Sunny,Festival
+2024-01-25,Snacks,Popcorn,59,138,Rainy,No Event
+2024-01-25,Snacks,Cookies,38,113,Sunny,No Event
+2024-01-25,Snacks,Chocolates,22,95,Sunny,Festival
+2024-01-25,Snacks,Dry Fruits,47,105,Sunny,No Event
+2024-01-26,Fruits,Mango,83,120,Cloudy,No Event
+2024-01-26,Fruits,Banana,34,111,Cloudy,Sports Event
+2024-01-26,Fruits,Apple,22,48,Rainy,No Event
+2024-01-26,Fruits,Orange,69,156,Rainy,No Event
+2024-01-26,Fruits,Grapes,33,73,Rainy,No Event
+2024-01-26,Vegetables,Tomato,51,146,Rainy,No Event
+2024-01-26,Vegetables,Potato,55,144,Cloudy,No Event
+2024-01-26,Vegetables,Onion,69,142,Sunny,No Event
+2024-01-26,Vegetables,Carrot,51,141,Cloudy,No Event
+2024-01-26,Vegetables,Spinach,61,135,Cloudy,No Event
+2024-01-26,Dairy,Milk,97,138,Cloudy,Holiday
+2024-01-26,Dairy,Cheese,33,93,Rainy,No Event
+2024-01-26,Dairy,Butter,35,84,Rainy,No Event
+2024-01-26,Dairy,Yogurt,21,78,Rainy,No Event
+2024-01-26,Dairy,Paneer,83,158,Rainy,Festival
+2024-01-26,Beverages,Tea,23,99,Rainy,Holiday
+2024-01-26,Beverages,Coffee,5,76,Sunny,No Event
+2024-01-26,Beverages,Juice,41,125,Cloudy,No Event
+2024-01-26,Beverages,Soda,25,97,Cloudy,Sports Event
+2024-01-26,Beverages,Energy Drink,44,89,Sunny,Sports Event
+2024-01-26,Bakery,Bread,68,130,Sunny,Sports Event
+2024-01-26,Bakery,Croissant,27,53,Sunny,No Event
+2024-01-26,Bakery,Cake,83,136,Rainy,Holiday
+2024-01-26,Bakery,Biscuits,82,179,Cloudy,No Event
+2024-01-26,Bakery,Muffin,6,35,Rainy,No Event
+2024-01-26,Frozen Foods,Frozen Peas,16,105,Rainy,Festival
+2024-01-26,Frozen Foods,Ice Cream,88,108,Rainy,No Event
+2024-01-26,Frozen Foods,Frozen Pizza,62,151,Cloudy,No Event
+2024-01-26,Frozen Foods,French Fries,49,91,Cloudy,No Event
+2024-01-26,Frozen Foods,Chicken Nuggets,11,109,Cloudy,No Event
+2024-01-26,Snacks,Chips,83,138,Sunny,Sports Event
+2024-01-26,Snacks,Popcorn,95,171,Sunny,No Event
+2024-01-26,Snacks,Cookies,59,158,Cloudy,No Event
+2024-01-26,Snacks,Chocolates,84,181,Sunny,No Event
+2024-01-26,Snacks,Dry Fruits,83,169,Cloudy,No Event
+2024-01-27,Fruits,Mango,45,105,Cloudy,Festival
+2024-01-27,Fruits,Banana,62,113,Cloudy,Sports Event
+2024-01-27,Fruits,Apple,11,31,Sunny,No Event
+2024-01-27,Fruits,Orange,10,39,Cloudy,Sports Event
+2024-01-27,Fruits,Grapes,34,74,Rainy,No Event
+2024-01-27,Vegetables,Tomato,78,160,Cloudy,No Event
+2024-01-27,Vegetables,Potato,68,163,Sunny,No Event
+2024-01-27,Vegetables,Onion,66,112,Sunny,No Event
+2024-01-27,Vegetables,Carrot,63,140,Rainy,No Event
+2024-01-27,Vegetables,Spinach,75,107,Cloudy,No Event
+2024-01-27,Dairy,Milk,64,105,Cloudy,No Event
+2024-01-27,Dairy,Cheese,79,172,Sunny,No Event
+2024-01-27,Dairy,Butter,47,104,Sunny,No Event
+2024-01-27,Dairy,Yogurt,44,80,Sunny,Sports Event
+2024-01-27,Dairy,Paneer,66,94,Sunny,No Event
+2024-01-27,Beverages,Tea,54,113,Rainy,Festival
+2024-01-27,Beverages,Coffee,25,62,Cloudy,No Event
+2024-01-27,Beverages,Juice,78,114,Rainy,Festival
+2024-01-27,Beverages,Soda,88,152,Rainy,No Event
+2024-01-27,Beverages,Energy Drink,18,86,Sunny,No Event
+2024-01-27,Bakery,Bread,86,125,Cloudy,Sports Event
+2024-01-27,Bakery,Croissant,13,109,Cloudy,No Event
+2024-01-27,Bakery,Cake,96,134,Rainy,Holiday
+2024-01-27,Bakery,Biscuits,93,138,Rainy,No Event
+2024-01-27,Bakery,Muffin,53,125,Cloudy,No Event
+2024-01-27,Frozen Foods,Frozen Peas,46,84,Sunny,No Event
+2024-01-27,Frozen Foods,Ice Cream,80,148,Cloudy,Festival
+2024-01-27,Frozen Foods,Frozen Pizza,53,127,Rainy,No Event
+2024-01-27,Frozen Foods,French Fries,56,82,Rainy,Festival
+2024-01-27,Frozen Foods,Chicken Nuggets,20,63,Sunny,Festival
+2024-01-27,Snacks,Chips,5,73,Sunny,No Event
+2024-01-27,Snacks,Popcorn,84,119,Rainy,No Event
+2024-01-27,Snacks,Cookies,96,121,Cloudy,Festival
+2024-01-27,Snacks,Chocolates,47,92,Rainy,No Event
+2024-01-27,Snacks,Dry Fruits,37,82,Sunny,No Event
+2024-01-28,Fruits,Mango,67,153,Sunny,No Event
+2024-01-28,Fruits,Banana,6,39,Rainy,No Event
+2024-01-28,Fruits,Apple,94,157,Sunny,Festival
+2024-01-28,Fruits,Orange,92,137,Sunny,No Event
+2024-01-28,Fruits,Grapes,44,129,Rainy,Holiday
+2024-01-28,Vegetables,Tomato,83,179,Cloudy,No Event
+2024-01-28,Vegetables,Potato,52,73,Cloudy,Holiday
+2024-01-28,Vegetables,Onion,59,90,Rainy,Sports Event
+2024-01-28,Vegetables,Carrot,82,117,Cloudy,No Event
+2024-01-28,Vegetables,Spinach,10,106,Rainy,No Event
+2024-01-28,Dairy,Milk,56,126,Cloudy,No Event
+2024-01-28,Dairy,Cheese,23,48,Cloudy,Sports Event
+2024-01-28,Dairy,Butter,52,78,Cloudy,No Event
+2024-01-28,Dairy,Yogurt,19,102,Cloudy,No Event
+2024-01-28,Dairy,Paneer,27,99,Sunny,No Event
+2024-01-28,Beverages,Tea,7,96,Sunny,No Event
+2024-01-28,Beverages,Coffee,76,116,Sunny,No Event
+2024-01-28,Beverages,Juice,76,130,Cloudy,Holiday
+2024-01-28,Beverages,Soda,18,47,Rainy,No Event
+2024-01-28,Beverages,Energy Drink,38,98,Rainy,Festival
+2024-01-28,Bakery,Bread,21,107,Rainy,Sports Event
+2024-01-28,Bakery,Croissant,5,36,Cloudy,No Event
+2024-01-28,Bakery,Cake,17,40,Rainy,Festival
+2024-01-28,Bakery,Biscuits,6,37,Sunny,Festival
+2024-01-28,Bakery,Muffin,10,37,Sunny,No Event
+2024-01-28,Frozen Foods,Frozen Peas,67,143,Cloudy,No Event
+2024-01-28,Frozen Foods,Ice Cream,6,33,Rainy,No Event
+2024-01-28,Frozen Foods,Frozen Pizza,57,86,Sunny,Sports Event
+2024-01-28,Frozen Foods,French Fries,12,67,Sunny,No Event
+2024-01-28,Frozen Foods,Chicken Nuggets,18,91,Rainy,No Event
+2024-01-28,Snacks,Chips,25,94,Rainy,Holiday
+2024-01-28,Snacks,Popcorn,92,118,Sunny,No Event
+2024-01-28,Snacks,Cookies,42,99,Rainy,Sports Event
+2024-01-28,Snacks,Chocolates,90,153,Rainy,Holiday
+2024-01-28,Snacks,Dry Fruits,10,46,Cloudy,Festival
+2024-01-29,Fruits,Mango,28,98,Rainy,No Event
+2024-01-29,Fruits,Banana,25,114,Sunny,No Event
+2024-01-29,Fruits,Apple,43,95,Cloudy,Festival
+2024-01-29,Fruits,Orange,96,172,Rainy,No Event
+2024-01-29,Fruits,Grapes,56,117,Rainy,No Event
+2024-01-29,Vegetables,Tomato,79,121,Rainy,No Event
+2024-01-29,Vegetables,Potato,91,141,Cloudy,No Event
+2024-01-29,Vegetables,Onion,89,110,Rainy,No Event
+2024-01-29,Vegetables,Carrot,88,142,Cloudy,No Event
+2024-01-29,Vegetables,Spinach,22,113,Sunny,Sports Event
+2024-01-29,Dairy,Milk,57,86,Cloudy,Festival
+2024-01-29,Dairy,Cheese,15,100,Rainy,No Event
+2024-01-29,Dairy,Butter,37,103,Sunny,Festival
+2024-01-29,Dairy,Yogurt,72,133,Cloudy,No Event
+2024-01-29,Dairy,Paneer,98,136,Rainy,Festival
+2024-01-29,Beverages,Tea,58,157,Sunny,No Event
+2024-01-29,Beverages,Coffee,38,110,Sunny,No Event
+2024-01-29,Beverages,Juice,61,85,Rainy,No Event
+2024-01-29,Beverages,Soda,17,65,Cloudy,Sports Event
+2024-01-29,Beverages,Energy Drink,62,157,Rainy,No Event
+2024-01-29,Bakery,Bread,32,128,Sunny,No Event
+2024-01-29,Bakery,Croissant,6,32,Rainy,Sports Event
+2024-01-29,Bakery,Cake,80,115,Cloudy,No Event
+2024-01-29,Bakery,Biscuits,64,156,Cloudy,Sports Event
+2024-01-29,Bakery,Muffin,9,103,Rainy,Festival
+2024-01-29,Frozen Foods,Frozen Peas,45,117,Rainy,No Event
+2024-01-29,Frozen Foods,Ice Cream,11,70,Cloudy,No Event
+2024-01-29,Frozen Foods,Frozen Pizza,89,178,Sunny,No Event
+2024-01-29,Frozen Foods,French Fries,30,110,Sunny,Holiday
+2024-01-29,Frozen Foods,Chicken Nuggets,89,148,Sunny,No Event
+2024-01-29,Snacks,Chips,20,100,Cloudy,No Event
+2024-01-29,Snacks,Popcorn,84,134,Sunny,No Event
+2024-01-29,Snacks,Cookies,48,79,Rainy,Sports Event
+2024-01-29,Snacks,Chocolates,96,124,Sunny,Holiday
+2024-01-29,Snacks,Dry Fruits,58,105,Cloudy,No Event
+2024-01-30,Fruits,Mango,81,158,Rainy,No Event
+2024-01-30,Fruits,Banana,42,129,Sunny,No Event
+2024-01-30,Fruits,Apple,60,151,Sunny,Holiday
+2024-01-30,Fruits,Orange,78,140,Sunny,No Event
+2024-01-30,Fruits,Grapes,19,43,Sunny,No Event
+2024-01-30,Vegetables,Tomato,55,84,Rainy,Holiday
+2024-01-30,Vegetables,Potato,22,121,Sunny,No Event
+2024-01-30,Vegetables,Onion,40,126,Sunny,Sports Event
+2024-01-30,Vegetables,Carrot,22,84,Cloudy,No Event
+2024-01-30,Vegetables,Spinach,82,105,Sunny,No Event
+2024-01-30,Dairy,Milk,49,118,Cloudy,No Event
+2024-01-30,Dairy,Cheese,84,179,Sunny,No Event
+2024-01-30,Dairy,Butter,5,63,Rainy,No Event
+2024-01-30,Dairy,Yogurt,95,149,Rainy,Sports Event
+2024-01-30,Dairy,Paneer,43,111,Rainy,No Event
+2024-01-30,Beverages,Tea,26,49,Sunny,No Event
+2024-01-30,Beverages,Coffee,72,162,Cloudy,No Event
+2024-01-30,Beverages,Juice,92,142,Cloudy,Holiday
+2024-01-30,Beverages,Soda,55,117,Rainy,Sports Event
+2024-01-30,Beverages,Energy Drink,53,152,Sunny,Festival
+2024-01-30,Bakery,Bread,19,65,Rainy,No Event
+2024-01-30,Bakery,Croissant,40,126,Rainy,No Event
+2024-01-30,Bakery,Cake,53,148,Cloudy,No Event
+2024-01-30,Bakery,Biscuits,72,135,Cloudy,No Event
+2024-01-30,Bakery,Muffin,57,155,Cloudy,Holiday
+2024-01-30,Frozen Foods,Frozen Peas,41,81,Cloudy,No Event
+2024-01-30,Frozen Foods,Ice Cream,41,137,Cloudy,No Event
+2024-01-30,Frozen Foods,Frozen Pizza,22,119,Rainy,No Event
+2024-01-30,Frozen Foods,French Fries,88,159,Cloudy,No Event
+2024-01-30,Frozen Foods,Chicken Nuggets,11,74,Sunny,No Event
+2024-01-30,Snacks,Chips,38,123,Sunny,No Event
+2024-01-30,Snacks,Popcorn,46,106,Sunny,No Event
+2024-01-30,Snacks,Cookies,14,43,Rainy,No Event
+2024-01-30,Snacks,Chocolates,55,95,Sunny,Festival
+2024-01-30,Snacks,Dry Fruits,82,131,Sunny,No Event
+2024-01-31,Fruits,Mango,21,109,Rainy,No Event
+2024-01-31,Fruits,Banana,99,170,Sunny,Holiday
+2024-01-31,Fruits,Apple,47,129,Cloudy,Festival
+2024-01-31,Fruits,Orange,37,69,Rainy,No Event
+2024-01-31,Fruits,Grapes,66,128,Sunny,Holiday
+2024-01-31,Vegetables,Tomato,14,39,Sunny,Sports Event
+2024-01-31,Vegetables,Potato,62,102,Cloudy,No Event
+2024-01-31,Vegetables,Onion,91,130,Rainy,No Event
+2024-01-31,Vegetables,Carrot,32,56,Sunny,No Event
+2024-01-31,Vegetables,Spinach,74,150,Sunny,Sports Event
+2024-01-31,Dairy,Milk,69,91,Rainy,No Event
+2024-01-31,Dairy,Cheese,44,130,Sunny,No Event
+2024-01-31,Dairy,Butter,59,130,Sunny,Sports Event
+2024-01-31,Dairy,Yogurt,60,134,Cloudy,No Event
+2024-01-31,Dairy,Paneer,81,173,Sunny,No Event
+2024-01-31,Beverages,Tea,23,49,Rainy,No Event
+2024-01-31,Beverages,Coffee,46,124,Sunny,No Event
+2024-01-31,Beverages,Juice,51,72,Cloudy,No Event
+2024-01-31,Beverages,Soda,23,59,Sunny,Holiday
+2024-01-31,Beverages,Energy Drink,75,133,Sunny,No Event
+2024-01-31,Bakery,Bread,29,117,Rainy,No Event
+2024-01-31,Bakery,Croissant,92,140,Sunny,No Event
+2024-01-31,Bakery,Cake,28,61,Sunny,No Event
+2024-01-31,Bakery,Biscuits,61,92,Rainy,No Event
+2024-01-31,Bakery,Muffin,92,186,Cloudy,No Event
+2024-01-31,Frozen Foods,Frozen Peas,5,103,Sunny,Festival
+2024-01-31,Frozen Foods,Ice Cream,28,107,Sunny,No Event
+2024-01-31,Frozen Foods,Frozen Pizza,31,126,Sunny,No Event
+2024-01-31,Frozen Foods,French Fries,5,34,Cloudy,No Event
+2024-01-31,Frozen Foods,Chicken Nuggets,66,103,Rainy,No Event
+2024-01-31,Snacks,Chips,96,133,Cloudy,No Event
+2024-01-31,Snacks,Popcorn,97,160,Rainy,Holiday
+2024-01-31,Snacks,Cookies,38,128,Rainy,No Event
+2024-01-31,Snacks,Chocolates,63,91,Cloudy,Festival
+2024-01-31,Snacks,Dry Fruits,76,146,Cloudy,No Event
+2024-02-01,Fruits,Mango,18,67,Cloudy,Holiday
+2024-02-01,Fruits,Banana,29,76,Rainy,No Event
+2024-02-01,Fruits,Apple,26,76,Cloudy,No Event
+2024-02-01,Fruits,Orange,42,116,Cloudy,No Event
+2024-02-01,Fruits,Grapes,5,31,Sunny,No Event
+2024-02-01,Vegetables,Tomato,9,78,Rainy,No Event
+2024-02-01,Vegetables,Potato,16,53,Rainy,No Event
+2024-02-01,Vegetables,Onion,98,134,Cloudy,No Event
+2024-02-01,Vegetables,Carrot,99,152,Rainy,No Event
+2024-02-01,Vegetables,Spinach,49,126,Cloudy,No Event
+2024-02-01,Dairy,Milk,48,82,Rainy,Sports Event
+2024-02-01,Dairy,Cheese,36,122,Cloudy,No Event
+2024-02-01,Dairy,Butter,78,148,Cloudy,No Event
+2024-02-01,Dairy,Yogurt,97,164,Sunny,No Event
+2024-02-01,Dairy,Paneer,70,93,Rainy,No Event
+2024-02-01,Beverages,Tea,21,92,Rainy,Festival
+2024-02-01,Beverages,Coffee,78,106,Cloudy,No Event
+2024-02-01,Beverages,Juice,25,68,Rainy,Holiday
+2024-02-01,Beverages,Soda,63,85,Sunny,No Event
+2024-02-01,Beverages,Energy Drink,52,125,Cloudy,No Event
+2024-02-01,Bakery,Bread,93,152,Sunny,Sports Event
+2024-02-01,Bakery,Croissant,82,114,Cloudy,No Event
+2024-02-01,Bakery,Cake,40,61,Sunny,Festival
+2024-02-01,Bakery,Biscuits,70,141,Cloudy,Sports Event
+2024-02-01,Bakery,Muffin,26,100,Cloudy,No Event
+2024-02-01,Frozen Foods,Frozen Peas,62,93,Sunny,No Event
+2024-02-01,Frozen Foods,Ice Cream,43,75,Sunny,No Event
+2024-02-01,Frozen Foods,Frozen Pizza,16,48,Rainy,No Event
+2024-02-01,Frozen Foods,French Fries,44,143,Sunny,No Event
+2024-02-01,Frozen Foods,Chicken Nuggets,9,39,Rainy,Sports Event
+2024-02-01,Snacks,Chips,60,89,Rainy,Festival
+2024-02-01,Snacks,Popcorn,71,162,Cloudy,No Event
+2024-02-01,Snacks,Cookies,75,160,Rainy,No Event
+2024-02-01,Snacks,Chocolates,36,75,Sunny,No Event
+2024-02-01,Snacks,Dry Fruits,84,128,Cloudy,No Event
+2024-02-02,Fruits,Mango,49,79,Rainy,Festival
+2024-02-02,Fruits,Banana,95,184,Rainy,Sports Event
+2024-02-02,Fruits,Apple,90,188,Sunny,Sports Event
+2024-02-02,Fruits,Orange,41,109,Sunny,No Event
+2024-02-02,Fruits,Grapes,9,46,Rainy,No Event
+2024-02-02,Vegetables,Tomato,41,124,Rainy,No Event
+2024-02-02,Vegetables,Potato,52,115,Rainy,No Event
+2024-02-02,Vegetables,Onion,20,93,Rainy,No Event
+2024-02-02,Vegetables,Carrot,32,53,Rainy,No Event
+2024-02-02,Vegetables,Spinach,84,162,Sunny,No Event
+2024-02-02,Dairy,Milk,57,121,Sunny,No Event
+2024-02-02,Dairy,Cheese,62,108,Rainy,No Event
+2024-02-02,Dairy,Butter,46,112,Sunny,No Event
+2024-02-02,Dairy,Yogurt,73,145,Cloudy,No Event
+2024-02-02,Dairy,Paneer,52,90,Sunny,Holiday
+2024-02-02,Beverages,Tea,58,128,Cloudy,Holiday
+2024-02-02,Beverages,Coffee,7,90,Sunny,Holiday
+2024-02-02,Beverages,Juice,62,156,Cloudy,No Event
+2024-02-02,Beverages,Soda,43,108,Rainy,No Event
+2024-02-02,Beverages,Energy Drink,79,163,Cloudy,No Event
+2024-02-02,Bakery,Bread,35,82,Cloudy,Festival
+2024-02-02,Bakery,Croissant,47,133,Cloudy,No Event
+2024-02-02,Bakery,Cake,86,169,Rainy,No Event
+2024-02-02,Bakery,Biscuits,6,59,Rainy,Holiday
+2024-02-02,Bakery,Muffin,14,109,Rainy,Holiday
+2024-02-02,Frozen Foods,Frozen Peas,74,142,Cloudy,No Event
+2024-02-02,Frozen Foods,Ice Cream,94,174,Sunny,No Event
+2024-02-02,Frozen Foods,Frozen Pizza,30,121,Sunny,No Event
+2024-02-02,Frozen Foods,French Fries,20,40,Sunny,No Event
+2024-02-02,Frozen Foods,Chicken Nuggets,51,83,Cloudy,No Event
+2024-02-02,Snacks,Chips,70,143,Cloudy,Sports Event
+2024-02-02,Snacks,Popcorn,62,143,Cloudy,No Event
+2024-02-02,Snacks,Cookies,93,123,Sunny,No Event
+2024-02-02,Snacks,Chocolates,68,108,Cloudy,No Event
+2024-02-02,Snacks,Dry Fruits,89,172,Rainy,No Event
+2024-02-03,Fruits,Mango,97,125,Cloudy,No Event
+2024-02-03,Fruits,Banana,14,62,Rainy,No Event
+2024-02-03,Fruits,Apple,88,144,Rainy,Holiday
+2024-02-03,Fruits,Orange,45,144,Rainy,No Event
+2024-02-03,Fruits,Grapes,42,92,Rainy,Holiday
+2024-02-03,Vegetables,Tomato,77,173,Rainy,No Event
+2024-02-03,Vegetables,Potato,53,115,Cloudy,No Event
+2024-02-03,Vegetables,Onion,46,72,Rainy,No Event
+2024-02-03,Vegetables,Carrot,31,108,Rainy,No Event
+2024-02-03,Vegetables,Spinach,77,123,Sunny,No Event
+2024-02-03,Dairy,Milk,46,117,Sunny,No Event
+2024-02-03,Dairy,Cheese,71,96,Sunny,No Event
+2024-02-03,Dairy,Butter,57,142,Rainy,Festival
+2024-02-03,Dairy,Yogurt,91,112,Rainy,Festival
+2024-02-03,Dairy,Paneer,28,112,Sunny,No Event
+2024-02-03,Beverages,Tea,5,27,Rainy,Festival
+2024-02-03,Beverages,Coffee,92,175,Sunny,Holiday
+2024-02-03,Beverages,Juice,69,112,Cloudy,Holiday
+2024-02-03,Beverages,Soda,28,75,Cloudy,No Event
+2024-02-03,Beverages,Energy Drink,58,156,Cloudy,No Event
+2024-02-03,Bakery,Bread,15,99,Cloudy,No Event
+2024-02-03,Bakery,Croissant,72,134,Sunny,No Event
+2024-02-03,Bakery,Cake,14,108,Rainy,Holiday
+2024-02-03,Bakery,Biscuits,45,114,Cloudy,Sports Event
+2024-02-03,Bakery,Muffin,43,65,Cloudy,Sports Event
+2024-02-03,Frozen Foods,Frozen Peas,37,104,Cloudy,No Event
+2024-02-03,Frozen Foods,Ice Cream,75,126,Rainy,No Event
+2024-02-03,Frozen Foods,Frozen Pizza,36,83,Sunny,No Event
+2024-02-03,Frozen Foods,French Fries,60,114,Rainy,No Event
+2024-02-03,Frozen Foods,Chicken Nuggets,59,158,Rainy,No Event
+2024-02-03,Snacks,Chips,73,143,Rainy,No Event
+2024-02-03,Snacks,Popcorn,57,112,Sunny,No Event
+2024-02-03,Snacks,Cookies,84,144,Rainy,No Event
+2024-02-03,Snacks,Chocolates,25,88,Cloudy,No Event
+2024-02-03,Snacks,Dry Fruits,33,106,Rainy,No Event
+2024-02-04,Fruits,Mango,84,163,Cloudy,No Event
+2024-02-04,Fruits,Banana,99,196,Sunny,No Event
+2024-02-04,Fruits,Apple,52,85,Cloudy,No Event
+2024-02-04,Fruits,Orange,62,139,Cloudy,Sports Event
+2024-02-04,Fruits,Grapes,6,66,Cloudy,Sports Event
+2024-02-04,Vegetables,Tomato,86,121,Sunny,No Event
+2024-02-04,Vegetables,Potato,16,40,Sunny,No Event
+2024-02-04,Vegetables,Onion,36,129,Cloudy,No Event
+2024-02-04,Vegetables,Carrot,49,77,Sunny,No Event
+2024-02-04,Vegetables,Spinach,22,50,Rainy,Holiday
+2024-02-04,Dairy,Milk,82,126,Cloudy,No Event
+2024-02-04,Dairy,Cheese,46,94,Cloudy,No Event
+2024-02-04,Dairy,Butter,86,162,Sunny,Sports Event
+2024-02-04,Dairy,Yogurt,84,178,Rainy,Holiday
+2024-02-04,Dairy,Paneer,66,149,Rainy,No Event
+2024-02-04,Beverages,Tea,86,163,Cloudy,No Event
+2024-02-04,Beverages,Coffee,93,169,Rainy,No Event
+2024-02-04,Beverages,Juice,82,153,Sunny,No Event
+2024-02-04,Beverages,Soda,9,97,Cloudy,No Event
+2024-02-04,Beverages,Energy Drink,36,88,Rainy,No Event
+2024-02-04,Bakery,Bread,80,128,Cloudy,No Event
+2024-02-04,Bakery,Croissant,34,62,Rainy,No Event
+2024-02-04,Bakery,Cake,7,72,Sunny,Festival
+2024-02-04,Bakery,Biscuits,48,102,Cloudy,No Event
+2024-02-04,Bakery,Muffin,6,86,Rainy,No Event
+2024-02-04,Frozen Foods,Frozen Peas,68,118,Cloudy,Holiday
+2024-02-04,Frozen Foods,Ice Cream,86,182,Rainy,No Event
+2024-02-04,Frozen Foods,Frozen Pizza,48,141,Cloudy,No Event
+2024-02-04,Frozen Foods,French Fries,38,87,Cloudy,No Event
+2024-02-04,Frozen Foods,Chicken Nuggets,59,145,Sunny,No Event
+2024-02-04,Snacks,Chips,61,104,Sunny,No Event
+2024-02-04,Snacks,Popcorn,64,141,Sunny,Sports Event
+2024-02-04,Snacks,Cookies,70,100,Cloudy,Holiday
+2024-02-04,Snacks,Chocolates,22,93,Rainy,No Event
+2024-02-04,Snacks,Dry Fruits,57,135,Rainy,No Event
+2024-02-05,Fruits,Mango,34,61,Rainy,No Event
+2024-02-05,Fruits,Banana,77,116,Sunny,No Event
+2024-02-05,Fruits,Apple,79,177,Cloudy,No Event
+2024-02-05,Fruits,Orange,44,89,Cloudy,No Event
+2024-02-05,Fruits,Grapes,54,115,Sunny,No Event
+2024-02-05,Vegetables,Tomato,45,97,Cloudy,Sports Event
+2024-02-05,Vegetables,Potato,20,62,Cloudy,No Event
+2024-02-05,Vegetables,Onion,16,107,Sunny,No Event
+2024-02-05,Vegetables,Carrot,73,141,Rainy,No Event
+2024-02-05,Vegetables,Spinach,83,115,Sunny,No Event
+2024-02-05,Dairy,Milk,22,71,Rainy,No Event
+2024-02-05,Dairy,Cheese,43,95,Rainy,No Event
+2024-02-05,Dairy,Butter,42,63,Sunny,Sports Event
+2024-02-05,Dairy,Yogurt,54,111,Rainy,Festival
+2024-02-05,Dairy,Paneer,31,91,Rainy,No Event
+2024-02-05,Beverages,Tea,66,114,Rainy,Holiday
+2024-02-05,Beverages,Coffee,26,51,Rainy,No Event
+2024-02-05,Beverages,Juice,18,59,Cloudy,No Event
+2024-02-05,Beverages,Soda,75,144,Sunny,No Event
+2024-02-05,Beverages,Energy Drink,14,88,Cloudy,No Event
+2024-02-05,Bakery,Bread,56,77,Sunny,Holiday
+2024-02-05,Bakery,Croissant,55,132,Rainy,No Event
+2024-02-05,Bakery,Cake,7,85,Rainy,No Event
+2024-02-05,Bakery,Biscuits,68,106,Cloudy,No Event
+2024-02-05,Bakery,Muffin,77,172,Sunny,Holiday
+2024-02-05,Frozen Foods,Frozen Peas,98,185,Sunny,Holiday
+2024-02-05,Frozen Foods,Ice Cream,96,178,Sunny,Sports Event
+2024-02-05,Frozen Foods,Frozen Pizza,81,141,Rainy,No Event
+2024-02-05,Frozen Foods,French Fries,84,151,Cloudy,No Event
+2024-02-05,Frozen Foods,Chicken Nuggets,15,92,Rainy,Sports Event
+2024-02-05,Snacks,Chips,19,98,Cloudy,No Event
+2024-02-05,Snacks,Popcorn,47,146,Rainy,No Event
+2024-02-05,Snacks,Cookies,36,119,Cloudy,No Event
+2024-02-05,Snacks,Chocolates,91,176,Rainy,Sports Event
+2024-02-05,Snacks,Dry Fruits,30,78,Cloudy,No Event
+2024-02-06,Fruits,Mango,29,96,Sunny,No Event
+2024-02-06,Fruits,Banana,94,131,Sunny,No Event
+2024-02-06,Fruits,Apple,25,109,Sunny,Sports Event
+2024-02-06,Fruits,Orange,74,137,Sunny,No Event
+2024-02-06,Fruits,Grapes,44,66,Cloudy,Festival
+2024-02-06,Vegetables,Tomato,50,99,Sunny,No Event
+2024-02-06,Vegetables,Potato,15,103,Cloudy,No Event
+2024-02-06,Vegetables,Onion,70,120,Sunny,No Event
+2024-02-06,Vegetables,Carrot,50,106,Cloudy,Holiday
+2024-02-06,Vegetables,Spinach,35,65,Cloudy,No Event
+2024-02-06,Dairy,Milk,31,52,Cloudy,No Event
+2024-02-06,Dairy,Cheese,62,86,Sunny,Holiday
+2024-02-06,Dairy,Butter,24,104,Rainy,No Event
+2024-02-06,Dairy,Yogurt,29,50,Sunny,Festival
+2024-02-06,Dairy,Paneer,74,134,Sunny,Sports Event
+2024-02-06,Beverages,Tea,5,75,Sunny,Sports Event
+2024-02-06,Beverages,Coffee,16,83,Sunny,No Event
+2024-02-06,Beverages,Juice,39,134,Rainy,No Event
+2024-02-06,Beverages,Soda,26,122,Sunny,Sports Event
+2024-02-06,Beverages,Energy Drink,7,79,Cloudy,No Event
+2024-02-06,Bakery,Bread,37,128,Rainy,No Event
+2024-02-06,Bakery,Croissant,20,115,Sunny,Sports Event
+2024-02-06,Bakery,Cake,43,108,Rainy,No Event
+2024-02-06,Bakery,Biscuits,51,114,Sunny,No Event
+2024-02-06,Bakery,Muffin,91,160,Sunny,Holiday
+2024-02-06,Frozen Foods,Frozen Peas,19,74,Sunny,No Event
+2024-02-06,Frozen Foods,Ice Cream,90,189,Sunny,Festival
+2024-02-06,Frozen Foods,Frozen Pizza,86,154,Rainy,Sports Event
+2024-02-06,Frozen Foods,French Fries,94,182,Cloudy,No Event
+2024-02-06,Frozen Foods,Chicken Nuggets,94,142,Cloudy,Sports Event
+2024-02-06,Snacks,Chips,83,151,Sunny,Sports Event
+2024-02-06,Snacks,Popcorn,21,63,Sunny,No Event
+2024-02-06,Snacks,Cookies,62,95,Sunny,No Event
+2024-02-06,Snacks,Chocolates,23,95,Cloudy,No Event
+2024-02-06,Snacks,Dry Fruits,86,128,Rainy,Sports Event
+2024-02-07,Fruits,Mango,22,114,Sunny,Holiday
+2024-02-07,Fruits,Banana,58,94,Cloudy,No Event
+2024-02-07,Fruits,Apple,38,82,Rainy,No Event
+2024-02-07,Fruits,Orange,89,119,Cloudy,Festival
+2024-02-07,Fruits,Grapes,65,164,Cloudy,No Event
+2024-02-07,Vegetables,Tomato,20,79,Rainy,No Event
+2024-02-07,Vegetables,Potato,25,94,Cloudy,No Event
+2024-02-07,Vegetables,Onion,21,72,Sunny,No Event
+2024-02-07,Vegetables,Carrot,31,70,Sunny,No Event
+2024-02-07,Vegetables,Spinach,96,168,Sunny,No Event
+2024-02-07,Dairy,Milk,88,177,Cloudy,No Event
+2024-02-07,Dairy,Cheese,5,94,Sunny,Festival
+2024-02-07,Dairy,Butter,83,128,Sunny,No Event
+2024-02-07,Dairy,Yogurt,58,148,Rainy,Sports Event
+2024-02-07,Dairy,Paneer,35,113,Cloudy,No Event
+2024-02-07,Beverages,Tea,21,54,Rainy,No Event
+2024-02-07,Beverages,Coffee,67,111,Cloudy,Holiday
+2024-02-07,Beverages,Juice,86,123,Sunny,Festival
+2024-02-07,Beverages,Soda,68,159,Rainy,No Event
+2024-02-07,Beverages,Energy Drink,87,136,Sunny,No Event
+2024-02-07,Bakery,Bread,67,97,Cloudy,Sports Event
+2024-02-07,Bakery,Croissant,98,136,Cloudy,No Event
+2024-02-07,Bakery,Cake,41,139,Sunny,No Event
+2024-02-07,Bakery,Biscuits,30,51,Cloudy,No Event
+2024-02-07,Bakery,Muffin,90,159,Rainy,No Event
+2024-02-07,Frozen Foods,Frozen Peas,94,188,Rainy,No Event
+2024-02-07,Frozen Foods,Ice Cream,33,63,Sunny,Festival
+2024-02-07,Frozen Foods,Frozen Pizza,54,87,Rainy,No Event
+2024-02-07,Frozen Foods,French Fries,13,43,Cloudy,No Event
+2024-02-07,Frozen Foods,Chicken Nuggets,71,143,Cloudy,No Event
+2024-02-07,Snacks,Chips,32,126,Cloudy,No Event
+2024-02-07,Snacks,Popcorn,14,76,Cloudy,No Event
+2024-02-07,Snacks,Cookies,90,130,Rainy,Festival
+2024-02-07,Snacks,Chocolates,73,96,Rainy,No Event
+2024-02-07,Snacks,Dry Fruits,39,79,Rainy,No Event
+2024-02-08,Fruits,Mango,76,138,Cloudy,No Event
+2024-02-08,Fruits,Banana,90,187,Cloudy,Sports Event
+2024-02-08,Fruits,Apple,16,101,Rainy,Festival
+2024-02-08,Fruits,Orange,33,59,Rainy,Holiday
+2024-02-08,Fruits,Grapes,48,97,Sunny,No Event
+2024-02-08,Vegetables,Tomato,74,99,Cloudy,No Event
+2024-02-08,Vegetables,Potato,28,81,Cloudy,No Event
+2024-02-08,Vegetables,Onion,90,133,Sunny,Holiday
+2024-02-08,Vegetables,Carrot,80,156,Cloudy,No Event
+2024-02-08,Vegetables,Spinach,75,117,Sunny,Holiday
+2024-02-08,Dairy,Milk,90,144,Sunny,Holiday
+2024-02-08,Dairy,Cheese,86,183,Rainy,Festival
+2024-02-08,Dairy,Butter,12,84,Cloudy,Holiday
+2024-02-08,Dairy,Yogurt,53,102,Cloudy,No Event
+2024-02-08,Dairy,Paneer,30,106,Sunny,Festival
+2024-02-08,Beverages,Tea,44,102,Rainy,No Event
+2024-02-08,Beverages,Coffee,82,154,Rainy,Holiday
+2024-02-08,Beverages,Juice,86,130,Cloudy,No Event
+2024-02-08,Beverages,Soda,73,159,Cloudy,No Event
+2024-02-08,Beverages,Energy Drink,24,54,Cloudy,No Event
+2024-02-08,Bakery,Bread,27,107,Cloudy,No Event
+2024-02-08,Bakery,Croissant,23,100,Sunny,Festival
+2024-02-08,Bakery,Cake,86,146,Sunny,Festival
+2024-02-08,Bakery,Biscuits,82,126,Cloudy,Sports Event
+2024-02-08,Bakery,Muffin,83,182,Cloudy,No Event
+2024-02-08,Frozen Foods,Frozen Peas,67,154,Cloudy,No Event
+2024-02-08,Frozen Foods,Ice Cream,32,129,Sunny,Sports Event
+2024-02-08,Frozen Foods,Frozen Pizza,87,136,Rainy,No Event
+2024-02-08,Frozen Foods,French Fries,86,180,Rainy,No Event
+2024-02-08,Frozen Foods,Chicken Nuggets,10,69,Sunny,Holiday
+2024-02-08,Snacks,Chips,6,98,Cloudy,No Event
+2024-02-08,Snacks,Popcorn,78,152,Sunny,No Event
+2024-02-08,Snacks,Cookies,10,48,Cloudy,No Event
+2024-02-08,Snacks,Chocolates,37,96,Sunny,No Event
+2024-02-08,Snacks,Dry Fruits,12,88,Rainy,No Event
+2024-02-09,Fruits,Mango,91,145,Rainy,Holiday
+2024-02-09,Fruits,Banana,57,130,Rainy,Sports Event
+2024-02-09,Fruits,Apple,66,140,Rainy,Festival
+2024-02-09,Fruits,Orange,50,91,Cloudy,Festival
+2024-02-09,Fruits,Grapes,43,97,Sunny,No Event
+2024-02-09,Vegetables,Tomato,12,85,Sunny,No Event
+2024-02-09,Vegetables,Potato,44,97,Cloudy,Sports Event
+2024-02-09,Vegetables,Onion,21,73,Cloudy,No Event
+2024-02-09,Vegetables,Carrot,84,112,Sunny,Holiday
+2024-02-09,Vegetables,Spinach,97,193,Sunny,No Event
+2024-02-09,Dairy,Milk,73,102,Rainy,No Event
+2024-02-09,Dairy,Cheese,17,101,Sunny,No Event
+2024-02-09,Dairy,Butter,12,41,Sunny,Holiday
+2024-02-09,Dairy,Yogurt,71,101,Rainy,No Event
+2024-02-09,Dairy,Paneer,53,83,Rainy,No Event
+2024-02-09,Beverages,Tea,43,115,Rainy,No Event
+2024-02-09,Beverages,Coffee,60,80,Rainy,No Event
+2024-02-09,Beverages,Juice,34,65,Cloudy,No Event
+2024-02-09,Beverages,Soda,35,122,Cloudy,No Event
+2024-02-09,Beverages,Energy Drink,79,154,Sunny,No Event
+2024-02-09,Bakery,Bread,68,99,Cloudy,No Event
+2024-02-09,Bakery,Croissant,59,140,Rainy,No Event
+2024-02-09,Bakery,Cake,81,155,Cloudy,No Event
+2024-02-09,Bakery,Biscuits,28,91,Sunny,No Event
+2024-02-09,Bakery,Muffin,35,82,Cloudy,No Event
+2024-02-09,Frozen Foods,Frozen Peas,83,135,Rainy,No Event
+2024-02-09,Frozen Foods,Ice Cream,77,119,Rainy,No Event
+2024-02-09,Frozen Foods,Frozen Pizza,81,131,Sunny,Holiday
+2024-02-09,Frozen Foods,French Fries,58,82,Sunny,No Event
+2024-02-09,Frozen Foods,Chicken Nuggets,93,159,Cloudy,Festival
+2024-02-09,Snacks,Chips,71,152,Sunny,No Event
+2024-02-09,Snacks,Popcorn,90,117,Sunny,Festival
+2024-02-09,Snacks,Cookies,37,98,Rainy,No Event
+2024-02-09,Snacks,Chocolates,12,54,Rainy,No Event
+2024-02-09,Snacks,Dry Fruits,68,107,Sunny,No Event
+2024-02-10,Fruits,Mango,12,69,Rainy,No Event
+2024-02-10,Fruits,Banana,94,144,Cloudy,No Event
+2024-02-10,Fruits,Apple,77,135,Rainy,Sports Event
+2024-02-10,Fruits,Orange,93,130,Cloudy,No Event
+2024-02-10,Fruits,Grapes,47,101,Rainy,No Event
+2024-02-10,Vegetables,Tomato,58,139,Sunny,Holiday
+2024-02-10,Vegetables,Potato,12,62,Cloudy,No Event
+2024-02-10,Vegetables,Onion,80,169,Cloudy,No Event
+2024-02-10,Vegetables,Carrot,27,55,Rainy,No Event
+2024-02-10,Vegetables,Spinach,84,157,Rainy,Festival
+2024-02-10,Dairy,Milk,12,51,Cloudy,No Event
+2024-02-10,Dairy,Cheese,41,110,Rainy,Holiday
+2024-02-10,Dairy,Butter,37,87,Cloudy,No Event
+2024-02-10,Dairy,Yogurt,38,128,Rainy,No Event
+2024-02-10,Dairy,Paneer,66,108,Rainy,No Event
+2024-02-10,Beverages,Tea,93,173,Cloudy,No Event
+2024-02-10,Beverages,Coffee,88,141,Sunny,No Event
+2024-02-10,Beverages,Juice,34,70,Cloudy,No Event
+2024-02-10,Beverages,Soda,88,125,Sunny,No Event
+2024-02-10,Beverages,Energy Drink,63,144,Cloudy,Holiday
+2024-02-10,Bakery,Bread,67,118,Rainy,No Event
+2024-02-10,Bakery,Croissant,74,155,Cloudy,Holiday
+2024-02-10,Bakery,Cake,21,94,Sunny,Festival
+2024-02-10,Bakery,Biscuits,71,143,Cloudy,No Event
+2024-02-10,Bakery,Muffin,51,76,Rainy,No Event
+2024-02-10,Frozen Foods,Frozen Peas,47,105,Sunny,No Event
+2024-02-10,Frozen Foods,Ice Cream,14,104,Rainy,No Event
+2024-02-10,Frozen Foods,Frozen Pizza,53,108,Sunny,No Event
+2024-02-10,Frozen Foods,French Fries,28,102,Sunny,No Event
+2024-02-10,Frozen Foods,Chicken Nuggets,85,175,Sunny,Holiday
+2024-02-10,Snacks,Chips,28,58,Sunny,No Event
+2024-02-10,Snacks,Popcorn,67,154,Sunny,No Event
+2024-02-10,Snacks,Cookies,87,145,Sunny,Sports Event
+2024-02-10,Snacks,Chocolates,75,169,Cloudy,Sports Event
+2024-02-10,Snacks,Dry Fruits,66,98,Cloudy,Festival
+2024-02-11,Fruits,Mango,19,95,Cloudy,Festival
+2024-02-11,Fruits,Banana,72,166,Sunny,Festival
+2024-02-11,Fruits,Apple,20,78,Sunny,Holiday
+2024-02-11,Fruits,Orange,25,88,Cloudy,No Event
+2024-02-11,Fruits,Grapes,12,108,Sunny,No Event
+2024-02-11,Vegetables,Tomato,79,168,Sunny,No Event
+2024-02-11,Vegetables,Potato,87,176,Cloudy,Sports Event
+2024-02-11,Vegetables,Onion,70,108,Rainy,Holiday
+2024-02-11,Vegetables,Carrot,61,117,Sunny,No Event
+2024-02-11,Vegetables,Spinach,75,167,Sunny,No Event
+2024-02-11,Dairy,Milk,69,94,Rainy,Festival
+2024-02-11,Dairy,Cheese,15,99,Sunny,No Event
+2024-02-11,Dairy,Butter,69,140,Cloudy,Festival
+2024-02-11,Dairy,Yogurt,82,132,Cloudy,No Event
+2024-02-11,Dairy,Paneer,97,152,Sunny,Sports Event
+2024-02-11,Beverages,Tea,21,65,Rainy,No Event
+2024-02-11,Beverages,Coffee,9,32,Rainy,No Event
+2024-02-11,Beverages,Juice,81,126,Cloudy,No Event
+2024-02-11,Beverages,Soda,37,70,Sunny,No Event
+2024-02-11,Beverages,Energy Drink,20,55,Sunny,No Event
+2024-02-11,Bakery,Bread,92,114,Sunny,No Event
+2024-02-11,Bakery,Croissant,70,168,Rainy,No Event
+2024-02-11,Bakery,Cake,86,127,Rainy,No Event
+2024-02-11,Bakery,Biscuits,17,69,Sunny,No Event
+2024-02-11,Bakery,Muffin,31,128,Cloudy,No Event
+2024-02-11,Frozen Foods,Frozen Peas,67,134,Cloudy,No Event
+2024-02-11,Frozen Foods,Ice Cream,32,95,Sunny,Holiday
+2024-02-11,Frozen Foods,Frozen Pizza,44,112,Sunny,No Event
+2024-02-11,Frozen Foods,French Fries,88,171,Cloudy,No Event
+2024-02-11,Frozen Foods,Chicken Nuggets,78,171,Cloudy,Sports Event
+2024-02-11,Snacks,Chips,92,187,Cloudy,No Event
+2024-02-11,Snacks,Popcorn,31,108,Sunny,No Event
+2024-02-11,Snacks,Cookies,10,94,Rainy,No Event
+2024-02-11,Snacks,Chocolates,92,136,Sunny,No Event
+2024-02-11,Snacks,Dry Fruits,76,146,Rainy,No Event
+2024-02-12,Fruits,Mango,69,148,Rainy,No Event
+2024-02-12,Fruits,Banana,80,137,Cloudy,No Event
+2024-02-12,Fruits,Apple,43,133,Cloudy,Sports Event
+2024-02-12,Fruits,Orange,35,87,Sunny,No Event
+2024-02-12,Fruits,Grapes,62,137,Sunny,Holiday
+2024-02-12,Vegetables,Tomato,59,88,Rainy,Festival
+2024-02-12,Vegetables,Potato,7,69,Cloudy,No Event
+2024-02-12,Vegetables,Onion,60,142,Cloudy,No Event
+2024-02-12,Vegetables,Carrot,96,125,Rainy,No Event
+2024-02-12,Vegetables,Spinach,54,144,Cloudy,Sports Event
+2024-02-12,Dairy,Milk,92,113,Rainy,No Event
+2024-02-12,Dairy,Cheese,75,132,Rainy,No Event
+2024-02-12,Dairy,Butter,15,99,Rainy,No Event
+2024-02-12,Dairy,Yogurt,87,108,Sunny,Festival
+2024-02-12,Dairy,Paneer,91,131,Cloudy,Holiday
+2024-02-12,Beverages,Tea,24,44,Rainy,No Event
+2024-02-12,Beverages,Coffee,28,61,Sunny,No Event
+2024-02-12,Beverages,Juice,64,138,Sunny,No Event
+2024-02-12,Beverages,Soda,81,124,Rainy,No Event
+2024-02-12,Beverages,Energy Drink,84,141,Rainy,Sports Event
+2024-02-12,Bakery,Bread,79,149,Cloudy,No Event
+2024-02-12,Bakery,Croissant,41,118,Rainy,No Event
+2024-02-12,Bakery,Cake,32,80,Cloudy,No Event
+2024-02-12,Bakery,Biscuits,14,92,Rainy,No Event
+2024-02-12,Bakery,Muffin,51,112,Rainy,No Event
+2024-02-12,Frozen Foods,Frozen Peas,46,97,Rainy,No Event
+2024-02-12,Frozen Foods,Ice Cream,60,81,Sunny,No Event
+2024-02-12,Frozen Foods,Frozen Pizza,75,146,Cloudy,No Event
+2024-02-12,Frozen Foods,French Fries,38,106,Sunny,Holiday
+2024-02-12,Frozen Foods,Chicken Nuggets,57,116,Sunny,No Event
+2024-02-12,Snacks,Chips,26,63,Rainy,Sports Event
+2024-02-12,Snacks,Popcorn,77,102,Cloudy,Festival
+2024-02-12,Snacks,Cookies,11,110,Sunny,No Event
+2024-02-12,Snacks,Chocolates,41,97,Sunny,No Event
+2024-02-12,Snacks,Dry Fruits,94,175,Sunny,No Event
+2024-02-13,Fruits,Mango,70,119,Cloudy,No Event
+2024-02-13,Fruits,Banana,86,179,Sunny,No Event
+2024-02-13,Fruits,Apple,93,189,Rainy,Sports Event
+2024-02-13,Fruits,Orange,92,177,Sunny,Festival
+2024-02-13,Fruits,Grapes,77,124,Cloudy,Sports Event
+2024-02-13,Vegetables,Tomato,14,98,Rainy,No Event
+2024-02-13,Vegetables,Potato,64,98,Cloudy,No Event
+2024-02-13,Vegetables,Onion,26,109,Sunny,No Event
+2024-02-13,Vegetables,Carrot,60,102,Sunny,No Event
+2024-02-13,Vegetables,Spinach,10,63,Cloudy,No Event
+2024-02-13,Dairy,Milk,53,123,Rainy,No Event
+2024-02-13,Dairy,Cheese,45,126,Sunny,No Event
+2024-02-13,Dairy,Butter,40,95,Sunny,Sports Event
+2024-02-13,Dairy,Yogurt,30,85,Sunny,Sports Event
+2024-02-13,Dairy,Paneer,66,165,Rainy,No Event
+2024-02-13,Beverages,Tea,55,116,Sunny,No Event
+2024-02-13,Beverages,Coffee,86,115,Rainy,No Event
+2024-02-13,Beverages,Juice,5,63,Sunny,No Event
+2024-02-13,Beverages,Soda,8,87,Sunny,No Event
+2024-02-13,Beverages,Energy Drink,91,144,Rainy,Sports Event
+2024-02-13,Bakery,Bread,65,94,Rainy,No Event
+2024-02-13,Bakery,Croissant,81,101,Sunny,No Event
+2024-02-13,Bakery,Cake,32,74,Sunny,No Event
+2024-02-13,Bakery,Biscuits,17,50,Cloudy,No Event
+2024-02-13,Bakery,Muffin,65,148,Cloudy,Sports Event
+2024-02-13,Frozen Foods,Frozen Peas,77,106,Sunny,No Event
+2024-02-13,Frozen Foods,Ice Cream,54,142,Rainy,No Event
+2024-02-13,Frozen Foods,Frozen Pizza,21,115,Sunny,No Event
+2024-02-13,Frozen Foods,French Fries,5,28,Rainy,Holiday
+2024-02-13,Frozen Foods,Chicken Nuggets,7,35,Rainy,No Event
+2024-02-13,Snacks,Chips,78,131,Cloudy,Festival
+2024-02-13,Snacks,Popcorn,26,115,Rainy,Sports Event
+2024-02-13,Snacks,Cookies,70,121,Rainy,No Event
+2024-02-13,Snacks,Chocolates,5,96,Rainy,No Event
+2024-02-13,Snacks,Dry Fruits,57,120,Rainy,Holiday
+2024-02-14,Fruits,Mango,23,80,Cloudy,No Event
+2024-02-14,Fruits,Banana,47,86,Sunny,No Event
+2024-02-14,Fruits,Apple,54,147,Rainy,No Event
+2024-02-14,Fruits,Orange,77,127,Rainy,No Event
+2024-02-14,Fruits,Grapes,65,145,Rainy,No Event
+2024-02-14,Vegetables,Tomato,94,130,Cloudy,Festival
+2024-02-14,Vegetables,Potato,74,156,Sunny,No Event
+2024-02-14,Vegetables,Onion,34,78,Cloudy,No Event
+2024-02-14,Vegetables,Carrot,30,105,Rainy,Sports Event
+2024-02-14,Vegetables,Spinach,35,80,Rainy,No Event
+2024-02-14,Dairy,Milk,27,93,Sunny,No Event
+2024-02-14,Dairy,Cheese,70,105,Sunny,Holiday
+2024-02-14,Dairy,Butter,39,99,Sunny,Festival
+2024-02-14,Dairy,Yogurt,36,109,Rainy,Sports Event
+2024-02-14,Dairy,Paneer,45,130,Rainy,No Event
+2024-02-14,Beverages,Tea,44,91,Sunny,Festival
+2024-02-14,Beverages,Coffee,78,152,Cloudy,Sports Event
+2024-02-14,Beverages,Juice,51,145,Rainy,No Event
+2024-02-14,Beverages,Soda,49,85,Cloudy,No Event
+2024-02-14,Beverages,Energy Drink,45,131,Sunny,Holiday
+2024-02-14,Bakery,Bread,18,71,Sunny,Sports Event
+2024-02-14,Bakery,Croissant,62,123,Rainy,No Event
+2024-02-14,Bakery,Cake,34,78,Cloudy,No Event
+2024-02-14,Bakery,Biscuits,76,103,Cloudy,Festival
+2024-02-14,Bakery,Muffin,90,126,Rainy,Sports Event
+2024-02-14,Frozen Foods,Frozen Peas,66,106,Sunny,No Event
+2024-02-14,Frozen Foods,Ice Cream,24,78,Sunny,No Event
+2024-02-14,Frozen Foods,Frozen Pizza,79,150,Cloudy,No Event
+2024-02-14,Frozen Foods,French Fries,51,114,Cloudy,No Event
+2024-02-14,Frozen Foods,Chicken Nuggets,88,175,Cloudy,No Event
+2024-02-14,Snacks,Chips,77,100,Sunny,No Event
+2024-02-14,Snacks,Popcorn,30,126,Cloudy,No Event
+2024-02-14,Snacks,Cookies,23,119,Sunny,No Event
+2024-02-14,Snacks,Chocolates,70,99,Rainy,No Event
+2024-02-14,Snacks,Dry Fruits,62,154,Sunny,No Event
+2024-02-15,Fruits,Mango,88,122,Sunny,Festival
+2024-02-15,Fruits,Banana,34,115,Sunny,Festival
+2024-02-15,Fruits,Apple,51,86,Rainy,No Event
+2024-02-15,Fruits,Orange,47,74,Cloudy,No Event
+2024-02-15,Fruits,Grapes,88,123,Rainy,No Event
+2024-02-15,Vegetables,Tomato,53,135,Rainy,Holiday
+2024-02-15,Vegetables,Potato,55,107,Rainy,Holiday
+2024-02-15,Vegetables,Onion,19,61,Rainy,Holiday
+2024-02-15,Vegetables,Carrot,49,130,Cloudy,No Event
+2024-02-15,Vegetables,Spinach,50,133,Rainy,No Event
+2024-02-15,Dairy,Milk,48,142,Sunny,Festival
+2024-02-15,Dairy,Cheese,93,164,Rainy,No Event
+2024-02-15,Dairy,Butter,87,172,Rainy,No Event
+2024-02-15,Dairy,Yogurt,76,120,Rainy,No Event
+2024-02-15,Dairy,Paneer,61,85,Cloudy,No Event
+2024-02-15,Beverages,Tea,12,47,Rainy,No Event
+2024-02-15,Beverages,Coffee,65,99,Sunny,No Event
+2024-02-15,Beverages,Juice,58,91,Rainy,No Event
+2024-02-15,Beverages,Soda,86,172,Rainy,No Event
+2024-02-15,Beverages,Energy Drink,69,145,Cloudy,No Event
+2024-02-15,Bakery,Bread,9,99,Cloudy,No Event
+2024-02-15,Bakery,Croissant,97,131,Cloudy,Sports Event
+2024-02-15,Bakery,Cake,80,129,Sunny,No Event
+2024-02-15,Bakery,Biscuits,45,103,Rainy,No Event
+2024-02-15,Bakery,Muffin,27,62,Sunny,Holiday
+2024-02-15,Frozen Foods,Frozen Peas,31,101,Sunny,No Event
+2024-02-15,Frozen Foods,Ice Cream,69,106,Cloudy,Sports Event
+2024-02-15,Frozen Foods,Frozen Pizza,17,76,Cloudy,No Event
+2024-02-15,Frozen Foods,French Fries,47,110,Rainy,No Event
+2024-02-15,Frozen Foods,Chicken Nuggets,28,83,Cloudy,No Event
+2024-02-15,Snacks,Chips,14,53,Rainy,No Event
+2024-02-15,Snacks,Popcorn,79,110,Rainy,No Event
+2024-02-15,Snacks,Cookies,67,111,Sunny,No Event
+2024-02-15,Snacks,Chocolates,68,160,Rainy,Holiday
+2024-02-15,Snacks,Dry Fruits,93,161,Rainy,No Event
+2024-02-16,Fruits,Mango,29,107,Sunny,No Event
+2024-02-16,Fruits,Banana,23,65,Sunny,No Event
+2024-02-16,Fruits,Apple,54,89,Sunny,No Event
+2024-02-16,Fruits,Orange,5,82,Sunny,Holiday
+2024-02-16,Fruits,Grapes,94,160,Rainy,No Event
+2024-02-16,Vegetables,Tomato,59,93,Cloudy,No Event
+2024-02-16,Vegetables,Potato,6,52,Rainy,No Event
+2024-02-16,Vegetables,Onion,76,118,Rainy,No Event
+2024-02-16,Vegetables,Carrot,97,181,Cloudy,No Event
+2024-02-16,Vegetables,Spinach,94,177,Cloudy,No Event
+2024-02-16,Dairy,Milk,70,108,Sunny,No Event
+2024-02-16,Dairy,Cheese,63,97,Rainy,No Event
+2024-02-16,Dairy,Butter,64,156,Sunny,No Event
+2024-02-16,Dairy,Yogurt,48,77,Cloudy,No Event
+2024-02-16,Dairy,Paneer,97,163,Rainy,No Event
+2024-02-16,Beverages,Tea,74,169,Sunny,Holiday
+2024-02-16,Beverages,Coffee,78,151,Cloudy,No Event
+2024-02-16,Beverages,Juice,62,91,Rainy,Sports Event
+2024-02-16,Beverages,Soda,43,90,Rainy,No Event
+2024-02-16,Beverages,Energy Drink,71,133,Cloudy,No Event
+2024-02-16,Bakery,Bread,60,155,Cloudy,No Event
+2024-02-16,Bakery,Croissant,96,138,Cloudy,Festival
+2024-02-16,Bakery,Cake,44,107,Rainy,Sports Event
+2024-02-16,Bakery,Biscuits,62,114,Rainy,No Event
+2024-02-16,Bakery,Muffin,66,156,Rainy,No Event
+2024-02-16,Frozen Foods,Frozen Peas,74,123,Cloudy,Festival
+2024-02-16,Frozen Foods,Ice Cream,90,166,Sunny,No Event
+2024-02-16,Frozen Foods,Frozen Pizza,75,103,Sunny,Festival
+2024-02-16,Frozen Foods,French Fries,39,79,Cloudy,No Event
+2024-02-16,Frozen Foods,Chicken Nuggets,39,73,Rainy,No Event
+2024-02-16,Snacks,Chips,89,140,Cloudy,No Event
+2024-02-16,Snacks,Popcorn,99,182,Cloudy,Sports Event
+2024-02-16,Snacks,Cookies,19,44,Sunny,No Event
+2024-02-16,Snacks,Chocolates,42,87,Rainy,No Event
+2024-02-16,Snacks,Dry Fruits,55,147,Cloudy,No Event
+2024-02-17,Fruits,Mango,63,152,Rainy,No Event
+2024-02-17,Fruits,Banana,92,124,Cloudy,Sports Event
+2024-02-17,Fruits,Apple,23,63,Cloudy,No Event
+2024-02-17,Fruits,Orange,28,73,Sunny,Holiday
+2024-02-17,Fruits,Grapes,86,134,Sunny,Holiday
+2024-02-17,Vegetables,Tomato,65,152,Rainy,No Event
+2024-02-17,Vegetables,Potato,71,92,Sunny,No Event
+2024-02-17,Vegetables,Onion,74,119,Cloudy,No Event
+2024-02-17,Vegetables,Carrot,22,95,Sunny,No Event
+2024-02-17,Vegetables,Spinach,7,94,Sunny,No Event
+2024-02-17,Dairy,Milk,19,46,Rainy,Holiday
+2024-02-17,Dairy,Cheese,60,126,Rainy,Sports Event
+2024-02-17,Dairy,Butter,82,150,Sunny,No Event
+2024-02-17,Dairy,Yogurt,9,99,Cloudy,No Event
+2024-02-17,Dairy,Paneer,92,134,Sunny,No Event
+2024-02-17,Beverages,Tea,42,102,Cloudy,No Event
+2024-02-17,Beverages,Coffee,61,97,Cloudy,Holiday
+2024-02-17,Beverages,Juice,83,115,Cloudy,No Event
+2024-02-17,Beverages,Soda,94,137,Sunny,Sports Event
+2024-02-17,Beverages,Energy Drink,8,73,Rainy,No Event
+2024-02-17,Bakery,Bread,37,66,Sunny,Sports Event
+2024-02-17,Bakery,Croissant,32,111,Sunny,No Event
+2024-02-17,Bakery,Cake,59,92,Rainy,Festival
+2024-02-17,Bakery,Biscuits,6,49,Rainy,Holiday
+2024-02-17,Bakery,Muffin,75,118,Cloudy,Sports Event
+2024-02-17,Frozen Foods,Frozen Peas,98,156,Cloudy,No Event
+2024-02-17,Frozen Foods,Ice Cream,69,92,Sunny,No Event
+2024-02-17,Frozen Foods,Frozen Pizza,54,84,Rainy,No Event
+2024-02-17,Frozen Foods,French Fries,85,140,Cloudy,Holiday
+2024-02-17,Frozen Foods,Chicken Nuggets,25,57,Sunny,No Event
+2024-02-17,Snacks,Chips,74,94,Rainy,No Event
+2024-02-17,Snacks,Popcorn,90,165,Cloudy,No Event
+2024-02-17,Snacks,Cookies,51,148,Cloudy,Sports Event
+2024-02-17,Snacks,Chocolates,62,117,Rainy,No Event
+2024-02-17,Snacks,Dry Fruits,46,113,Rainy,Sports Event
+2024-02-18,Fruits,Mango,34,74,Sunny,Festival
+2024-02-18,Fruits,Banana,37,94,Sunny,No Event
+2024-02-18,Fruits,Apple,63,115,Sunny,No Event
+2024-02-18,Fruits,Orange,34,110,Sunny,Holiday
+2024-02-18,Fruits,Grapes,53,119,Sunny,No Event
+2024-02-18,Vegetables,Tomato,92,117,Sunny,No Event
+2024-02-18,Vegetables,Potato,5,56,Rainy,Holiday
+2024-02-18,Vegetables,Onion,53,91,Cloudy,No Event
+2024-02-18,Vegetables,Carrot,6,98,Sunny,No Event
+2024-02-18,Vegetables,Spinach,40,120,Sunny,No Event
+2024-02-18,Dairy,Milk,64,103,Rainy,Sports Event
+2024-02-18,Dairy,Cheese,61,130,Sunny,No Event
+2024-02-18,Dairy,Butter,50,111,Cloudy,Festival
+2024-02-18,Dairy,Yogurt,15,54,Rainy,No Event
+2024-02-18,Dairy,Paneer,68,167,Rainy,No Event
+2024-02-18,Beverages,Tea,92,184,Rainy,No Event
+2024-02-18,Beverages,Coffee,93,173,Cloudy,No Event
+2024-02-18,Beverages,Juice,31,124,Sunny,Festival
+2024-02-18,Beverages,Soda,95,126,Rainy,No Event
+2024-02-18,Beverages,Energy Drink,36,108,Sunny,No Event
+2024-02-18,Bakery,Bread,78,177,Cloudy,Holiday
+2024-02-18,Bakery,Croissant,56,106,Cloudy,Holiday
+2024-02-18,Bakery,Cake,40,113,Rainy,No Event
+2024-02-18,Bakery,Biscuits,21,115,Rainy,No Event
+2024-02-18,Bakery,Muffin,26,88,Cloudy,No Event
+2024-02-18,Frozen Foods,Frozen Peas,50,104,Sunny,No Event
+2024-02-18,Frozen Foods,Ice Cream,23,87,Rainy,No Event
+2024-02-18,Frozen Foods,Frozen Pizza,62,144,Sunny,No Event
+2024-02-18,Frozen Foods,French Fries,47,103,Rainy,No Event
+2024-02-18,Frozen Foods,Chicken Nuggets,42,122,Sunny,No Event
+2024-02-18,Snacks,Chips,65,164,Cloudy,No Event
+2024-02-18,Snacks,Popcorn,76,138,Rainy,No Event
+2024-02-18,Snacks,Cookies,61,147,Rainy,No Event
+2024-02-18,Snacks,Chocolates,23,49,Sunny,No Event
+2024-02-18,Snacks,Dry Fruits,58,138,Cloudy,No Event
+2024-02-19,Fruits,Mango,79,129,Sunny,Sports Event
+2024-02-19,Fruits,Banana,15,67,Rainy,No Event
+2024-02-19,Fruits,Apple,35,102,Rainy,No Event
+2024-02-19,Fruits,Orange,82,154,Cloudy,Sports Event
+2024-02-19,Fruits,Grapes,85,110,Cloudy,No Event
+2024-02-19,Vegetables,Tomato,54,85,Cloudy,No Event
+2024-02-19,Vegetables,Potato,73,151,Cloudy,Holiday
+2024-02-19,Vegetables,Onion,59,135,Sunny,No Event
+2024-02-19,Vegetables,Carrot,72,146,Sunny,No Event
+2024-02-19,Vegetables,Spinach,25,65,Rainy,Sports Event
+2024-02-19,Dairy,Milk,71,134,Rainy,No Event
+2024-02-19,Dairy,Cheese,83,171,Rainy,No Event
+2024-02-19,Dairy,Butter,55,127,Cloudy,No Event
+2024-02-19,Dairy,Yogurt,71,164,Cloudy,Sports Event
+2024-02-19,Dairy,Paneer,27,64,Sunny,No Event
+2024-02-19,Beverages,Tea,62,140,Sunny,Sports Event
+2024-02-19,Beverages,Coffee,41,89,Sunny,No Event
+2024-02-19,Beverages,Juice,65,88,Sunny,No Event
+2024-02-19,Beverages,Soda,95,147,Rainy,Festival
+2024-02-19,Beverages,Energy Drink,91,133,Sunny,Sports Event
+2024-02-19,Bakery,Bread,99,144,Sunny,No Event
+2024-02-19,Bakery,Croissant,42,72,Sunny,No Event
+2024-02-19,Bakery,Cake,64,150,Sunny,Holiday
+2024-02-19,Bakery,Biscuits,23,88,Sunny,Sports Event
+2024-02-19,Bakery,Muffin,61,94,Sunny,No Event
+2024-02-19,Frozen Foods,Frozen Peas,16,90,Cloudy,No Event
+2024-02-19,Frozen Foods,Ice Cream,37,89,Sunny,No Event
+2024-02-19,Frozen Foods,Frozen Pizza,35,134,Cloudy,No Event
+2024-02-19,Frozen Foods,French Fries,50,146,Rainy,No Event
+2024-02-19,Frozen Foods,Chicken Nuggets,45,141,Cloudy,No Event
+2024-02-19,Snacks,Chips,56,109,Sunny,No Event
+2024-02-19,Snacks,Popcorn,91,123,Sunny,Sports Event
+2024-02-19,Snacks,Cookies,73,159,Sunny,Sports Event
+2024-02-19,Snacks,Chocolates,28,110,Rainy,No Event
+2024-02-19,Snacks,Dry Fruits,27,76,Rainy,No Event
+2024-02-20,Fruits,Mango,57,83,Sunny,Sports Event
+2024-02-20,Fruits,Banana,96,187,Cloudy,No Event
+2024-02-20,Fruits,Apple,38,126,Sunny,No Event
+2024-02-20,Fruits,Orange,42,87,Sunny,No Event
+2024-02-20,Fruits,Grapes,58,110,Sunny,No Event
+2024-02-20,Vegetables,Tomato,20,60,Sunny,No Event
+2024-02-20,Vegetables,Potato,94,175,Cloudy,No Event
+2024-02-20,Vegetables,Onion,16,100,Rainy,Festival
+2024-02-20,Vegetables,Carrot,94,122,Rainy,No Event
+2024-02-20,Vegetables,Spinach,92,189,Sunny,No Event
+2024-02-20,Dairy,Milk,28,120,Sunny,No Event
+2024-02-20,Dairy,Cheese,25,63,Sunny,No Event
+2024-02-20,Dairy,Butter,79,131,Sunny,Festival
+2024-02-20,Dairy,Yogurt,88,179,Rainy,Sports Event
+2024-02-20,Dairy,Paneer,29,50,Cloudy,No Event
+2024-02-20,Beverages,Tea,97,186,Sunny,Festival
+2024-02-20,Beverages,Coffee,72,94,Cloudy,Holiday
+2024-02-20,Beverages,Juice,30,105,Sunny,No Event
+2024-02-20,Beverages,Soda,31,95,Rainy,No Event
+2024-02-20,Beverages,Energy Drink,92,148,Cloudy,Festival
+2024-02-20,Bakery,Bread,59,90,Cloudy,Holiday
+2024-02-20,Bakery,Croissant,36,112,Rainy,Festival
+2024-02-20,Bakery,Cake,23,98,Rainy,Festival
+2024-02-20,Bakery,Biscuits,84,167,Rainy,No Event
+2024-02-20,Bakery,Muffin,96,158,Cloudy,Festival
+2024-02-20,Frozen Foods,Frozen Peas,23,63,Rainy,No Event
+2024-02-20,Frozen Foods,Ice Cream,77,123,Sunny,No Event
+2024-02-20,Frozen Foods,Frozen Pizza,49,76,Rainy,Sports Event
+2024-02-20,Frozen Foods,French Fries,37,57,Rainy,Holiday
+2024-02-20,Frozen Foods,Chicken Nuggets,9,87,Rainy,Holiday
+2024-02-20,Snacks,Chips,69,142,Sunny,No Event
+2024-02-20,Snacks,Popcorn,29,117,Cloudy,No Event
+2024-02-20,Snacks,Cookies,86,155,Sunny,No Event
+2024-02-20,Snacks,Chocolates,22,98,Cloudy,No Event
+2024-02-20,Snacks,Dry Fruits,84,141,Sunny,No Event
+2024-02-21,Fruits,Mango,57,139,Sunny,Sports Event
+2024-02-21,Fruits,Banana,26,61,Sunny,No Event
+2024-02-21,Fruits,Apple,21,104,Cloudy,No Event
+2024-02-21,Fruits,Orange,76,151,Sunny,No Event
+2024-02-21,Fruits,Grapes,7,59,Sunny,No Event
+2024-02-21,Vegetables,Tomato,60,88,Sunny,No Event
+2024-02-21,Vegetables,Potato,33,91,Cloudy,No Event
+2024-02-21,Vegetables,Onion,21,96,Rainy,Sports Event
+2024-02-21,Vegetables,Carrot,73,106,Cloudy,No Event
+2024-02-21,Vegetables,Spinach,98,178,Cloudy,No Event
+2024-02-21,Dairy,Milk,14,110,Sunny,No Event
+2024-02-21,Dairy,Cheese,65,133,Sunny,No Event
+2024-02-21,Dairy,Butter,54,116,Sunny,Sports Event
+2024-02-21,Dairy,Yogurt,69,100,Sunny,No Event
+2024-02-21,Dairy,Paneer,45,71,Cloudy,No Event
+2024-02-21,Beverages,Tea,73,161,Sunny,No Event
+2024-02-21,Beverages,Coffee,10,48,Sunny,No Event
+2024-02-21,Beverages,Juice,20,76,Cloudy,Festival
+2024-02-21,Beverages,Soda,36,102,Rainy,Holiday
+2024-02-21,Beverages,Energy Drink,86,141,Rainy,Holiday
+2024-02-21,Bakery,Bread,33,57,Sunny,No Event
+2024-02-21,Bakery,Croissant,7,93,Cloudy,No Event
+2024-02-21,Bakery,Cake,19,105,Sunny,No Event
+2024-02-21,Bakery,Biscuits,86,180,Cloudy,No Event
+2024-02-21,Bakery,Muffin,44,128,Sunny,No Event
+2024-02-21,Frozen Foods,Frozen Peas,99,137,Cloudy,No Event
+2024-02-21,Frozen Foods,Ice Cream,19,79,Cloudy,No Event
+2024-02-21,Frozen Foods,Frozen Pizza,94,193,Sunny,No Event
+2024-02-21,Frozen Foods,French Fries,37,61,Sunny,No Event
+2024-02-21,Frozen Foods,Chicken Nuggets,91,124,Cloudy,No Event
+2024-02-21,Snacks,Chips,51,124,Rainy,No Event
+2024-02-21,Snacks,Popcorn,99,127,Sunny,No Event
+2024-02-21,Snacks,Cookies,64,129,Rainy,No Event
+2024-02-21,Snacks,Chocolates,99,155,Cloudy,No Event
+2024-02-21,Snacks,Dry Fruits,94,179,Sunny,No Event
+2024-02-22,Fruits,Mango,55,124,Cloudy,No Event
+2024-02-22,Fruits,Banana,36,77,Sunny,Holiday
+2024-02-22,Fruits,Apple,42,109,Cloudy,No Event
+2024-02-22,Fruits,Orange,59,129,Cloudy,Sports Event
+2024-02-22,Fruits,Grapes,90,177,Cloudy,No Event
+2024-02-22,Vegetables,Tomato,94,115,Cloudy,No Event
+2024-02-22,Vegetables,Potato,89,167,Cloudy,No Event
+2024-02-22,Vegetables,Onion,18,61,Sunny,No Event
+2024-02-22,Vegetables,Carrot,99,169,Rainy,No Event
+2024-02-22,Vegetables,Spinach,29,109,Rainy,Holiday
+2024-02-22,Dairy,Milk,40,135,Sunny,Sports Event
+2024-02-22,Dairy,Cheese,96,153,Sunny,No Event
+2024-02-22,Dairy,Butter,50,130,Rainy,Sports Event
+2024-02-22,Dairy,Yogurt,84,118,Sunny,No Event
+2024-02-22,Dairy,Paneer,64,140,Cloudy,No Event
+2024-02-22,Beverages,Tea,36,77,Cloudy,Sports Event
+2024-02-22,Beverages,Coffee,17,83,Cloudy,No Event
+2024-02-22,Beverages,Juice,33,74,Sunny,No Event
+2024-02-22,Beverages,Soda,9,63,Cloudy,Festival
+2024-02-22,Beverages,Energy Drink,75,140,Cloudy,No Event
+2024-02-22,Bakery,Bread,14,99,Rainy,No Event
+2024-02-22,Bakery,Croissant,29,92,Cloudy,Holiday
+2024-02-22,Bakery,Cake,50,92,Cloudy,Sports Event
+2024-02-22,Bakery,Biscuits,17,57,Sunny,No Event
+2024-02-22,Bakery,Muffin,64,116,Rainy,No Event
+2024-02-22,Frozen Foods,Frozen Peas,56,103,Rainy,Sports Event
+2024-02-22,Frozen Foods,Ice Cream,61,96,Cloudy,No Event
+2024-02-22,Frozen Foods,Frozen Pizza,45,141,Cloudy,No Event
+2024-02-22,Frozen Foods,French Fries,35,84,Rainy,No Event
+2024-02-22,Frozen Foods,Chicken Nuggets,30,109,Rainy,No Event
+2024-02-22,Snacks,Chips,60,110,Sunny,No Event
+2024-02-22,Snacks,Popcorn,6,64,Sunny,No Event
+2024-02-22,Snacks,Cookies,67,104,Sunny,No Event
+2024-02-22,Snacks,Chocolates,75,148,Sunny,Sports Event
+2024-02-22,Snacks,Dry Fruits,80,134,Cloudy,No Event
+2024-02-23,Fruits,Mango,72,116,Rainy,Sports Event
+2024-02-23,Fruits,Banana,42,124,Cloudy,No Event
+2024-02-23,Fruits,Apple,90,171,Sunny,No Event
+2024-02-23,Fruits,Orange,66,120,Rainy,Festival
+2024-02-23,Fruits,Grapes,47,68,Cloudy,Sports Event
+2024-02-23,Vegetables,Tomato,55,128,Rainy,No Event
+2024-02-23,Vegetables,Potato,40,100,Rainy,No Event
+2024-02-23,Vegetables,Onion,11,45,Cloudy,No Event
+2024-02-23,Vegetables,Carrot,70,144,Sunny,No Event
+2024-02-23,Vegetables,Spinach,99,198,Rainy,No Event
+2024-02-23,Dairy,Milk,48,124,Rainy,No Event
+2024-02-23,Dairy,Cheese,78,115,Cloudy,No Event
+2024-02-23,Dairy,Butter,12,95,Cloudy,Festival
+2024-02-23,Dairy,Yogurt,44,66,Sunny,No Event
+2024-02-23,Dairy,Paneer,97,168,Rainy,No Event
+2024-02-23,Beverages,Tea,10,67,Rainy,No Event
+2024-02-23,Beverages,Coffee,21,71,Sunny,Sports Event
+2024-02-23,Beverages,Juice,20,118,Cloudy,Holiday
+2024-02-23,Beverages,Soda,66,112,Cloudy,No Event
+2024-02-23,Beverages,Energy Drink,49,103,Cloudy,Festival
+2024-02-23,Bakery,Bread,13,108,Cloudy,No Event
+2024-02-23,Bakery,Croissant,39,109,Cloudy,No Event
+2024-02-23,Bakery,Cake,81,144,Sunny,Holiday
+2024-02-23,Bakery,Biscuits,92,191,Sunny,Sports Event
+2024-02-23,Bakery,Muffin,96,162,Cloudy,No Event
+2024-02-23,Frozen Foods,Frozen Peas,15,101,Cloudy,No Event
+2024-02-23,Frozen Foods,Ice Cream,5,73,Sunny,No Event
+2024-02-23,Frozen Foods,Frozen Pizza,91,155,Cloudy,No Event
+2024-02-23,Frozen Foods,French Fries,75,106,Cloudy,No Event
+2024-02-23,Frozen Foods,Chicken Nuggets,24,94,Sunny,No Event
+2024-02-23,Snacks,Chips,5,51,Sunny,Festival
+2024-02-23,Snacks,Popcorn,88,121,Sunny,No Event
+2024-02-23,Snacks,Cookies,83,108,Sunny,No Event
+2024-02-23,Snacks,Chocolates,81,129,Sunny,No Event
+2024-02-23,Snacks,Dry Fruits,84,127,Cloudy,No Event
+2024-02-24,Fruits,Mango,58,118,Sunny,No Event
+2024-02-24,Fruits,Banana,60,124,Rainy,Holiday
+2024-02-24,Fruits,Apple,78,152,Cloudy,No Event
+2024-02-24,Fruits,Orange,40,78,Cloudy,No Event
+2024-02-24,Fruits,Grapes,42,64,Rainy,No Event
+2024-02-24,Vegetables,Tomato,70,160,Rainy,No Event
+2024-02-24,Vegetables,Potato,66,156,Sunny,No Event
+2024-02-24,Vegetables,Onion,43,130,Sunny,No Event
+2024-02-24,Vegetables,Carrot,59,108,Sunny,No Event
+2024-02-24,Vegetables,Spinach,30,86,Cloudy,No Event
+2024-02-24,Dairy,Milk,57,106,Cloudy,Holiday
+2024-02-24,Dairy,Cheese,47,73,Sunny,No Event
+2024-02-24,Dairy,Butter,77,137,Rainy,No Event
+2024-02-24,Dairy,Yogurt,58,146,Sunny,Festival
+2024-02-24,Dairy,Paneer,31,58,Rainy,No Event
+2024-02-24,Beverages,Tea,97,151,Sunny,Festival
+2024-02-24,Beverages,Coffee,33,93,Rainy,No Event
+2024-02-24,Beverages,Juice,80,110,Rainy,No Event
+2024-02-24,Beverages,Soda,70,92,Cloudy,No Event
+2024-02-24,Beverages,Energy Drink,88,132,Rainy,No Event
+2024-02-24,Bakery,Bread,15,51,Rainy,No Event
+2024-02-24,Bakery,Croissant,27,102,Sunny,No Event
+2024-02-24,Bakery,Cake,35,81,Rainy,Sports Event
+2024-02-24,Bakery,Biscuits,8,40,Cloudy,No Event
+2024-02-24,Bakery,Muffin,76,161,Rainy,No Event
+2024-02-24,Frozen Foods,Frozen Peas,14,54,Rainy,No Event
+2024-02-24,Frozen Foods,Ice Cream,7,58,Rainy,No Event
+2024-02-24,Frozen Foods,Frozen Pizza,56,121,Rainy,Sports Event
+2024-02-24,Frozen Foods,French Fries,65,156,Cloudy,Sports Event
+2024-02-24,Frozen Foods,Chicken Nuggets,86,168,Sunny,No Event
+2024-02-24,Snacks,Chips,86,115,Cloudy,Holiday
+2024-02-24,Snacks,Popcorn,21,105,Rainy,No Event
+2024-02-24,Snacks,Cookies,19,71,Rainy,Sports Event
+2024-02-24,Snacks,Chocolates,99,153,Sunny,Sports Event
+2024-02-24,Snacks,Dry Fruits,87,131,Sunny,Holiday
+2024-02-25,Fruits,Mango,16,98,Sunny,Festival
+2024-02-25,Fruits,Banana,55,144,Sunny,No Event
+2024-02-25,Fruits,Apple,96,154,Cloudy,No Event
+2024-02-25,Fruits,Orange,8,74,Cloudy,Holiday
+2024-02-25,Fruits,Grapes,60,145,Cloudy,No Event
+2024-02-25,Vegetables,Tomato,20,56,Rainy,No Event
+2024-02-25,Vegetables,Potato,79,132,Sunny,Festival
+2024-02-25,Vegetables,Onion,67,127,Rainy,No Event
+2024-02-25,Vegetables,Carrot,83,112,Cloudy,Holiday
+2024-02-25,Vegetables,Spinach,61,97,Sunny,Festival
+2024-02-25,Dairy,Milk,77,176,Cloudy,Holiday
+2024-02-25,Dairy,Cheese,99,188,Rainy,No Event
+2024-02-25,Dairy,Butter,26,122,Rainy,No Event
+2024-02-25,Dairy,Yogurt,30,124,Sunny,Holiday
+2024-02-25,Dairy,Paneer,78,157,Rainy,No Event
+2024-02-25,Beverages,Tea,56,151,Rainy,No Event
+2024-02-25,Beverages,Coffee,72,119,Cloudy,Holiday
+2024-02-25,Beverages,Juice,61,146,Rainy,Festival
+2024-02-25,Beverages,Soda,18,53,Rainy,Holiday
+2024-02-25,Beverages,Energy Drink,85,126,Cloudy,Festival
+2024-02-25,Bakery,Bread,77,115,Rainy,No Event
+2024-02-25,Bakery,Croissant,22,64,Sunny,No Event
+2024-02-25,Bakery,Cake,43,130,Sunny,No Event
+2024-02-25,Bakery,Biscuits,34,98,Cloudy,Holiday
+2024-02-25,Bakery,Muffin,65,135,Rainy,Festival
+2024-02-25,Frozen Foods,Frozen Peas,6,30,Rainy,No Event
+2024-02-25,Frozen Foods,Ice Cream,90,114,Cloudy,No Event
+2024-02-25,Frozen Foods,Frozen Pizza,13,54,Cloudy,No Event
+2024-02-25,Frozen Foods,French Fries,65,135,Rainy,No Event
+2024-02-25,Frozen Foods,Chicken Nuggets,9,98,Cloudy,No Event
+2024-02-25,Snacks,Chips,63,145,Cloudy,No Event
+2024-02-25,Snacks,Popcorn,55,124,Sunny,No Event
+2024-02-25,Snacks,Cookies,52,103,Cloudy,No Event
+2024-02-25,Snacks,Chocolates,78,131,Rainy,No Event
+2024-02-25,Snacks,Dry Fruits,20,98,Sunny,No Event
+2024-02-26,Fruits,Mango,93,153,Sunny,No Event
+2024-02-26,Fruits,Banana,58,132,Cloudy,No Event
+2024-02-26,Fruits,Apple,97,175,Sunny,Sports Event
+2024-02-26,Fruits,Orange,22,67,Cloudy,No Event
+2024-02-26,Fruits,Grapes,61,86,Sunny,No Event
+2024-02-26,Vegetables,Tomato,55,99,Cloudy,No Event
+2024-02-26,Vegetables,Potato,87,116,Sunny,No Event
+2024-02-26,Vegetables,Onion,21,101,Rainy,No Event
+2024-02-26,Vegetables,Carrot,35,114,Rainy,No Event
+2024-02-26,Vegetables,Spinach,41,122,Rainy,No Event
+2024-02-26,Dairy,Milk,84,175,Sunny,No Event
+2024-02-26,Dairy,Cheese,92,191,Cloudy,No Event
+2024-02-26,Dairy,Butter,39,91,Rainy,No Event
+2024-02-26,Dairy,Yogurt,78,161,Sunny,No Event
+2024-02-26,Dairy,Paneer,38,67,Cloudy,Festival
+2024-02-26,Beverages,Tea,41,89,Sunny,No Event
+2024-02-26,Beverages,Coffee,30,61,Sunny,Festival
+2024-02-26,Beverages,Juice,62,135,Rainy,No Event
+2024-02-26,Beverages,Soda,39,73,Sunny,No Event
+2024-02-26,Beverages,Energy Drink,29,107,Cloudy,Festival
+2024-02-26,Bakery,Bread,10,81,Cloudy,No Event
+2024-02-26,Bakery,Croissant,75,126,Sunny,Festival
+2024-02-26,Bakery,Cake,73,154,Rainy,No Event
+2024-02-26,Bakery,Biscuits,85,160,Rainy,No Event
+2024-02-26,Bakery,Muffin,58,92,Sunny,No Event
+2024-02-26,Frozen Foods,Frozen Peas,41,63,Cloudy,No Event
+2024-02-26,Frozen Foods,Ice Cream,91,138,Rainy,No Event
+2024-02-26,Frozen Foods,Frozen Pizza,40,92,Rainy,No Event
+2024-02-26,Frozen Foods,French Fries,21,80,Cloudy,No Event
+2024-02-26,Frozen Foods,Chicken Nuggets,60,110,Cloudy,Festival
+2024-02-26,Snacks,Chips,52,102,Cloudy,No Event
+2024-02-26,Snacks,Popcorn,43,138,Sunny,No Event
+2024-02-26,Snacks,Cookies,75,148,Rainy,No Event
+2024-02-26,Snacks,Chocolates,75,123,Rainy,Sports Event
+2024-02-26,Snacks,Dry Fruits,52,145,Cloudy,No Event
+2024-02-27,Fruits,Mango,21,49,Sunny,No Event
+2024-02-27,Fruits,Banana,49,77,Cloudy,Sports Event
+2024-02-27,Fruits,Apple,10,40,Sunny,No Event
+2024-02-27,Fruits,Orange,46,78,Cloudy,No Event
+2024-02-27,Fruits,Grapes,24,93,Sunny,No Event
+2024-02-27,Vegetables,Tomato,16,75,Rainy,No Event
+2024-02-27,Vegetables,Potato,45,109,Cloudy,No Event
+2024-02-27,Vegetables,Onion,66,132,Sunny,No Event
+2024-02-27,Vegetables,Carrot,48,89,Rainy,Holiday
+2024-02-27,Vegetables,Spinach,84,134,Cloudy,No Event
+2024-02-27,Dairy,Milk,46,91,Sunny,Sports Event
+2024-02-27,Dairy,Cheese,71,93,Cloudy,No Event
+2024-02-27,Dairy,Butter,62,144,Cloudy,No Event
+2024-02-27,Dairy,Yogurt,93,136,Sunny,No Event
+2024-02-27,Dairy,Paneer,98,170,Sunny,Sports Event
+2024-02-27,Beverages,Tea,66,155,Sunny,Sports Event
+2024-02-27,Beverages,Coffee,46,115,Sunny,No Event
+2024-02-27,Beverages,Juice,76,170,Sunny,No Event
+2024-02-27,Beverages,Soda,61,128,Sunny,No Event
+2024-02-27,Beverages,Energy Drink,94,146,Cloudy,No Event
+2024-02-27,Bakery,Bread,10,101,Cloudy,No Event
+2024-02-27,Bakery,Croissant,57,90,Cloudy,Sports Event
+2024-02-27,Bakery,Cake,78,109,Rainy,No Event
+2024-02-27,Bakery,Biscuits,45,117,Sunny,No Event
+2024-02-27,Bakery,Muffin,93,176,Sunny,No Event
+2024-02-27,Frozen Foods,Frozen Peas,84,109,Sunny,No Event
+2024-02-27,Frozen Foods,Ice Cream,96,153,Sunny,Festival
+2024-02-27,Frozen Foods,Frozen Pizza,18,108,Rainy,No Event
+2024-02-27,Frozen Foods,French Fries,97,168,Cloudy,No Event
+2024-02-27,Frozen Foods,Chicken Nuggets,83,132,Rainy,No Event
+2024-02-27,Snacks,Chips,31,74,Cloudy,No Event
+2024-02-27,Snacks,Popcorn,22,118,Sunny,No Event
+2024-02-27,Snacks,Cookies,91,122,Sunny,No Event
+2024-02-27,Snacks,Chocolates,96,137,Sunny,No Event
+2024-02-27,Snacks,Dry Fruits,55,81,Sunny,No Event
+2024-02-28,Fruits,Mango,23,51,Cloudy,No Event
+2024-02-28,Fruits,Banana,44,87,Cloudy,No Event
+2024-02-28,Fruits,Apple,58,119,Cloudy,No Event
+2024-02-28,Fruits,Orange,94,127,Cloudy,Sports Event
+2024-02-28,Fruits,Grapes,10,36,Sunny,No Event
+2024-02-28,Vegetables,Tomato,91,148,Cloudy,No Event
+2024-02-28,Vegetables,Potato,48,114,Cloudy,No Event
+2024-02-28,Vegetables,Onion,64,135,Cloudy,Festival
+2024-02-28,Vegetables,Carrot,84,144,Cloudy,No Event
+2024-02-28,Vegetables,Spinach,88,121,Rainy,No Event
+2024-02-28,Dairy,Milk,62,121,Cloudy,No Event
+2024-02-28,Dairy,Cheese,81,132,Sunny,No Event
+2024-02-28,Dairy,Butter,58,88,Sunny,No Event
+2024-02-28,Dairy,Yogurt,44,95,Rainy,No Event
+2024-02-28,Dairy,Paneer,95,193,Rainy,Festival
+2024-02-28,Beverages,Tea,49,93,Rainy,No Event
+2024-02-28,Beverages,Coffee,50,83,Rainy,No Event
+2024-02-28,Beverages,Juice,86,112,Cloudy,No Event
+2024-02-28,Beverages,Soda,59,91,Sunny,Holiday
+2024-02-28,Beverages,Energy Drink,19,95,Rainy,No Event
+2024-02-28,Bakery,Bread,20,47,Sunny,Holiday
+2024-02-28,Bakery,Croissant,99,158,Sunny,No Event
+2024-02-28,Bakery,Cake,18,96,Sunny,No Event
+2024-02-28,Bakery,Biscuits,31,97,Cloudy,No Event
+2024-02-28,Bakery,Muffin,48,85,Sunny,Holiday
+2024-02-28,Frozen Foods,Frozen Peas,63,104,Sunny,Festival
+2024-02-28,Frozen Foods,Ice Cream,51,99,Rainy,No Event
+2024-02-28,Frozen Foods,Frozen Pizza,13,56,Cloudy,No Event
+2024-02-28,Frozen Foods,French Fries,95,158,Sunny,No Event
+2024-02-28,Frozen Foods,Chicken Nuggets,82,177,Sunny,No Event
+2024-02-28,Snacks,Chips,44,90,Sunny,Holiday
+2024-02-28,Snacks,Popcorn,72,112,Sunny,No Event
+2024-02-28,Snacks,Cookies,7,77,Cloudy,No Event
+2024-02-28,Snacks,Chocolates,84,177,Rainy,No Event
+2024-02-28,Snacks,Dry Fruits,63,88,Sunny,No Event
+2024-02-29,Fruits,Mango,64,105,Sunny,Holiday
+2024-02-29,Fruits,Banana,55,124,Cloudy,Festival
+2024-02-29,Fruits,Apple,46,104,Sunny,No Event
+2024-02-29,Fruits,Orange,61,101,Rainy,No Event
+2024-02-29,Fruits,Grapes,19,107,Sunny,No Event
+2024-02-29,Vegetables,Tomato,66,122,Rainy,No Event
+2024-02-29,Vegetables,Potato,12,104,Cloudy,Festival
+2024-02-29,Vegetables,Onion,35,75,Sunny,Holiday
+2024-02-29,Vegetables,Carrot,39,107,Cloudy,Festival
+2024-02-29,Vegetables,Spinach,61,122,Cloudy,No Event
+2024-02-29,Dairy,Milk,18,105,Sunny,No Event
+2024-02-29,Dairy,Cheese,80,123,Sunny,No Event
+2024-02-29,Dairy,Butter,92,118,Rainy,Sports Event
+2024-02-29,Dairy,Yogurt,19,84,Cloudy,No Event
+2024-02-29,Dairy,Paneer,48,82,Sunny,No Event
+2024-02-29,Beverages,Tea,53,93,Cloudy,No Event
+2024-02-29,Beverages,Coffee,84,118,Rainy,No Event
+2024-02-29,Beverages,Juice,31,103,Cloudy,Holiday
+2024-02-29,Beverages,Soda,61,132,Cloudy,No Event
+2024-02-29,Beverages,Energy Drink,46,69,Sunny,No Event
+2024-02-29,Bakery,Bread,96,195,Sunny,No Event
+2024-02-29,Bakery,Croissant,8,29,Rainy,Sports Event
+2024-02-29,Bakery,Cake,25,114,Cloudy,No Event
+2024-02-29,Bakery,Biscuits,73,101,Rainy,No Event
+2024-02-29,Bakery,Muffin,7,99,Cloudy,No Event
+2024-02-29,Frozen Foods,Frozen Peas,67,141,Cloudy,Festival
+2024-02-29,Frozen Foods,Ice Cream,73,107,Cloudy,No Event
+2024-02-29,Frozen Foods,Frozen Pizza,32,54,Rainy,No Event
+2024-02-29,Frozen Foods,French Fries,35,99,Cloudy,No Event
+2024-02-29,Frozen Foods,Chicken Nuggets,79,135,Sunny,No Event
+2024-02-29,Snacks,Chips,69,91,Cloudy,No Event
+2024-02-29,Snacks,Popcorn,35,80,Cloudy,Sports Event
+2024-02-29,Snacks,Cookies,76,159,Rainy,No Event
+2024-02-29,Snacks,Chocolates,60,153,Sunny,No Event
+2024-02-29,Snacks,Dry Fruits,57,129,Sunny,No Event
+2024-03-01,Fruits,Mango,23,104,Rainy,Holiday
+2024-03-01,Fruits,Banana,16,61,Cloudy,No Event
+2024-03-01,Fruits,Apple,50,70,Cloudy,No Event
+2024-03-01,Fruits,Orange,7,44,Rainy,Festival
+2024-03-01,Fruits,Grapes,93,172,Rainy,No Event
+2024-03-01,Vegetables,Tomato,23,64,Sunny,No Event
+2024-03-01,Vegetables,Potato,39,125,Cloudy,No Event
+2024-03-01,Vegetables,Onion,19,49,Cloudy,No Event
+2024-03-01,Vegetables,Carrot,28,124,Sunny,No Event
+2024-03-01,Vegetables,Spinach,77,153,Sunny,No Event
+2024-03-01,Dairy,Milk,41,108,Cloudy,No Event
+2024-03-01,Dairy,Cheese,16,56,Cloudy,Festival
+2024-03-01,Dairy,Butter,62,125,Rainy,No Event
+2024-03-01,Dairy,Yogurt,29,52,Cloudy,No Event
+2024-03-01,Dairy,Paneer,14,99,Cloudy,Holiday
+2024-03-01,Beverages,Tea,23,101,Sunny,No Event
+2024-03-01,Beverages,Coffee,12,109,Rainy,No Event
+2024-03-01,Beverages,Juice,33,67,Cloudy,No Event
+2024-03-01,Beverages,Soda,50,97,Rainy,No Event
+2024-03-01,Beverages,Energy Drink,8,82,Rainy,No Event
+2024-03-01,Bakery,Bread,59,158,Cloudy,No Event
+2024-03-01,Bakery,Croissant,32,79,Cloudy,No Event
+2024-03-01,Bakery,Cake,24,56,Sunny,Holiday
+2024-03-01,Bakery,Biscuits,52,86,Sunny,No Event
+2024-03-01,Bakery,Muffin,32,55,Rainy,No Event
+2024-03-01,Frozen Foods,Frozen Peas,43,96,Sunny,No Event
+2024-03-01,Frozen Foods,Ice Cream,44,75,Rainy,No Event
+2024-03-01,Frozen Foods,Frozen Pizza,78,164,Cloudy,No Event
+2024-03-01,Frozen Foods,French Fries,88,183,Cloudy,No Event
+2024-03-01,Frozen Foods,Chicken Nuggets,14,90,Sunny,No Event
+2024-03-01,Snacks,Chips,41,137,Cloudy,Sports Event
+2024-03-01,Snacks,Popcorn,90,149,Sunny,Sports Event
+2024-03-01,Snacks,Cookies,64,131,Sunny,Festival
+2024-03-01,Snacks,Chocolates,23,114,Cloudy,No Event
+2024-03-01,Snacks,Dry Fruits,96,152,Sunny,Sports Event
+2024-03-02,Fruits,Mango,92,132,Rainy,No Event
+2024-03-02,Fruits,Banana,34,129,Cloudy,No Event
+2024-03-02,Fruits,Apple,28,71,Rainy,No Event
+2024-03-02,Fruits,Orange,17,108,Rainy,No Event
+2024-03-02,Fruits,Grapes,68,107,Sunny,Holiday
+2024-03-02,Vegetables,Tomato,32,53,Sunny,No Event
+2024-03-02,Vegetables,Potato,17,71,Cloudy,No Event
+2024-03-02,Vegetables,Onion,19,40,Sunny,No Event
+2024-03-02,Vegetables,Carrot,68,139,Cloudy,No Event
+2024-03-02,Vegetables,Spinach,51,72,Sunny,No Event
+2024-03-02,Dairy,Milk,85,182,Cloudy,No Event
+2024-03-02,Dairy,Cheese,71,126,Rainy,No Event
+2024-03-02,Dairy,Butter,29,96,Cloudy,No Event
+2024-03-02,Dairy,Yogurt,25,74,Cloudy,Sports Event
+2024-03-02,Dairy,Paneer,30,71,Sunny,Festival
+2024-03-02,Beverages,Tea,81,146,Sunny,No Event
+2024-03-02,Beverages,Coffee,89,167,Rainy,No Event
+2024-03-02,Beverages,Juice,68,93,Sunny,No Event
+2024-03-02,Beverages,Soda,9,101,Rainy,Festival
+2024-03-02,Beverages,Energy Drink,48,130,Rainy,Sports Event
+2024-03-02,Bakery,Bread,30,102,Sunny,No Event
+2024-03-02,Bakery,Croissant,51,78,Cloudy,No Event
+2024-03-02,Bakery,Cake,39,111,Cloudy,No Event
+2024-03-02,Bakery,Biscuits,9,44,Sunny,No Event
+2024-03-02,Bakery,Muffin,56,95,Rainy,No Event
+2024-03-02,Frozen Foods,Frozen Peas,86,106,Rainy,No Event
+2024-03-02,Frozen Foods,Ice Cream,87,150,Rainy,No Event
+2024-03-02,Frozen Foods,Frozen Pizza,54,145,Rainy,No Event
+2024-03-02,Frozen Foods,French Fries,45,104,Rainy,No Event
+2024-03-02,Frozen Foods,Chicken Nuggets,49,139,Cloudy,Sports Event
+2024-03-02,Snacks,Chips,82,145,Sunny,No Event
+2024-03-02,Snacks,Popcorn,24,79,Cloudy,No Event
+2024-03-02,Snacks,Cookies,71,129,Sunny,No Event
+2024-03-02,Snacks,Chocolates,74,147,Rainy,No Event
+2024-03-02,Snacks,Dry Fruits,79,130,Sunny,No Event
+2024-03-03,Fruits,Mango,92,164,Cloudy,No Event
+2024-03-03,Fruits,Banana,31,88,Rainy,Festival
+2024-03-03,Fruits,Apple,68,164,Sunny,Festival
+2024-03-03,Fruits,Orange,53,113,Sunny,Sports Event
+2024-03-03,Fruits,Grapes,98,142,Rainy,No Event
+2024-03-03,Vegetables,Tomato,22,46,Cloudy,No Event
+2024-03-03,Vegetables,Potato,36,76,Rainy,Holiday
+2024-03-03,Vegetables,Onion,90,122,Cloudy,No Event
+2024-03-03,Vegetables,Carrot,92,155,Rainy,No Event
+2024-03-03,Vegetables,Spinach,41,79,Cloudy,No Event
+2024-03-03,Dairy,Milk,98,188,Cloudy,Sports Event
+2024-03-03,Dairy,Cheese,50,115,Cloudy,No Event
+2024-03-03,Dairy,Butter,67,158,Cloudy,No Event
+2024-03-03,Dairy,Yogurt,33,70,Cloudy,Festival
+2024-03-03,Dairy,Paneer,80,146,Rainy,No Event
+2024-03-03,Beverages,Tea,79,157,Cloudy,No Event
+2024-03-03,Beverages,Coffee,51,83,Rainy,No Event
+2024-03-03,Beverages,Juice,93,145,Sunny,No Event
+2024-03-03,Beverages,Soda,20,83,Rainy,No Event
+2024-03-03,Beverages,Energy Drink,10,44,Rainy,Sports Event
+2024-03-03,Bakery,Bread,99,174,Cloudy,No Event
+2024-03-03,Bakery,Croissant,67,158,Rainy,Holiday
+2024-03-03,Bakery,Cake,25,99,Sunny,No Event
+2024-03-03,Bakery,Biscuits,8,77,Cloudy,No Event
+2024-03-03,Bakery,Muffin,82,131,Sunny,No Event
+2024-03-03,Frozen Foods,Frozen Peas,45,90,Rainy,Festival
+2024-03-03,Frozen Foods,Ice Cream,60,93,Rainy,No Event
+2024-03-03,Frozen Foods,Frozen Pizza,99,179,Sunny,Festival
+2024-03-03,Frozen Foods,French Fries,48,126,Sunny,No Event
+2024-03-03,Frozen Foods,Chicken Nuggets,42,104,Sunny,No Event
+2024-03-03,Snacks,Chips,18,43,Sunny,No Event
+2024-03-03,Snacks,Popcorn,64,95,Sunny,No Event
+2024-03-03,Snacks,Cookies,10,92,Rainy,No Event
+2024-03-03,Snacks,Chocolates,56,115,Sunny,No Event
+2024-03-03,Snacks,Dry Fruits,38,136,Sunny,Sports Event
+2024-03-04,Fruits,Mango,26,85,Sunny,Sports Event
+2024-03-04,Fruits,Banana,90,114,Cloudy,Holiday
+2024-03-04,Fruits,Apple,88,187,Rainy,Sports Event
+2024-03-04,Fruits,Orange,28,54,Rainy,No Event
+2024-03-04,Fruits,Grapes,72,133,Rainy,Sports Event
+2024-03-04,Vegetables,Tomato,54,88,Cloudy,No Event
+2024-03-04,Vegetables,Potato,57,101,Sunny,No Event
+2024-03-04,Vegetables,Onion,89,117,Cloudy,No Event
+2024-03-04,Vegetables,Carrot,26,94,Sunny,No Event
+2024-03-04,Vegetables,Spinach,58,107,Sunny,No Event
+2024-03-04,Dairy,Milk,90,186,Cloudy,No Event
+2024-03-04,Dairy,Cheese,49,141,Sunny,Festival
+2024-03-04,Dairy,Butter,78,108,Cloudy,No Event
+2024-03-04,Dairy,Yogurt,99,196,Cloudy,Holiday
+2024-03-04,Dairy,Paneer,54,90,Cloudy,No Event
+2024-03-04,Beverages,Tea,55,138,Sunny,No Event
+2024-03-04,Beverages,Coffee,32,67,Cloudy,No Event
+2024-03-04,Beverages,Juice,89,125,Sunny,No Event
+2024-03-04,Beverages,Soda,41,139,Sunny,No Event
+2024-03-04,Beverages,Energy Drink,83,136,Rainy,No Event
+2024-03-04,Bakery,Bread,24,116,Cloudy,No Event
+2024-03-04,Bakery,Croissant,37,134,Sunny,No Event
+2024-03-04,Bakery,Cake,5,37,Rainy,No Event
+2024-03-04,Bakery,Biscuits,63,88,Sunny,No Event
+2024-03-04,Bakery,Muffin,27,56,Cloudy,Festival
+2024-03-04,Frozen Foods,Frozen Peas,96,183,Cloudy,No Event
+2024-03-04,Frozen Foods,Ice Cream,61,148,Rainy,No Event
+2024-03-04,Frozen Foods,Frozen Pizza,75,144,Rainy,No Event
+2024-03-04,Frozen Foods,French Fries,23,51,Sunny,No Event
+2024-03-04,Frozen Foods,Chicken Nuggets,54,153,Rainy,Sports Event
+2024-03-04,Snacks,Chips,17,48,Rainy,Holiday
+2024-03-04,Snacks,Popcorn,34,61,Sunny,Holiday
+2024-03-04,Snacks,Cookies,70,137,Sunny,No Event
+2024-03-04,Snacks,Chocolates,30,75,Rainy,Holiday
+2024-03-04,Snacks,Dry Fruits,52,126,Cloudy,No Event
+2024-03-05,Fruits,Mango,82,141,Cloudy,No Event
+2024-03-05,Fruits,Banana,22,64,Rainy,No Event
+2024-03-05,Fruits,Apple,43,77,Sunny,Sports Event
+2024-03-05,Fruits,Orange,67,166,Cloudy,Sports Event
+2024-03-05,Fruits,Grapes,17,83,Cloudy,No Event
+2024-03-05,Vegetables,Tomato,38,86,Sunny,No Event
+2024-03-05,Vegetables,Potato,68,111,Cloudy,Festival
+2024-03-05,Vegetables,Onion,16,58,Cloudy,Festival
+2024-03-05,Vegetables,Carrot,17,81,Rainy,Festival
+2024-03-05,Vegetables,Spinach,51,128,Sunny,No Event
+2024-03-05,Dairy,Milk,81,105,Cloudy,No Event
+2024-03-05,Dairy,Cheese,22,62,Rainy,No Event
+2024-03-05,Dairy,Butter,89,168,Sunny,No Event
+2024-03-05,Dairy,Yogurt,27,68,Rainy,No Event
+2024-03-05,Dairy,Paneer,32,90,Rainy,No Event
+2024-03-05,Beverages,Tea,84,105,Sunny,Festival
+2024-03-05,Beverages,Coffee,74,162,Sunny,Festival
+2024-03-05,Beverages,Juice,54,85,Cloudy,No Event
+2024-03-05,Beverages,Soda,69,115,Rainy,No Event
+2024-03-05,Beverages,Energy Drink,63,90,Cloudy,Sports Event
+2024-03-05,Bakery,Bread,6,64,Sunny,Holiday
+2024-03-05,Bakery,Croissant,42,138,Cloudy,No Event
+2024-03-05,Bakery,Cake,63,137,Sunny,No Event
+2024-03-05,Bakery,Biscuits,9,88,Cloudy,No Event
+2024-03-05,Bakery,Muffin,14,79,Sunny,Festival
+2024-03-05,Frozen Foods,Frozen Peas,59,126,Sunny,No Event
+2024-03-05,Frozen Foods,Ice Cream,64,157,Rainy,No Event
+2024-03-05,Frozen Foods,Frozen Pizza,78,118,Rainy,No Event
+2024-03-05,Frozen Foods,French Fries,99,180,Sunny,No Event
+2024-03-05,Frozen Foods,Chicken Nuggets,6,91,Cloudy,No Event
+2024-03-05,Snacks,Chips,38,99,Sunny,No Event
+2024-03-05,Snacks,Popcorn,79,140,Cloudy,No Event
+2024-03-05,Snacks,Cookies,53,109,Rainy,Holiday
+2024-03-05,Snacks,Chocolates,22,119,Cloudy,No Event
+2024-03-05,Snacks,Dry Fruits,21,100,Cloudy,Sports Event
+2024-03-06,Fruits,Mango,85,176,Sunny,No Event
+2024-03-06,Fruits,Banana,11,35,Rainy,No Event
+2024-03-06,Fruits,Apple,24,46,Sunny,No Event
+2024-03-06,Fruits,Orange,55,122,Sunny,No Event
+2024-03-06,Fruits,Grapes,69,161,Cloudy,No Event
+2024-03-06,Vegetables,Tomato,30,105,Rainy,No Event
+2024-03-06,Vegetables,Potato,17,105,Sunny,Holiday
+2024-03-06,Vegetables,Onion,93,159,Cloudy,Holiday
+2024-03-06,Vegetables,Carrot,32,57,Cloudy,Sports Event
+2024-03-06,Vegetables,Spinach,66,137,Cloudy,No Event
+2024-03-06,Dairy,Milk,78,112,Cloudy,No Event
+2024-03-06,Dairy,Cheese,82,104,Sunny,No Event
+2024-03-06,Dairy,Butter,71,109,Cloudy,No Event
+2024-03-06,Dairy,Yogurt,73,102,Sunny,Festival
+2024-03-06,Dairy,Paneer,55,106,Cloudy,No Event
+2024-03-06,Beverages,Tea,28,82,Cloudy,No Event
+2024-03-06,Beverages,Coffee,58,121,Rainy,No Event
+2024-03-06,Beverages,Juice,72,124,Sunny,No Event
+2024-03-06,Beverages,Soda,58,96,Cloudy,No Event
+2024-03-06,Beverages,Energy Drink,74,105,Cloudy,Festival
+2024-03-06,Bakery,Bread,7,29,Cloudy,No Event
+2024-03-06,Bakery,Croissant,46,105,Rainy,No Event
+2024-03-06,Bakery,Cake,31,71,Rainy,No Event
+2024-03-06,Bakery,Biscuits,39,105,Rainy,No Event
+2024-03-06,Bakery,Muffin,22,72,Sunny,No Event
+2024-03-06,Frozen Foods,Frozen Peas,25,58,Sunny,Sports Event
+2024-03-06,Frozen Foods,Ice Cream,64,106,Cloudy,Sports Event
+2024-03-06,Frozen Foods,Frozen Pizza,33,99,Rainy,No Event
+2024-03-06,Frozen Foods,French Fries,88,145,Cloudy,Holiday
+2024-03-06,Frozen Foods,Chicken Nuggets,91,125,Cloudy,No Event
+2024-03-06,Snacks,Chips,83,182,Sunny,No Event
+2024-03-06,Snacks,Popcorn,15,82,Sunny,Holiday
+2024-03-06,Snacks,Cookies,18,87,Rainy,No Event
+2024-03-06,Snacks,Chocolates,11,46,Cloudy,No Event
+2024-03-06,Snacks,Dry Fruits,60,83,Sunny,No Event
+2024-03-07,Fruits,Mango,74,173,Sunny,No Event
+2024-03-07,Fruits,Banana,66,133,Rainy,Sports Event
+2024-03-07,Fruits,Apple,33,130,Rainy,No Event
+2024-03-07,Fruits,Orange,17,82,Cloudy,No Event
+2024-03-07,Fruits,Grapes,25,124,Cloudy,No Event
+2024-03-07,Vegetables,Tomato,73,162,Rainy,No Event
+2024-03-07,Vegetables,Potato,80,132,Sunny,No Event
+2024-03-07,Vegetables,Onion,31,122,Sunny,No Event
+2024-03-07,Vegetables,Carrot,30,115,Rainy,No Event
+2024-03-07,Vegetables,Spinach,72,128,Rainy,Festival
+2024-03-07,Dairy,Milk,5,49,Rainy,No Event
+2024-03-07,Dairy,Cheese,57,132,Cloudy,No Event
+2024-03-07,Dairy,Butter,63,127,Cloudy,No Event
+2024-03-07,Dairy,Yogurt,95,130,Rainy,Holiday
+2024-03-07,Dairy,Paneer,7,106,Rainy,Sports Event
+2024-03-07,Beverages,Tea,54,87,Rainy,Sports Event
+2024-03-07,Beverages,Coffee,51,103,Cloudy,No Event
+2024-03-07,Beverages,Juice,61,85,Sunny,No Event
+2024-03-07,Beverages,Soda,74,95,Rainy,No Event
+2024-03-07,Beverages,Energy Drink,8,83,Sunny,Sports Event
+2024-03-07,Bakery,Bread,13,35,Rainy,No Event
+2024-03-07,Bakery,Croissant,95,115,Sunny,No Event
+2024-03-07,Bakery,Cake,20,90,Cloudy,No Event
+2024-03-07,Bakery,Biscuits,59,79,Rainy,No Event
+2024-03-07,Bakery,Muffin,62,154,Cloudy,No Event
+2024-03-07,Frozen Foods,Frozen Peas,12,80,Rainy,No Event
+2024-03-07,Frozen Foods,Ice Cream,87,131,Rainy,Festival
+2024-03-07,Frozen Foods,Frozen Pizza,28,107,Cloudy,Sports Event
+2024-03-07,Frozen Foods,French Fries,70,103,Sunny,Festival
+2024-03-07,Frozen Foods,Chicken Nuggets,96,163,Cloudy,No Event
+2024-03-07,Snacks,Chips,81,176,Cloudy,No Event
+2024-03-07,Snacks,Popcorn,47,117,Rainy,Holiday
+2024-03-07,Snacks,Cookies,67,135,Cloudy,No Event
+2024-03-07,Snacks,Chocolates,43,127,Cloudy,No Event
+2024-03-07,Snacks,Dry Fruits,11,102,Cloudy,No Event
+2024-03-08,Fruits,Mango,75,147,Rainy,Holiday
+2024-03-08,Fruits,Banana,91,167,Cloudy,No Event
+2024-03-08,Fruits,Apple,31,104,Sunny,No Event
+2024-03-08,Fruits,Orange,27,94,Cloudy,No Event
+2024-03-08,Fruits,Grapes,95,117,Cloudy,No Event
+2024-03-08,Vegetables,Tomato,14,82,Rainy,No Event
+2024-03-08,Vegetables,Potato,25,97,Cloudy,No Event
+2024-03-08,Vegetables,Onion,93,166,Sunny,No Event
+2024-03-08,Vegetables,Carrot,53,79,Sunny,Sports Event
+2024-03-08,Vegetables,Spinach,17,39,Rainy,No Event
+2024-03-08,Dairy,Milk,10,74,Cloudy,Holiday
+2024-03-08,Dairy,Cheese,75,126,Sunny,Holiday
+2024-03-08,Dairy,Butter,29,108,Cloudy,No Event
+2024-03-08,Dairy,Yogurt,62,101,Rainy,No Event
+2024-03-08,Dairy,Paneer,64,126,Sunny,No Event
+2024-03-08,Beverages,Tea,58,122,Rainy,Festival
+2024-03-08,Beverages,Coffee,52,125,Rainy,No Event
+2024-03-08,Beverages,Juice,67,164,Cloudy,Holiday
+2024-03-08,Beverages,Soda,17,83,Sunny,No Event
+2024-03-08,Beverages,Energy Drink,57,90,Sunny,No Event
+2024-03-08,Bakery,Bread,44,85,Cloudy,No Event
+2024-03-08,Bakery,Croissant,64,93,Sunny,Sports Event
+2024-03-08,Bakery,Cake,95,147,Cloudy,No Event
+2024-03-08,Bakery,Biscuits,94,134,Sunny,No Event
+2024-03-08,Bakery,Muffin,94,117,Sunny,Holiday
+2024-03-08,Frozen Foods,Frozen Peas,49,72,Sunny,No Event
+2024-03-08,Frozen Foods,Ice Cream,27,62,Rainy,Festival
+2024-03-08,Frozen Foods,Frozen Pizza,52,133,Sunny,No Event
+2024-03-08,Frozen Foods,French Fries,84,108,Cloudy,Sports Event
+2024-03-08,Frozen Foods,Chicken Nuggets,13,77,Rainy,No Event
+2024-03-08,Snacks,Chips,28,57,Sunny,Sports Event
+2024-03-08,Snacks,Popcorn,39,112,Cloudy,No Event
+2024-03-08,Snacks,Cookies,75,110,Sunny,No Event
+2024-03-08,Snacks,Chocolates,24,112,Sunny,No Event
+2024-03-08,Snacks,Dry Fruits,73,141,Cloudy,No Event
+2024-03-09,Fruits,Mango,43,83,Sunny,No Event
+2024-03-09,Fruits,Banana,58,89,Sunny,No Event
+2024-03-09,Fruits,Apple,42,76,Cloudy,No Event
+2024-03-09,Fruits,Orange,69,155,Sunny,No Event
+2024-03-09,Fruits,Grapes,47,143,Cloudy,No Event
+2024-03-09,Vegetables,Tomato,85,165,Cloudy,No Event
+2024-03-09,Vegetables,Potato,33,100,Rainy,No Event
+2024-03-09,Vegetables,Onion,66,98,Cloudy,Holiday
+2024-03-09,Vegetables,Carrot,95,167,Rainy,No Event
+2024-03-09,Vegetables,Spinach,80,143,Rainy,Holiday
+2024-03-09,Dairy,Milk,61,114,Cloudy,Holiday
+2024-03-09,Dairy,Cheese,56,104,Cloudy,No Event
+2024-03-09,Dairy,Butter,37,131,Sunny,No Event
+2024-03-09,Dairy,Yogurt,13,80,Cloudy,No Event
+2024-03-09,Dairy,Paneer,40,130,Cloudy,Festival
+2024-03-09,Beverages,Tea,86,165,Cloudy,No Event
+2024-03-09,Beverages,Coffee,90,185,Cloudy,No Event
+2024-03-09,Beverages,Juice,71,108,Rainy,No Event
+2024-03-09,Beverages,Soda,70,94,Sunny,No Event
+2024-03-09,Beverages,Energy Drink,88,112,Rainy,No Event
+2024-03-09,Bakery,Bread,83,110,Sunny,No Event
+2024-03-09,Bakery,Croissant,25,106,Cloudy,No Event
+2024-03-09,Bakery,Cake,37,82,Rainy,Sports Event
+2024-03-09,Bakery,Biscuits,69,147,Cloudy,No Event
+2024-03-09,Bakery,Muffin,15,89,Rainy,No Event
+2024-03-09,Frozen Foods,Frozen Peas,48,83,Rainy,No Event
+2024-03-09,Frozen Foods,Ice Cream,22,88,Sunny,No Event
+2024-03-09,Frozen Foods,Frozen Pizza,62,143,Sunny,No Event
+2024-03-09,Frozen Foods,French Fries,71,131,Cloudy,No Event
+2024-03-09,Frozen Foods,Chicken Nuggets,22,99,Rainy,No Event
+2024-03-09,Snacks,Chips,31,118,Rainy,Festival
+2024-03-09,Snacks,Popcorn,78,163,Rainy,Festival
+2024-03-09,Snacks,Cookies,85,134,Rainy,No Event
+2024-03-09,Snacks,Chocolates,14,46,Sunny,No Event
+2024-03-09,Snacks,Dry Fruits,28,81,Cloudy,No Event
+2024-03-10,Fruits,Mango,9,107,Rainy,No Event
+2024-03-10,Fruits,Banana,56,114,Rainy,Sports Event
+2024-03-10,Fruits,Apple,49,96,Cloudy,No Event
+2024-03-10,Fruits,Orange,69,122,Sunny,Festival
+2024-03-10,Fruits,Grapes,66,123,Rainy,Festival
+2024-03-10,Vegetables,Tomato,43,83,Rainy,No Event
+2024-03-10,Vegetables,Potato,52,84,Sunny,No Event
+2024-03-10,Vegetables,Onion,39,77,Rainy,No Event
+2024-03-10,Vegetables,Carrot,85,172,Sunny,Holiday
+2024-03-10,Vegetables,Spinach,68,153,Cloudy,No Event
+2024-03-10,Dairy,Milk,49,142,Cloudy,Sports Event
+2024-03-10,Dairy,Cheese,42,138,Rainy,No Event
+2024-03-10,Dairy,Butter,54,108,Sunny,No Event
+2024-03-10,Dairy,Yogurt,70,133,Cloudy,No Event
+2024-03-10,Dairy,Paneer,25,79,Sunny,Holiday
+2024-03-10,Beverages,Tea,97,169,Sunny,No Event
+2024-03-10,Beverages,Coffee,12,107,Rainy,No Event
+2024-03-10,Beverages,Juice,83,126,Rainy,No Event
+2024-03-10,Beverages,Soda,57,115,Rainy,Holiday
+2024-03-10,Beverages,Energy Drink,10,50,Sunny,No Event
+2024-03-10,Bakery,Bread,7,104,Rainy,No Event
+2024-03-10,Bakery,Croissant,95,147,Rainy,Festival
+2024-03-10,Bakery,Cake,87,176,Sunny,No Event
+2024-03-10,Bakery,Biscuits,30,70,Rainy,Holiday
+2024-03-10,Bakery,Muffin,34,80,Cloudy,No Event
+2024-03-10,Frozen Foods,Frozen Peas,99,141,Sunny,No Event
+2024-03-10,Frozen Foods,Ice Cream,18,57,Sunny,Holiday
+2024-03-10,Frozen Foods,Frozen Pizza,94,191,Cloudy,No Event
+2024-03-10,Frozen Foods,French Fries,94,137,Sunny,No Event
+2024-03-10,Frozen Foods,Chicken Nuggets,71,103,Cloudy,Sports Event
+2024-03-10,Snacks,Chips,89,134,Cloudy,Holiday
+2024-03-10,Snacks,Popcorn,72,127,Cloudy,No Event
+2024-03-10,Snacks,Cookies,37,63,Sunny,No Event
+2024-03-10,Snacks,Chocolates,15,61,Sunny,No Event
+2024-03-10,Snacks,Dry Fruits,84,149,Sunny,Sports Event
+2024-03-11,Fruits,Mango,28,108,Rainy,No Event
+2024-03-11,Fruits,Banana,13,49,Rainy,No Event
+2024-03-11,Fruits,Apple,62,94,Rainy,No Event
+2024-03-11,Fruits,Orange,89,159,Cloudy,No Event
+2024-03-11,Fruits,Grapes,15,78,Rainy,No Event
+2024-03-11,Vegetables,Tomato,78,147,Sunny,No Event
+2024-03-11,Vegetables,Potato,73,149,Rainy,No Event
+2024-03-11,Vegetables,Onion,64,95,Cloudy,Festival
+2024-03-11,Vegetables,Carrot,68,149,Sunny,Festival
+2024-03-11,Vegetables,Spinach,22,121,Cloudy,No Event
+2024-03-11,Dairy,Milk,77,99,Rainy,Festival
+2024-03-11,Dairy,Cheese,42,129,Cloudy,No Event
+2024-03-11,Dairy,Butter,84,166,Rainy,No Event
+2024-03-11,Dairy,Yogurt,82,178,Sunny,Holiday
+2024-03-11,Dairy,Paneer,41,64,Rainy,No Event
+2024-03-11,Beverages,Tea,48,134,Rainy,No Event
+2024-03-11,Beverages,Coffee,78,159,Sunny,No Event
+2024-03-11,Beverages,Juice,13,85,Sunny,No Event
+2024-03-11,Beverages,Soda,13,44,Cloudy,Holiday
+2024-03-11,Beverages,Energy Drink,70,164,Cloudy,Sports Event
+2024-03-11,Bakery,Bread,10,82,Cloudy,No Event
+2024-03-11,Bakery,Croissant,38,114,Sunny,No Event
+2024-03-11,Bakery,Cake,23,113,Cloudy,No Event
+2024-03-11,Bakery,Biscuits,18,74,Sunny,No Event
+2024-03-11,Bakery,Muffin,96,165,Sunny,No Event
+2024-03-11,Frozen Foods,Frozen Peas,31,122,Sunny,No Event
+2024-03-11,Frozen Foods,Ice Cream,13,77,Rainy,No Event
+2024-03-11,Frozen Foods,Frozen Pizza,13,62,Rainy,Sports Event
+2024-03-11,Frozen Foods,French Fries,9,91,Cloudy,Holiday
+2024-03-11,Frozen Foods,Chicken Nuggets,82,174,Rainy,Holiday
+2024-03-11,Snacks,Chips,82,169,Sunny,Festival
+2024-03-11,Snacks,Popcorn,11,43,Rainy,No Event
+2024-03-11,Snacks,Cookies,40,73,Rainy,No Event
+2024-03-11,Snacks,Chocolates,31,87,Cloudy,Festival
+2024-03-11,Snacks,Dry Fruits,29,115,Rainy,No Event
+2024-03-12,Fruits,Mango,83,176,Sunny,No Event
+2024-03-12,Fruits,Banana,20,58,Sunny,Festival
+2024-03-12,Fruits,Apple,22,99,Sunny,Festival
+2024-03-12,Fruits,Orange,6,81,Cloudy,Sports Event
+2024-03-12,Fruits,Grapes,69,93,Rainy,Holiday
+2024-03-12,Vegetables,Tomato,17,101,Cloudy,No Event
+2024-03-12,Vegetables,Potato,68,119,Cloudy,Festival
+2024-03-12,Vegetables,Onion,50,121,Rainy,Festival
+2024-03-12,Vegetables,Carrot,80,159,Sunny,Sports Event
+2024-03-12,Vegetables,Spinach,59,135,Rainy,No Event
+2024-03-12,Dairy,Milk,77,122,Sunny,Festival
+2024-03-12,Dairy,Cheese,50,116,Cloudy,No Event
+2024-03-12,Dairy,Butter,18,39,Cloudy,No Event
+2024-03-12,Dairy,Yogurt,74,126,Sunny,No Event
+2024-03-12,Dairy,Paneer,94,150,Rainy,No Event
+2024-03-12,Beverages,Tea,81,113,Cloudy,No Event
+2024-03-12,Beverages,Coffee,22,98,Cloudy,No Event
+2024-03-12,Beverages,Juice,90,175,Sunny,No Event
+2024-03-12,Beverages,Soda,96,173,Cloudy,Festival
+2024-03-12,Beverages,Energy Drink,70,119,Sunny,Sports Event
+2024-03-12,Bakery,Bread,90,178,Cloudy,No Event
+2024-03-12,Bakery,Croissant,94,144,Cloudy,No Event
+2024-03-12,Bakery,Cake,91,158,Sunny,No Event
+2024-03-12,Bakery,Biscuits,60,97,Cloudy,Festival
+2024-03-12,Bakery,Muffin,84,155,Sunny,Festival
+2024-03-12,Frozen Foods,Frozen Peas,13,58,Sunny,No Event
+2024-03-12,Frozen Foods,Ice Cream,40,68,Cloudy,No Event
+2024-03-12,Frozen Foods,Frozen Pizza,80,156,Rainy,Holiday
+2024-03-12,Frozen Foods,French Fries,61,134,Rainy,No Event
+2024-03-12,Frozen Foods,Chicken Nuggets,60,102,Sunny,No Event
+2024-03-12,Snacks,Chips,76,125,Sunny,No Event
+2024-03-12,Snacks,Popcorn,82,123,Sunny,No Event
+2024-03-12,Snacks,Cookies,19,86,Sunny,Sports Event
+2024-03-12,Snacks,Chocolates,44,120,Rainy,No Event
+2024-03-12,Snacks,Dry Fruits,20,67,Rainy,Holiday
+2024-03-13,Fruits,Mango,45,112,Cloudy,No Event
+2024-03-13,Fruits,Banana,37,89,Cloudy,No Event
+2024-03-13,Fruits,Apple,27,106,Cloudy,No Event
+2024-03-13,Fruits,Orange,94,143,Sunny,No Event
+2024-03-13,Fruits,Grapes,43,107,Rainy,Holiday
+2024-03-13,Vegetables,Tomato,97,148,Sunny,No Event
+2024-03-13,Vegetables,Potato,83,158,Sunny,No Event
+2024-03-13,Vegetables,Onion,38,85,Rainy,No Event
+2024-03-13,Vegetables,Carrot,98,143,Cloudy,No Event
+2024-03-13,Vegetables,Spinach,88,182,Rainy,Festival
+2024-03-13,Dairy,Milk,27,83,Sunny,No Event
+2024-03-13,Dairy,Cheese,86,154,Cloudy,No Event
+2024-03-13,Dairy,Butter,70,113,Rainy,No Event
+2024-03-13,Dairy,Yogurt,70,150,Rainy,No Event
+2024-03-13,Dairy,Paneer,79,172,Cloudy,Sports Event
+2024-03-13,Beverages,Tea,19,75,Cloudy,No Event
+2024-03-13,Beverages,Coffee,39,92,Sunny,No Event
+2024-03-13,Beverages,Juice,91,129,Cloudy,No Event
+2024-03-13,Beverages,Soda,43,79,Cloudy,No Event
+2024-03-13,Beverages,Energy Drink,39,90,Cloudy,No Event
+2024-03-13,Bakery,Bread,68,133,Cloudy,No Event
+2024-03-13,Bakery,Croissant,98,134,Rainy,No Event
+2024-03-13,Bakery,Cake,74,110,Sunny,No Event
+2024-03-13,Bakery,Biscuits,61,130,Sunny,No Event
+2024-03-13,Bakery,Muffin,43,117,Rainy,No Event
+2024-03-13,Frozen Foods,Frozen Peas,18,64,Cloudy,Holiday
+2024-03-13,Frozen Foods,Ice Cream,77,140,Sunny,Sports Event
+2024-03-13,Frozen Foods,Frozen Pizza,8,99,Rainy,No Event
+2024-03-13,Frozen Foods,French Fries,15,65,Cloudy,No Event
+2024-03-13,Frozen Foods,Chicken Nuggets,60,117,Sunny,No Event
+2024-03-13,Snacks,Chips,98,127,Rainy,Festival
+2024-03-13,Snacks,Popcorn,12,91,Cloudy,Festival
+2024-03-13,Snacks,Cookies,20,52,Cloudy,No Event
+2024-03-13,Snacks,Chocolates,26,72,Rainy,Sports Event
+2024-03-13,Snacks,Dry Fruits,30,118,Sunny,Festival
+2024-03-14,Fruits,Mango,12,69,Sunny,Holiday
+2024-03-14,Fruits,Banana,69,155,Rainy,No Event
+2024-03-14,Fruits,Apple,76,138,Cloudy,No Event
+2024-03-14,Fruits,Orange,39,97,Cloudy,Holiday
+2024-03-14,Fruits,Grapes,84,180,Cloudy,Holiday
+2024-03-14,Vegetables,Tomato,24,67,Rainy,No Event
+2024-03-14,Vegetables,Potato,58,111,Cloudy,No Event
+2024-03-14,Vegetables,Onion,93,130,Cloudy,No Event
+2024-03-14,Vegetables,Carrot,76,174,Sunny,No Event
+2024-03-14,Vegetables,Spinach,90,122,Rainy,Sports Event
+2024-03-14,Dairy,Milk,23,87,Sunny,No Event
+2024-03-14,Dairy,Cheese,10,43,Rainy,No Event
+2024-03-14,Dairy,Butter,38,84,Cloudy,No Event
+2024-03-14,Dairy,Yogurt,6,105,Sunny,No Event
+2024-03-14,Dairy,Paneer,28,62,Cloudy,No Event
+2024-03-14,Beverages,Tea,82,107,Rainy,No Event
+2024-03-14,Beverages,Coffee,24,105,Sunny,No Event
+2024-03-14,Beverages,Juice,43,114,Sunny,Holiday
+2024-03-14,Beverages,Soda,56,138,Rainy,No Event
+2024-03-14,Beverages,Energy Drink,53,95,Rainy,No Event
+2024-03-14,Bakery,Bread,27,103,Rainy,Festival
+2024-03-14,Bakery,Croissant,90,161,Cloudy,No Event
+2024-03-14,Bakery,Cake,71,124,Sunny,No Event
+2024-03-14,Bakery,Biscuits,49,87,Rainy,Festival
+2024-03-14,Bakery,Muffin,82,167,Cloudy,No Event
+2024-03-14,Frozen Foods,Frozen Peas,74,152,Sunny,Festival
+2024-03-14,Frozen Foods,Ice Cream,31,52,Sunny,No Event
+2024-03-14,Frozen Foods,Frozen Pizza,90,165,Cloudy,No Event
+2024-03-14,Frozen Foods,French Fries,17,92,Rainy,Sports Event
+2024-03-14,Frozen Foods,Chicken Nuggets,32,115,Cloudy,No Event
+2024-03-14,Snacks,Chips,60,120,Cloudy,No Event
+2024-03-14,Snacks,Popcorn,8,84,Rainy,Sports Event
+2024-03-14,Snacks,Cookies,50,125,Cloudy,No Event
+2024-03-14,Snacks,Chocolates,94,190,Rainy,Holiday
+2024-03-14,Snacks,Dry Fruits,73,136,Sunny,No Event
+2024-03-15,Fruits,Mango,82,133,Rainy,No Event
+2024-03-15,Fruits,Banana,29,100,Sunny,Sports Event
+2024-03-15,Fruits,Apple,19,91,Rainy,No Event
+2024-03-15,Fruits,Orange,92,183,Sunny,No Event
+2024-03-15,Fruits,Grapes,20,74,Sunny,No Event
+2024-03-15,Vegetables,Tomato,56,87,Cloudy,No Event
+2024-03-15,Vegetables,Potato,53,124,Cloudy,No Event
+2024-03-15,Vegetables,Onion,68,95,Rainy,No Event
+2024-03-15,Vegetables,Carrot,77,169,Sunny,No Event
+2024-03-15,Vegetables,Spinach,83,153,Sunny,No Event
+2024-03-15,Dairy,Milk,75,169,Rainy,Festival
+2024-03-15,Dairy,Cheese,43,136,Sunny,No Event
+2024-03-15,Dairy,Butter,43,130,Cloudy,Sports Event
+2024-03-15,Dairy,Yogurt,40,123,Cloudy,No Event
+2024-03-15,Dairy,Paneer,17,54,Sunny,No Event
+2024-03-15,Beverages,Tea,12,79,Sunny,Holiday
+2024-03-15,Beverages,Coffee,57,103,Cloudy,No Event
+2024-03-15,Beverages,Juice,54,124,Cloudy,No Event
+2024-03-15,Beverages,Soda,55,143,Sunny,Festival
+2024-03-15,Beverages,Energy Drink,84,155,Cloudy,Sports Event
+2024-03-15,Bakery,Bread,51,142,Cloudy,No Event
+2024-03-15,Bakery,Croissant,81,162,Cloudy,Festival
+2024-03-15,Bakery,Cake,88,140,Sunny,No Event
+2024-03-15,Bakery,Biscuits,27,49,Sunny,Holiday
+2024-03-15,Bakery,Muffin,49,76,Rainy,No Event
+2024-03-15,Frozen Foods,Frozen Peas,6,75,Sunny,No Event
+2024-03-15,Frozen Foods,Ice Cream,24,95,Sunny,No Event
+2024-03-15,Frozen Foods,Frozen Pizza,31,97,Cloudy,No Event
+2024-03-15,Frozen Foods,French Fries,64,128,Cloudy,No Event
+2024-03-15,Frozen Foods,Chicken Nuggets,69,113,Cloudy,No Event
+2024-03-15,Snacks,Chips,33,96,Cloudy,No Event
+2024-03-15,Snacks,Popcorn,10,54,Cloudy,No Event
+2024-03-15,Snacks,Cookies,78,134,Cloudy,Holiday
+2024-03-15,Snacks,Chocolates,70,113,Sunny,Festival
+2024-03-15,Snacks,Dry Fruits,64,92,Rainy,No Event
+2024-03-16,Fruits,Mango,34,75,Rainy,Sports Event
+2024-03-16,Fruits,Banana,85,117,Cloudy,No Event
+2024-03-16,Fruits,Apple,49,133,Cloudy,Sports Event
+2024-03-16,Fruits,Orange,67,98,Rainy,Sports Event
+2024-03-16,Fruits,Grapes,95,156,Cloudy,Holiday
+2024-03-16,Vegetables,Tomato,9,55,Rainy,No Event
+2024-03-16,Vegetables,Potato,53,93,Sunny,Sports Event
+2024-03-16,Vegetables,Onion,62,160,Cloudy,Holiday
+2024-03-16,Vegetables,Carrot,88,132,Sunny,Holiday
+2024-03-16,Vegetables,Spinach,76,164,Rainy,No Event
+2024-03-16,Dairy,Milk,34,131,Rainy,No Event
+2024-03-16,Dairy,Cheese,35,60,Cloudy,No Event
+2024-03-16,Dairy,Butter,16,101,Sunny,Holiday
+2024-03-16,Dairy,Yogurt,40,76,Rainy,No Event
+2024-03-16,Dairy,Paneer,19,49,Cloudy,No Event
+2024-03-16,Beverages,Tea,74,159,Sunny,Festival
+2024-03-16,Beverages,Coffee,86,156,Cloudy,Holiday
+2024-03-16,Beverages,Juice,94,125,Rainy,No Event
+2024-03-16,Beverages,Soda,89,156,Sunny,No Event
+2024-03-16,Beverages,Energy Drink,44,87,Rainy,No Event
+2024-03-16,Bakery,Bread,37,79,Sunny,No Event
+2024-03-16,Bakery,Croissant,53,150,Rainy,No Event
+2024-03-16,Bakery,Cake,64,148,Sunny,No Event
+2024-03-16,Bakery,Biscuits,25,62,Rainy,No Event
+2024-03-16,Bakery,Muffin,17,60,Rainy,No Event
+2024-03-16,Frozen Foods,Frozen Peas,29,98,Rainy,No Event
+2024-03-16,Frozen Foods,Ice Cream,88,137,Rainy,No Event
+2024-03-16,Frozen Foods,Frozen Pizza,98,158,Rainy,No Event
+2024-03-16,Frozen Foods,French Fries,40,123,Sunny,No Event
+2024-03-16,Frozen Foods,Chicken Nuggets,92,189,Rainy,No Event
+2024-03-16,Snacks,Chips,35,120,Sunny,No Event
+2024-03-16,Snacks,Popcorn,82,141,Sunny,No Event
+2024-03-16,Snacks,Cookies,7,95,Rainy,No Event
+2024-03-16,Snacks,Chocolates,44,101,Rainy,No Event
+2024-03-16,Snacks,Dry Fruits,98,147,Cloudy,Holiday
+2024-03-17,Fruits,Mango,37,89,Rainy,No Event
+2024-03-17,Fruits,Banana,61,108,Rainy,No Event
+2024-03-17,Fruits,Apple,20,60,Cloudy,Holiday
+2024-03-17,Fruits,Orange,45,79,Cloudy,No Event
+2024-03-17,Fruits,Grapes,18,103,Sunny,No Event
+2024-03-17,Vegetables,Tomato,16,37,Sunny,Sports Event
+2024-03-17,Vegetables,Potato,14,76,Sunny,No Event
+2024-03-17,Vegetables,Onion,89,168,Cloudy,Sports Event
+2024-03-17,Vegetables,Carrot,77,114,Sunny,No Event
+2024-03-17,Vegetables,Spinach,78,148,Sunny,No Event
+2024-03-17,Dairy,Milk,28,85,Sunny,No Event
+2024-03-17,Dairy,Cheese,63,116,Cloudy,No Event
+2024-03-17,Dairy,Butter,27,89,Rainy,No Event
+2024-03-17,Dairy,Yogurt,45,111,Cloudy,Festival
+2024-03-17,Dairy,Paneer,69,156,Sunny,No Event
+2024-03-17,Beverages,Tea,30,72,Cloudy,No Event
+2024-03-17,Beverages,Coffee,10,64,Cloudy,No Event
+2024-03-17,Beverages,Juice,78,150,Sunny,No Event
+2024-03-17,Beverages,Soda,97,175,Cloudy,Sports Event
+2024-03-17,Beverages,Energy Drink,8,32,Cloudy,No Event
+2024-03-17,Bakery,Bread,29,126,Cloudy,Holiday
+2024-03-17,Bakery,Croissant,90,123,Cloudy,No Event
+2024-03-17,Bakery,Cake,47,102,Cloudy,Sports Event
+2024-03-17,Bakery,Biscuits,63,88,Rainy,No Event
+2024-03-17,Bakery,Muffin,98,144,Cloudy,No Event
+2024-03-17,Frozen Foods,Frozen Peas,50,110,Cloudy,Holiday
+2024-03-17,Frozen Foods,Ice Cream,22,53,Cloudy,No Event
+2024-03-17,Frozen Foods,Frozen Pizza,43,72,Rainy,No Event
+2024-03-17,Frozen Foods,French Fries,81,154,Sunny,No Event
+2024-03-17,Frozen Foods,Chicken Nuggets,13,95,Sunny,No Event
+2024-03-17,Snacks,Chips,77,168,Cloudy,No Event
+2024-03-17,Snacks,Popcorn,7,81,Cloudy,No Event
+2024-03-17,Snacks,Cookies,75,113,Rainy,No Event
+2024-03-17,Snacks,Chocolates,51,116,Sunny,No Event
+2024-03-17,Snacks,Dry Fruits,55,128,Cloudy,Holiday
+2024-03-18,Fruits,Mango,32,70,Cloudy,Holiday
+2024-03-18,Fruits,Banana,23,93,Cloudy,Festival
+2024-03-18,Fruits,Apple,47,135,Rainy,No Event
+2024-03-18,Fruits,Orange,62,89,Rainy,Sports Event
+2024-03-18,Fruits,Grapes,17,62,Rainy,No Event
+2024-03-18,Vegetables,Tomato,88,123,Sunny,Festival
+2024-03-18,Vegetables,Potato,95,193,Rainy,No Event
+2024-03-18,Vegetables,Onion,49,90,Cloudy,No Event
+2024-03-18,Vegetables,Carrot,72,145,Sunny,No Event
+2024-03-18,Vegetables,Spinach,64,156,Sunny,No Event
+2024-03-18,Dairy,Milk,59,158,Cloudy,No Event
+2024-03-18,Dairy,Cheese,59,103,Rainy,No Event
+2024-03-18,Dairy,Butter,49,141,Cloudy,No Event
+2024-03-18,Dairy,Yogurt,69,157,Sunny,No Event
+2024-03-18,Dairy,Paneer,32,96,Rainy,Holiday
+2024-03-18,Beverages,Tea,19,44,Cloudy,Sports Event
+2024-03-18,Beverages,Coffee,79,162,Rainy,Festival
+2024-03-18,Beverages,Juice,7,88,Cloudy,Sports Event
+2024-03-18,Beverages,Soda,89,146,Sunny,No Event
+2024-03-18,Beverages,Energy Drink,19,56,Sunny,No Event
+2024-03-18,Bakery,Bread,64,104,Sunny,No Event
+2024-03-18,Bakery,Croissant,22,98,Cloudy,No Event
+2024-03-18,Bakery,Cake,42,73,Cloudy,No Event
+2024-03-18,Bakery,Biscuits,88,180,Sunny,No Event
+2024-03-18,Bakery,Muffin,67,107,Cloudy,No Event
+2024-03-18,Frozen Foods,Frozen Peas,87,161,Cloudy,No Event
+2024-03-18,Frozen Foods,Ice Cream,23,104,Cloudy,No Event
+2024-03-18,Frozen Foods,Frozen Pizza,43,138,Cloudy,No Event
+2024-03-18,Frozen Foods,French Fries,38,90,Cloudy,Holiday
+2024-03-18,Frozen Foods,Chicken Nuggets,24,83,Cloudy,No Event
+2024-03-18,Snacks,Chips,35,92,Rainy,No Event
+2024-03-18,Snacks,Popcorn,13,41,Cloudy,No Event
+2024-03-18,Snacks,Cookies,26,61,Rainy,No Event
+2024-03-18,Snacks,Chocolates,42,69,Sunny,No Event
+2024-03-18,Snacks,Dry Fruits,47,112,Rainy,Sports Event
+2024-03-19,Fruits,Mango,37,100,Cloudy,Sports Event
+2024-03-19,Fruits,Banana,6,42,Sunny,No Event
+2024-03-19,Fruits,Apple,48,105,Cloudy,Sports Event
+2024-03-19,Fruits,Orange,98,123,Cloudy,No Event
+2024-03-19,Fruits,Grapes,62,138,Sunny,Sports Event
+2024-03-19,Vegetables,Tomato,63,112,Rainy,No Event
+2024-03-19,Vegetables,Potato,76,140,Rainy,No Event
+2024-03-19,Vegetables,Onion,69,165,Rainy,No Event
+2024-03-19,Vegetables,Carrot,47,144,Rainy,Festival
+2024-03-19,Vegetables,Spinach,52,126,Sunny,Sports Event
+2024-03-19,Dairy,Milk,23,51,Sunny,No Event
+2024-03-19,Dairy,Cheese,96,167,Sunny,Holiday
+2024-03-19,Dairy,Butter,40,123,Rainy,No Event
+2024-03-19,Dairy,Yogurt,72,169,Cloudy,No Event
+2024-03-19,Dairy,Paneer,92,191,Cloudy,No Event
+2024-03-19,Beverages,Tea,21,104,Rainy,No Event
+2024-03-19,Beverages,Coffee,51,149,Sunny,No Event
+2024-03-19,Beverages,Juice,6,79,Cloudy,Festival
+2024-03-19,Beverages,Soda,40,106,Cloudy,No Event
+2024-03-19,Beverages,Energy Drink,97,117,Sunny,Holiday
+2024-03-19,Bakery,Bread,32,73,Sunny,No Event
+2024-03-19,Bakery,Croissant,93,162,Cloudy,No Event
+2024-03-19,Bakery,Cake,38,96,Cloudy,No Event
+2024-03-19,Bakery,Biscuits,11,82,Cloudy,No Event
+2024-03-19,Bakery,Muffin,30,59,Sunny,Sports Event
+2024-03-19,Frozen Foods,Frozen Peas,6,102,Cloudy,No Event
+2024-03-19,Frozen Foods,Ice Cream,52,145,Rainy,Festival
+2024-03-19,Frozen Foods,Frozen Pizza,27,117,Sunny,No Event
+2024-03-19,Frozen Foods,French Fries,97,187,Cloudy,Festival
+2024-03-19,Frozen Foods,Chicken Nuggets,96,178,Cloudy,Holiday
+2024-03-19,Snacks,Chips,74,118,Sunny,Holiday
+2024-03-19,Snacks,Popcorn,90,171,Sunny,Sports Event
+2024-03-19,Snacks,Cookies,92,171,Rainy,No Event
+2024-03-19,Snacks,Chocolates,6,91,Cloudy,No Event
+2024-03-19,Snacks,Dry Fruits,60,91,Cloudy,Festival
+2024-03-20,Fruits,Mango,93,116,Rainy,No Event
+2024-03-20,Fruits,Banana,7,27,Sunny,Holiday
+2024-03-20,Fruits,Apple,52,133,Sunny,Sports Event
+2024-03-20,Fruits,Orange,38,106,Rainy,No Event
+2024-03-20,Fruits,Grapes,95,164,Sunny,Holiday
+2024-03-20,Vegetables,Tomato,82,115,Rainy,Holiday
+2024-03-20,Vegetables,Potato,8,106,Rainy,No Event
+2024-03-20,Vegetables,Onion,69,149,Rainy,No Event
+2024-03-20,Vegetables,Carrot,92,145,Sunny,No Event
+2024-03-20,Vegetables,Spinach,44,128,Cloudy,Holiday
+2024-03-20,Dairy,Milk,75,103,Sunny,No Event
+2024-03-20,Dairy,Cheese,27,89,Rainy,No Event
+2024-03-20,Dairy,Butter,55,87,Cloudy,No Event
+2024-03-20,Dairy,Yogurt,21,77,Sunny,No Event
+2024-03-20,Dairy,Paneer,88,115,Sunny,No Event
+2024-03-20,Beverages,Tea,74,137,Cloudy,No Event
+2024-03-20,Beverages,Coffee,25,86,Rainy,No Event
+2024-03-20,Beverages,Juice,33,132,Sunny,Festival
+2024-03-20,Beverages,Soda,30,102,Sunny,Festival
+2024-03-20,Beverages,Energy Drink,57,93,Rainy,No Event
+2024-03-20,Bakery,Bread,57,140,Sunny,No Event
+2024-03-20,Bakery,Croissant,75,159,Sunny,No Event
+2024-03-20,Bakery,Cake,30,51,Cloudy,Holiday
+2024-03-20,Bakery,Biscuits,9,65,Cloudy,No Event
+2024-03-20,Bakery,Muffin,98,165,Rainy,No Event
+2024-03-20,Frozen Foods,Frozen Peas,65,100,Sunny,No Event
+2024-03-20,Frozen Foods,Ice Cream,50,103,Sunny,Holiday
+2024-03-20,Frozen Foods,Frozen Pizza,79,173,Sunny,No Event
+2024-03-20,Frozen Foods,French Fries,50,142,Cloudy,Festival
+2024-03-20,Frozen Foods,Chicken Nuggets,26,74,Cloudy,No Event
+2024-03-20,Snacks,Chips,68,156,Cloudy,No Event
+2024-03-20,Snacks,Popcorn,69,150,Rainy,No Event
+2024-03-20,Snacks,Cookies,50,74,Sunny,No Event
+2024-03-20,Snacks,Chocolates,57,146,Cloudy,Holiday
+2024-03-20,Snacks,Dry Fruits,43,93,Cloudy,No Event
+2024-03-21,Fruits,Mango,42,128,Rainy,Festival
+2024-03-21,Fruits,Banana,15,59,Cloudy,No Event
+2024-03-21,Fruits,Apple,41,115,Cloudy,No Event
+2024-03-21,Fruits,Orange,99,190,Rainy,No Event
+2024-03-21,Fruits,Grapes,22,92,Rainy,Sports Event
+2024-03-21,Vegetables,Tomato,30,74,Sunny,Holiday
+2024-03-21,Vegetables,Potato,45,102,Sunny,Holiday
+2024-03-21,Vegetables,Onion,25,59,Cloudy,Holiday
+2024-03-21,Vegetables,Carrot,50,85,Rainy,No Event
+2024-03-21,Vegetables,Spinach,11,44,Rainy,No Event
+2024-03-21,Dairy,Milk,56,147,Rainy,No Event
+2024-03-21,Dairy,Cheese,73,112,Cloudy,No Event
+2024-03-21,Dairy,Butter,6,72,Rainy,Festival
+2024-03-21,Dairy,Yogurt,65,125,Rainy,No Event
+2024-03-21,Dairy,Paneer,9,92,Sunny,No Event
+2024-03-21,Beverages,Tea,40,138,Cloudy,No Event
+2024-03-21,Beverages,Coffee,38,113,Sunny,No Event
+2024-03-21,Beverages,Juice,60,96,Rainy,No Event
+2024-03-21,Beverages,Soda,86,123,Sunny,No Event
+2024-03-21,Beverages,Energy Drink,60,159,Rainy,No Event
+2024-03-21,Bakery,Bread,84,110,Rainy,Holiday
+2024-03-21,Bakery,Croissant,89,111,Cloudy,Sports Event
+2024-03-21,Bakery,Cake,74,107,Sunny,No Event
+2024-03-21,Bakery,Biscuits,97,168,Rainy,No Event
+2024-03-21,Bakery,Muffin,92,155,Cloudy,No Event
+2024-03-21,Frozen Foods,Frozen Peas,72,157,Sunny,No Event
+2024-03-21,Frozen Foods,Ice Cream,65,114,Rainy,Sports Event
+2024-03-21,Frozen Foods,Frozen Pizza,92,159,Sunny,No Event
+2024-03-21,Frozen Foods,French Fries,78,116,Cloudy,No Event
+2024-03-21,Frozen Foods,Chicken Nuggets,92,190,Sunny,No Event
+2024-03-21,Snacks,Chips,56,79,Rainy,No Event
+2024-03-21,Snacks,Popcorn,45,125,Cloudy,No Event
+2024-03-21,Snacks,Cookies,17,50,Sunny,Sports Event
+2024-03-21,Snacks,Chocolates,86,149,Rainy,No Event
+2024-03-21,Snacks,Dry Fruits,54,117,Rainy,No Event
+2024-03-22,Fruits,Mango,6,55,Rainy,No Event
+2024-03-22,Fruits,Banana,81,120,Sunny,No Event
+2024-03-22,Fruits,Apple,27,107,Cloudy,No Event
+2024-03-22,Fruits,Orange,44,122,Sunny,No Event
+2024-03-22,Fruits,Grapes,89,114,Rainy,No Event
+2024-03-22,Vegetables,Tomato,49,110,Sunny,No Event
+2024-03-22,Vegetables,Potato,79,173,Sunny,Holiday
+2024-03-22,Vegetables,Onion,15,84,Cloudy,Holiday
+2024-03-22,Vegetables,Carrot,19,113,Cloudy,No Event
+2024-03-22,Vegetables,Spinach,32,76,Sunny,Sports Event
+2024-03-22,Dairy,Milk,96,116,Cloudy,No Event
+2024-03-22,Dairy,Cheese,46,99,Rainy,No Event
+2024-03-22,Dairy,Butter,9,48,Rainy,No Event
+2024-03-22,Dairy,Yogurt,66,117,Rainy,Holiday
+2024-03-22,Dairy,Paneer,42,116,Rainy,No Event
+2024-03-22,Beverages,Tea,85,126,Cloudy,No Event
+2024-03-22,Beverages,Coffee,92,147,Rainy,No Event
+2024-03-22,Beverages,Juice,56,111,Rainy,No Event
+2024-03-22,Beverages,Soda,74,102,Sunny,Sports Event
+2024-03-22,Beverages,Energy Drink,65,124,Cloudy,No Event
+2024-03-22,Bakery,Bread,29,117,Rainy,No Event
+2024-03-22,Bakery,Croissant,95,122,Sunny,No Event
+2024-03-22,Bakery,Cake,11,102,Cloudy,Festival
+2024-03-22,Bakery,Biscuits,41,99,Rainy,No Event
+2024-03-22,Bakery,Muffin,61,99,Cloudy,No Event
+2024-03-22,Frozen Foods,Frozen Peas,79,177,Rainy,No Event
+2024-03-22,Frozen Foods,Ice Cream,71,152,Cloudy,Holiday
+2024-03-22,Frozen Foods,Frozen Pizza,24,101,Sunny,Sports Event
+2024-03-22,Frozen Foods,French Fries,83,112,Sunny,Holiday
+2024-03-22,Frozen Foods,Chicken Nuggets,33,62,Sunny,Holiday
+2024-03-22,Snacks,Chips,54,77,Sunny,No Event
+2024-03-22,Snacks,Popcorn,89,161,Rainy,Sports Event
+2024-03-22,Snacks,Cookies,83,159,Sunny,Sports Event
+2024-03-22,Snacks,Chocolates,23,86,Cloudy,No Event
+2024-03-22,Snacks,Dry Fruits,87,132,Rainy,No Event
+2024-03-23,Fruits,Mango,18,67,Cloudy,Holiday
+2024-03-23,Fruits,Banana,46,117,Cloudy,No Event
+2024-03-23,Fruits,Apple,38,96,Sunny,No Event
+2024-03-23,Fruits,Orange,41,125,Rainy,No Event
+2024-03-23,Fruits,Grapes,12,49,Sunny,No Event
+2024-03-23,Vegetables,Tomato,37,61,Rainy,No Event
+2024-03-23,Vegetables,Potato,78,133,Sunny,Holiday
+2024-03-23,Vegetables,Onion,9,62,Sunny,Festival
+2024-03-23,Vegetables,Carrot,85,126,Cloudy,No Event
+2024-03-23,Vegetables,Spinach,29,101,Sunny,No Event
+2024-03-23,Dairy,Milk,70,121,Sunny,Holiday
+2024-03-23,Dairy,Cheese,87,172,Rainy,No Event
+2024-03-23,Dairy,Butter,19,58,Rainy,No Event
+2024-03-23,Dairy,Yogurt,13,103,Rainy,No Event
+2024-03-23,Dairy,Paneer,67,121,Sunny,No Event
+2024-03-23,Beverages,Tea,60,88,Sunny,Festival
+2024-03-23,Beverages,Coffee,40,62,Rainy,No Event
+2024-03-23,Beverages,Juice,27,53,Sunny,Festival
+2024-03-23,Beverages,Soda,18,83,Cloudy,No Event
+2024-03-23,Beverages,Energy Drink,55,82,Sunny,Festival
+2024-03-23,Bakery,Bread,67,154,Rainy,No Event
+2024-03-23,Bakery,Croissant,28,53,Cloudy,No Event
+2024-03-23,Bakery,Cake,10,108,Sunny,Festival
+2024-03-23,Bakery,Biscuits,7,54,Rainy,Sports Event
+2024-03-23,Bakery,Muffin,52,151,Cloudy,No Event
+2024-03-23,Frozen Foods,Frozen Peas,71,159,Sunny,No Event
+2024-03-23,Frozen Foods,Ice Cream,28,91,Sunny,No Event
+2024-03-23,Frozen Foods,Frozen Pizza,25,120,Cloudy,No Event
+2024-03-23,Frozen Foods,French Fries,55,95,Cloudy,Festival
+2024-03-23,Frozen Foods,Chicken Nuggets,10,102,Sunny,Holiday
+2024-03-23,Snacks,Chips,82,107,Sunny,Festival
+2024-03-23,Snacks,Popcorn,60,154,Cloudy,Holiday
+2024-03-23,Snacks,Cookies,10,35,Cloudy,No Event
+2024-03-23,Snacks,Chocolates,6,81,Rainy,Festival
+2024-03-23,Snacks,Dry Fruits,74,116,Sunny,No Event
+2024-03-24,Fruits,Mango,82,138,Cloudy,No Event
+2024-03-24,Fruits,Banana,38,101,Cloudy,Sports Event
+2024-03-24,Fruits,Apple,11,51,Cloudy,No Event
+2024-03-24,Fruits,Orange,23,90,Cloudy,No Event
+2024-03-24,Fruits,Grapes,83,131,Rainy,No Event
+2024-03-24,Vegetables,Tomato,40,107,Cloudy,No Event
+2024-03-24,Vegetables,Potato,48,134,Rainy,No Event
+2024-03-24,Vegetables,Onion,90,123,Cloudy,No Event
+2024-03-24,Vegetables,Carrot,55,153,Rainy,Sports Event
+2024-03-24,Vegetables,Spinach,92,166,Cloudy,No Event
+2024-03-24,Dairy,Milk,46,76,Rainy,No Event
+2024-03-24,Dairy,Cheese,77,174,Cloudy,No Event
+2024-03-24,Dairy,Butter,57,84,Cloudy,No Event
+2024-03-24,Dairy,Yogurt,34,111,Rainy,No Event
+2024-03-24,Dairy,Paneer,66,133,Sunny,No Event
+2024-03-24,Beverages,Tea,96,185,Cloudy,Sports Event
+2024-03-24,Beverages,Coffee,79,103,Rainy,No Event
+2024-03-24,Beverages,Juice,22,69,Sunny,Sports Event
+2024-03-24,Beverages,Soda,5,70,Sunny,Holiday
+2024-03-24,Beverages,Energy Drink,95,170,Sunny,No Event
+2024-03-24,Bakery,Bread,32,67,Rainy,No Event
+2024-03-24,Bakery,Croissant,24,77,Cloudy,No Event
+2024-03-24,Bakery,Cake,27,73,Sunny,No Event
+2024-03-24,Bakery,Biscuits,25,94,Rainy,No Event
+2024-03-24,Bakery,Muffin,21,101,Rainy,No Event
+2024-03-24,Frozen Foods,Frozen Peas,91,116,Cloudy,No Event
+2024-03-24,Frozen Foods,Ice Cream,49,140,Cloudy,No Event
+2024-03-24,Frozen Foods,Frozen Pizza,27,78,Rainy,No Event
+2024-03-24,Frozen Foods,French Fries,69,117,Cloudy,No Event
+2024-03-24,Frozen Foods,Chicken Nuggets,55,85,Rainy,No Event
+2024-03-24,Snacks,Chips,10,96,Rainy,Sports Event
+2024-03-24,Snacks,Popcorn,32,128,Sunny,No Event
+2024-03-24,Snacks,Cookies,25,106,Rainy,Sports Event
+2024-03-24,Snacks,Chocolates,53,147,Cloudy,Holiday
+2024-03-24,Snacks,Dry Fruits,85,143,Cloudy,Holiday
+2024-03-25,Fruits,Mango,25,45,Sunny,No Event
+2024-03-25,Fruits,Banana,12,100,Rainy,No Event
+2024-03-25,Fruits,Apple,23,101,Cloudy,No Event
+2024-03-25,Fruits,Orange,40,114,Cloudy,No Event
+2024-03-25,Fruits,Grapes,58,125,Rainy,No Event
+2024-03-25,Vegetables,Tomato,17,52,Cloudy,No Event
+2024-03-25,Vegetables,Potato,31,95,Sunny,No Event
+2024-03-25,Vegetables,Onion,83,130,Cloudy,Festival
+2024-03-25,Vegetables,Carrot,55,120,Rainy,No Event
+2024-03-25,Vegetables,Spinach,36,81,Rainy,Holiday
+2024-03-25,Dairy,Milk,86,155,Cloudy,No Event
+2024-03-25,Dairy,Cheese,26,98,Sunny,No Event
+2024-03-25,Dairy,Butter,47,89,Sunny,No Event
+2024-03-25,Dairy,Yogurt,13,39,Sunny,No Event
+2024-03-25,Dairy,Paneer,6,29,Rainy,No Event
+2024-03-25,Beverages,Tea,6,89,Rainy,No Event
+2024-03-25,Beverages,Coffee,53,80,Cloudy,No Event
+2024-03-25,Beverages,Juice,91,142,Cloudy,No Event
+2024-03-25,Beverages,Soda,44,90,Sunny,Festival
+2024-03-25,Beverages,Energy Drink,56,90,Cloudy,No Event
+2024-03-25,Bakery,Bread,85,170,Sunny,No Event
+2024-03-25,Bakery,Croissant,65,148,Sunny,No Event
+2024-03-25,Bakery,Cake,38,112,Cloudy,No Event
+2024-03-25,Bakery,Biscuits,82,179,Rainy,Sports Event
+2024-03-25,Bakery,Muffin,5,53,Sunny,No Event
+2024-03-25,Frozen Foods,Frozen Peas,32,101,Rainy,No Event
+2024-03-25,Frozen Foods,Ice Cream,63,100,Cloudy,Festival
+2024-03-25,Frozen Foods,Frozen Pizza,20,49,Rainy,Festival
+2024-03-25,Frozen Foods,French Fries,79,149,Sunny,No Event
+2024-03-25,Frozen Foods,Chicken Nuggets,16,65,Sunny,No Event
+2024-03-25,Snacks,Chips,58,114,Sunny,No Event
+2024-03-25,Snacks,Popcorn,8,91,Cloudy,No Event
+2024-03-25,Snacks,Cookies,76,155,Cloudy,No Event
+2024-03-25,Snacks,Chocolates,35,126,Rainy,No Event
+2024-03-25,Snacks,Dry Fruits,86,109,Cloudy,No Event
+2024-03-26,Fruits,Mango,7,105,Cloudy,Festival
+2024-03-26,Fruits,Banana,37,134,Sunny,No Event
+2024-03-26,Fruits,Apple,30,57,Rainy,No Event
+2024-03-26,Fruits,Orange,14,75,Sunny,No Event
+2024-03-26,Fruits,Grapes,16,84,Rainy,Festival
+2024-03-26,Vegetables,Tomato,33,64,Rainy,No Event
+2024-03-26,Vegetables,Potato,6,84,Sunny,No Event
+2024-03-26,Vegetables,Onion,26,103,Sunny,No Event
+2024-03-26,Vegetables,Carrot,65,115,Cloudy,No Event
+2024-03-26,Vegetables,Spinach,23,95,Rainy,No Event
+2024-03-26,Dairy,Milk,26,68,Cloudy,Festival
+2024-03-26,Dairy,Cheese,7,46,Sunny,No Event
+2024-03-26,Dairy,Butter,43,134,Rainy,Sports Event
+2024-03-26,Dairy,Yogurt,31,65,Sunny,No Event
+2024-03-26,Dairy,Paneer,77,103,Sunny,No Event
+2024-03-26,Beverages,Tea,66,111,Rainy,No Event
+2024-03-26,Beverages,Coffee,45,129,Sunny,No Event
+2024-03-26,Beverages,Juice,31,57,Sunny,No Event
+2024-03-26,Beverages,Soda,16,38,Cloudy,Festival
+2024-03-26,Beverages,Energy Drink,37,102,Cloudy,No Event
+2024-03-26,Bakery,Bread,6,54,Cloudy,No Event
+2024-03-26,Bakery,Croissant,65,152,Cloudy,No Event
+2024-03-26,Bakery,Cake,66,145,Sunny,Holiday
+2024-03-26,Bakery,Biscuits,86,170,Rainy,Sports Event
+2024-03-26,Bakery,Muffin,67,134,Rainy,Festival
+2024-03-26,Frozen Foods,Frozen Peas,95,119,Rainy,Holiday
+2024-03-26,Frozen Foods,Ice Cream,85,166,Cloudy,Sports Event
+2024-03-26,Frozen Foods,Frozen Pizza,93,179,Cloudy,Sports Event
+2024-03-26,Frozen Foods,French Fries,33,126,Cloudy,No Event
+2024-03-26,Frozen Foods,Chicken Nuggets,18,105,Rainy,No Event
+2024-03-26,Snacks,Chips,81,139,Sunny,No Event
+2024-03-26,Snacks,Popcorn,32,68,Sunny,No Event
+2024-03-26,Snacks,Cookies,59,88,Rainy,Sports Event
+2024-03-26,Snacks,Chocolates,71,131,Cloudy,No Event
+2024-03-26,Snacks,Dry Fruits,46,136,Rainy,No Event
+2024-03-27,Fruits,Mango,85,119,Cloudy,No Event
+2024-03-27,Fruits,Banana,79,154,Cloudy,Sports Event
+2024-03-27,Fruits,Apple,56,85,Rainy,Festival
+2024-03-27,Fruits,Orange,33,105,Sunny,No Event
+2024-03-27,Fruits,Grapes,54,94,Cloudy,No Event
+2024-03-27,Vegetables,Tomato,80,129,Sunny,No Event
+2024-03-27,Vegetables,Potato,22,119,Rainy,Holiday
+2024-03-27,Vegetables,Onion,5,39,Cloudy,No Event
+2024-03-27,Vegetables,Carrot,36,113,Rainy,Holiday
+2024-03-27,Vegetables,Spinach,43,85,Cloudy,No Event
+2024-03-27,Dairy,Milk,70,127,Cloudy,No Event
+2024-03-27,Dairy,Cheese,71,161,Sunny,Festival
+2024-03-27,Dairy,Butter,91,155,Cloudy,No Event
+2024-03-27,Dairy,Yogurt,69,150,Cloudy,Sports Event
+2024-03-27,Dairy,Paneer,19,86,Sunny,No Event
+2024-03-27,Beverages,Tea,14,53,Rainy,Holiday
+2024-03-27,Beverages,Coffee,38,108,Rainy,No Event
+2024-03-27,Beverages,Juice,43,86,Cloudy,Sports Event
+2024-03-27,Beverages,Soda,40,130,Rainy,No Event
+2024-03-27,Beverages,Energy Drink,16,36,Rainy,No Event
+2024-03-27,Bakery,Bread,9,96,Rainy,Sports Event
+2024-03-27,Bakery,Croissant,59,117,Sunny,Sports Event
+2024-03-27,Bakery,Cake,18,92,Sunny,No Event
+2024-03-27,Bakery,Biscuits,54,145,Cloudy,No Event
+2024-03-27,Bakery,Muffin,23,100,Cloudy,No Event
+2024-03-27,Frozen Foods,Frozen Peas,8,70,Sunny,No Event
+2024-03-27,Frozen Foods,Ice Cream,5,79,Cloudy,Sports Event
+2024-03-27,Frozen Foods,Frozen Pizza,50,127,Cloudy,No Event
+2024-03-27,Frozen Foods,French Fries,87,145,Cloudy,Holiday
+2024-03-27,Frozen Foods,Chicken Nuggets,61,109,Rainy,No Event
+2024-03-27,Snacks,Chips,18,72,Rainy,No Event
+2024-03-27,Snacks,Popcorn,11,69,Cloudy,Festival
+2024-03-27,Snacks,Cookies,56,89,Cloudy,Sports Event
+2024-03-27,Snacks,Chocolates,95,138,Sunny,Holiday
+2024-03-27,Snacks,Dry Fruits,26,117,Cloudy,No Event
+2024-03-28,Fruits,Mango,68,91,Cloudy,No Event
+2024-03-28,Fruits,Banana,34,68,Rainy,No Event
+2024-03-28,Fruits,Apple,20,112,Cloudy,No Event
+2024-03-28,Fruits,Orange,31,63,Cloudy,No Event
+2024-03-28,Fruits,Grapes,90,140,Cloudy,No Event
+2024-03-28,Vegetables,Tomato,10,61,Rainy,No Event
+2024-03-28,Vegetables,Potato,93,144,Cloudy,No Event
+2024-03-28,Vegetables,Onion,43,126,Rainy,No Event
+2024-03-28,Vegetables,Carrot,35,94,Sunny,No Event
+2024-03-28,Vegetables,Spinach,40,83,Cloudy,No Event
+2024-03-28,Dairy,Milk,50,146,Rainy,Festival
+2024-03-28,Dairy,Cheese,36,91,Rainy,No Event
+2024-03-28,Dairy,Butter,84,178,Rainy,No Event
+2024-03-28,Dairy,Yogurt,80,137,Sunny,Sports Event
+2024-03-28,Dairy,Paneer,5,56,Rainy,No Event
+2024-03-28,Beverages,Tea,67,160,Cloudy,No Event
+2024-03-28,Beverages,Coffee,78,133,Sunny,No Event
+2024-03-28,Beverages,Juice,61,154,Cloudy,No Event
+2024-03-28,Beverages,Soda,83,182,Rainy,Festival
+2024-03-28,Beverages,Energy Drink,54,102,Cloudy,No Event
+2024-03-28,Bakery,Bread,31,65,Cloudy,Holiday
+2024-03-28,Bakery,Croissant,62,122,Rainy,Festival
+2024-03-28,Bakery,Cake,30,100,Sunny,No Event
+2024-03-28,Bakery,Biscuits,18,86,Sunny,No Event
+2024-03-28,Bakery,Muffin,5,81,Sunny,No Event
+2024-03-28,Frozen Foods,Frozen Peas,18,96,Sunny,No Event
+2024-03-28,Frozen Foods,Ice Cream,44,129,Rainy,No Event
+2024-03-28,Frozen Foods,Frozen Pizza,13,53,Sunny,Sports Event
+2024-03-28,Frozen Foods,French Fries,48,92,Sunny,No Event
+2024-03-28,Frozen Foods,Chicken Nuggets,30,106,Sunny,No Event
+2024-03-28,Snacks,Chips,80,123,Rainy,Sports Event
+2024-03-28,Snacks,Popcorn,91,139,Cloudy,No Event
+2024-03-28,Snacks,Cookies,91,137,Rainy,No Event
+2024-03-28,Snacks,Chocolates,39,129,Rainy,No Event
+2024-03-28,Snacks,Dry Fruits,91,125,Rainy,No Event
+2024-03-29,Fruits,Mango,8,83,Cloudy,No Event
+2024-03-29,Fruits,Banana,38,74,Rainy,No Event
+2024-03-29,Fruits,Apple,79,155,Sunny,No Event
+2024-03-29,Fruits,Orange,59,144,Rainy,No Event
+2024-03-29,Fruits,Grapes,41,128,Rainy,Festival
+2024-03-29,Vegetables,Tomato,96,182,Rainy,No Event
+2024-03-29,Vegetables,Potato,57,139,Sunny,No Event
+2024-03-29,Vegetables,Onion,35,55,Rainy,No Event
+2024-03-29,Vegetables,Carrot,88,170,Sunny,No Event
+2024-03-29,Vegetables,Spinach,22,62,Cloudy,Festival
+2024-03-29,Dairy,Milk,86,134,Sunny,Festival
+2024-03-29,Dairy,Cheese,67,113,Cloudy,No Event
+2024-03-29,Dairy,Butter,42,113,Sunny,No Event
+2024-03-29,Dairy,Yogurt,25,59,Rainy,No Event
+2024-03-29,Dairy,Paneer,36,104,Sunny,No Event
+2024-03-29,Beverages,Tea,69,159,Sunny,No Event
+2024-03-29,Beverages,Coffee,22,95,Cloudy,No Event
+2024-03-29,Beverages,Juice,70,98,Sunny,No Event
+2024-03-29,Beverages,Soda,47,117,Cloudy,No Event
+2024-03-29,Beverages,Energy Drink,39,75,Rainy,No Event
+2024-03-29,Bakery,Bread,19,107,Cloudy,Holiday
+2024-03-29,Bakery,Croissant,38,105,Cloudy,Holiday
+2024-03-29,Bakery,Cake,14,38,Sunny,Sports Event
+2024-03-29,Bakery,Biscuits,27,108,Sunny,No Event
+2024-03-29,Bakery,Muffin,24,100,Sunny,Sports Event
+2024-03-29,Frozen Foods,Frozen Peas,37,76,Rainy,No Event
+2024-03-29,Frozen Foods,Ice Cream,21,54,Cloudy,No Event
+2024-03-29,Frozen Foods,Frozen Pizza,71,134,Cloudy,No Event
+2024-03-29,Frozen Foods,French Fries,6,93,Sunny,No Event
+2024-03-29,Frozen Foods,Chicken Nuggets,98,157,Cloudy,No Event
+2024-03-29,Snacks,Chips,97,120,Rainy,No Event
+2024-03-29,Snacks,Popcorn,23,71,Cloudy,No Event
+2024-03-29,Snacks,Cookies,27,92,Cloudy,No Event
+2024-03-29,Snacks,Chocolates,56,83,Cloudy,No Event
+2024-03-29,Snacks,Dry Fruits,44,94,Sunny,Holiday
+2024-03-30,Fruits,Mango,42,97,Cloudy,No Event
+2024-03-30,Fruits,Banana,17,73,Cloudy,No Event
+2024-03-30,Fruits,Apple,75,116,Cloudy,No Event
+2024-03-30,Fruits,Orange,34,71,Rainy,Festival
+2024-03-30,Fruits,Grapes,78,136,Rainy,No Event
+2024-03-30,Vegetables,Tomato,11,99,Sunny,Sports Event
+2024-03-30,Vegetables,Potato,17,61,Rainy,No Event
+2024-03-30,Vegetables,Onion,83,181,Sunny,Holiday
+2024-03-30,Vegetables,Carrot,44,78,Cloudy,Holiday
+2024-03-30,Vegetables,Spinach,67,94,Cloudy,No Event
+2024-03-30,Dairy,Milk,36,100,Rainy,Holiday
+2024-03-30,Dairy,Cheese,86,118,Rainy,No Event
+2024-03-30,Dairy,Butter,74,155,Sunny,Holiday
+2024-03-30,Dairy,Yogurt,93,178,Rainy,No Event
+2024-03-30,Dairy,Paneer,37,88,Cloudy,No Event
+2024-03-30,Beverages,Tea,27,75,Rainy,Festival
+2024-03-30,Beverages,Coffee,94,133,Cloudy,No Event
+2024-03-30,Beverages,Juice,62,125,Sunny,No Event
+2024-03-30,Beverages,Soda,63,83,Sunny,No Event
+2024-03-30,Beverages,Energy Drink,85,156,Rainy,No Event
+2024-03-30,Bakery,Bread,8,104,Cloudy,No Event
+2024-03-30,Bakery,Croissant,13,65,Sunny,Holiday
+2024-03-30,Bakery,Cake,69,122,Cloudy,No Event
+2024-03-30,Bakery,Biscuits,83,166,Sunny,No Event
+2024-03-30,Bakery,Muffin,21,61,Sunny,No Event
+2024-03-30,Frozen Foods,Frozen Peas,8,34,Rainy,No Event
+2024-03-30,Frozen Foods,Ice Cream,14,46,Sunny,No Event
+2024-03-30,Frozen Foods,Frozen Pizza,43,81,Cloudy,Holiday
+2024-03-30,Frozen Foods,French Fries,56,122,Sunny,No Event
+2024-03-30,Frozen Foods,Chicken Nuggets,50,145,Sunny,No Event
+2024-03-30,Snacks,Chips,52,133,Rainy,No Event
+2024-03-30,Snacks,Popcorn,63,130,Cloudy,No Event
+2024-03-30,Snacks,Cookies,38,118,Rainy,No Event
+2024-03-30,Snacks,Chocolates,29,110,Rainy,No Event
+2024-03-30,Snacks,Dry Fruits,46,114,Rainy,No Event
